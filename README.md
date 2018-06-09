@@ -21,11 +21,10 @@
 遅れてくる・早く退出する場合は、 [slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channel にてcheck-in & outの内容を報告ください。
 未登録の方は方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
 
-- #general
-  - やること・やったことを報告したり、これ困ってますー！など気軽に聞く場所。
-- #bigenner
-  - プログラミング初心者が質問して助けを求めるroom
-  - どう勉強したらよいか？このエラー何？対面で教えてほしい！！など
+channel  | purpose
+---      | ---
+general  | やること・やったことを報告したり、これ困ってますー！など気軽に聞く場所。
+bigenner | プログラミング初心者が質問して助けを求めるchannel。どう勉強したらよいか？このエラー何？対面で教えてほしい！！など気軽に聞く場所。
 
 # タイムテーブル
 
