@@ -47,7 +47,7 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 
 ## check-in: 自己紹介と今日取り組むことの発表
 
-[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) #generalにて 以下の内容をポストください。
+[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容をPR出してください。
 
 2-3 min/person
 
@@ -63,11 +63,9 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 
 ## check-out: 取り組んだことの発表
 
-[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) #generalにて 以下の内容をポストください。
-
 2-3 min/person
 
-gitterの shinjuku-mokumoku/Lobby にて以下の内容についてポストください。
+[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
 
 ```
 # <name_or_handle>
@@ -127,4 +125,8 @@ Repro株式会社
 ## 会場・おやつ
 
 ![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-logo-colored.png?raw=true)
+
+# スペシャルサンクス 
+
+- [ginzarb](https://github.com/ginzarb) githubの運用を参考にさせて頂きました。:tada:
 
