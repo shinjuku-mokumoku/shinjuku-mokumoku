@@ -67,7 +67,7 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 
 2-3 min/person
 
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
+[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/<num>/yourname.md`にて以下の内容を追記し、PR出してください。
 
 ```
 # <name_or_handle>
