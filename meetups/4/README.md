@@ -37,7 +37,7 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 
 時間  | 内容
 ---   | ---
-10:30 | 開場
+10:45 | 開場
 11:00 | check-in: 自己紹介と今日取り組むことの発表
 11:30 | もくもく
 12:30 | 有志でランチ
@@ -49,7 +49,7 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 
 ## check-in: 自己紹介と今日取り組むことの発表
 
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容をPR出してください。
+[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup) の `/meetups/x/yourname.md` にて以下の内容をPR出してください。
 
 2-3 min/person
 
@@ -65,13 +65,11 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 
 ## check-out: 取り組んだことの発表
 
+[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/meetups/x/yourname.md`にて以下の内容を追記し、PR出してください。
+
 2-3 min/person
 
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/<num>/yourname.md`にて以下の内容を追記し、PR出してください。
-
 ```
-# <name_or_handle>
-
 ## 今日取り組むと宣言したこと
 
 ## 今日取り組んだ成果
@@ -82,8 +80,8 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 今後の回を良くするために、KPTを行います。
 過去の内容は以下を参照ください。
 
-- [shinjuku-mokumoku/kpt#2](https://github.com/shinjuku-mokumoku/meetup/tree/master/kpt/2.md)
-- [shinjuku-mokumoku/kpt#1](https://github.com/shinjuku-mokumoku/meetup/tree/master/kpt/1.md)
+- [shinjuku-mokumoku/kpt#2](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/tree/master/meetups/2/kpt.md)
+- [shinjuku-mokumoku/kpt#1](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/tree/master/meetups/1/kpt.md)
 
 # 設備
 
@@ -105,19 +103,19 @@ Repro株式会社
 
 こちらの建物の6Fです。
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-1.png?raw=true)
+![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-1.png?raw=true)
 
 エレベーターから降りて**左**方向にお進みください。
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-2.png?raw=true)
+![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-2.png?raw=true)
 
 エントランスからみて右手側です。
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-3.png?raw=true)
+![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-3.png?raw=true)
 
 会場にお入りください
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-4.png?raw=true)
+![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-4.png?raw=true)
 
 迷われましたら、[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channelで mention もしくは、 #shinjukumokumoku 付きでtweetくだされば反応します。
 上記slackに未登録の方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
@@ -126,73 +124,7 @@ Repro株式会社
 
 ## 会場・おやつ
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-logo-colored.png?raw=true)
-
-# スペシャルサンクス 
-
-- [ginzarb](https://github.com/ginzarb) githubの運用を参考にさせて頂きました。:tada:
-
-
-<num>/yourname.md`にて以下の内容を追記し、PR出してください。
-
-```
-# <name_or_handle>
-
-## 今日取り組むと宣言したこと
-
-## 今日取り組んだ成果
-```
-
-## 振り返り
-
-今後の回を良くするために、KPTを行います。
-過去の内容は以下を参照ください。
-
-- [shinjuku-mokumoku/kpt#2](https://github.com/shinjuku-mokumoku/meetup/tree/master/kpt/2.md)
-- [shinjuku-mokumoku/kpt#1](https://github.com/shinjuku-mokumoku/meetup/tree/master/kpt/1.md)
-
-# 設備
-
-- WiFiあります。
-- イベントスペースで淹れたてコーヒーがあります。自由に飲んで頂いて結構です。
-- 飲食可能です。フロアに自販機はありませんが、建物1Fにコンビニやマクドナルドがあります。
-- 電源あります。足りない場合は延長ケーブルお出しするのでお声がけください。
-- ディスプレイ欲しい人が居たら、オフィススペースから貸出することも可能です。お声がけください。
-- 書籍もぼちぼちありますので、こんな本ありますか？とお声がけください。イベントスペース内であればお貸しできます。
-
-# 会場・アクセス
-
-Repro株式会社
-
-- JR線「新宿駅」南口から徒歩10分
-- JR線・都営地下鉄大江戸線「代々木駅」北口から徒歩1分
-
-## アクセス
-
-こちらの建物の6Fです。
-
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-1.png?raw=true)
-
-エレベーターから降りて**左**方向にお進みください。
-
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-2.png?raw=true)
-
-エントランスからみて右手側です。
-
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-3.png?raw=true)
-
-会場にお入りください
-
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-access-4.png?raw=true)
-
-迷われましたら、[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channelで mention もしくは、 #shinjukumokumoku 付きでtweetくだされば反応します。
-上記slackに未登録の方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
-
-# スポンサー
-
-## 会場・おやつ
-
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/sponser/repro-logo-colored.png?raw=true)
+![](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/assets/images/sponsers/repro-logo-colored.png?raw=true)
 
 # スペシャルサンクス 
 
