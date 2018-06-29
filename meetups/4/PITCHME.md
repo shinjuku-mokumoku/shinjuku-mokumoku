@@ -26,16 +26,6 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## 設備
-
-- WiFiあります
-- コーヒー、自由に飲んで頂いて結構です
-- 飲食可能です。フロアに自販機はありませんが、建物1Fにコンビニやマクドナルドがあります。
-- 電源あります。足りない場合はお声がけください。
-- 書籍もぼちぼちありますので、こんな本ありますか？とお声がけください。
-
----
-
 ## スポンサー 👏
 
 会場・おやつ
@@ -44,10 +34,13 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## コミュニケーション
+## 設備
 
-slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) で mention もしくは、twitterにて #shinjukumokumoku 付きで tweetくだされば反応します。
-未登録の方は方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
+- WiFiあります
+- コーヒー、自由に飲んで頂いて結構です
+- 飲食可能です。フロアに自販機はありませんが、1Fにコンビニやマクドナルドがあります。
+- 電源あります。足りない場合はお声がけください。
+- 書籍もぼちぼちありますので、こんな本ありますか？とお声がけください。
 
 ---
 
@@ -72,6 +65,14 @@ slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) で mention �
 
 ---
 
+## 相談事があれば
+
+slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) でこんな事聞きたいなどお声がけください
+
+未登録の方は方は https://shinjuku-mokumoku.herokuapp.com より登録ください 🙏
+
+---
+
 ## ランチ
 
 TBD
@@ -82,5 +83,5 @@ TBD
 
 早速、一人あたり2-3分ぐらいで自己紹介と今日取り組むことの発表です 👏
 
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup) の `/meetups/<num>/aretoky.md` を参考にPRを出しておいてください 🙏
+[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku)
 
