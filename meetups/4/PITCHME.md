@@ -1,4 +1,4 @@
-## Shinjukuもくもくプログラミング #4
+## Shinjukuもくもく #4
 
 ![](/assets/images/shinjuku-mokumoku-banner.png)
 

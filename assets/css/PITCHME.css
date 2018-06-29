@@ -1,6 +1,4 @@
-# Layout
-layout : center-top
-
-# Look-and-Feel
-theme : sky
-theme-override : /assets/css/PITCHME.css
+.reveal section img {
+  border: 0px;
+  max-height: 300px;
+}
