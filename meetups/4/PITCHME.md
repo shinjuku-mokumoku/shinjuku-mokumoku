@@ -1,6 +1,6 @@
 ## Shinjukuもくもくプログラミング #4
 
-![](/assets/images/shinjuku-mokumoku-logo.png)
+![](/assets/images/shinjuku-mokumoku-banner.png)
 
 Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
 
