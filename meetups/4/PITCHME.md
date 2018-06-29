@@ -20,9 +20,11 @@ Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
 
 ---
 
-## check-in & out
+## Check-In & Out
 
-ついつい差し込み業務をしてしまうので、check-inにてやることを宣言し、check-outにて成果を発表します 👐
+ついつい差し込み業務をしてしまう💦 
+
+check-inにてやることを宣言し、check-outにて成果を発表します 💪
 
 ---
 
