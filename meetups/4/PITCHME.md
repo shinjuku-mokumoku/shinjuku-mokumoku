@@ -1,4 +1,4 @@
-## Shinjukuもくもく #4
+## Shinjuku mokumoku #4
 
 ![](/assets/images/shinjuku-mokumoku-banner.png)
 
@@ -6,13 +6,13 @@ Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
 
 ---
 
-## shinjuku mokumoku とは？
+## What is shinjuku mokumoku?
 
 １人だとプログラミングをサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作りたいという理由によって 2018-05-19 より隔週で開催されているもくもく会です。
 
 ---
 
-## ~~サボりそうな~~ 発起人たち
+## ~~サボりそうな~~ 発起人
 
 @threetreeslight | @aretoky
 :---: | :---:
@@ -20,13 +20,13 @@ Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
 
 ---
 
-## つい業務をしてしまうので
+## check-in & out
 
-check-inにてやることを宣言し、check-outにて成果を発表します 👐
+ついつい差し込み業務をしてしまうので、check-inにてやることを宣言し、check-outにて成果を発表します 👐
 
 ---
 
-## スポンサー 👏
+## Sponsers 👏
 
 会場・おやつ
 
@@ -34,7 +34,7 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## 設備
+## Facilities
 
 - WiFiあります
 - コーヒー、自由に飲んで頂いて結構です
@@ -44,7 +44,7 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## タイムテーブル
+## Time table
 
 - 11:00 check-in: 自己紹介と今日取り組むことの発表
 - 11:30 もくもく
@@ -55,15 +55,15 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## 相談事があれば
+## Communication
 
-slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) でこんな事聞きたいなどお声がけください
+せっかくのプログラマー同士、困ったときには助け合いましょう✨
 
-未登録の方は方は https://shinjuku-mokumoku.herokuapp.com より登録ください 🙏
+何か有りましたら slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) でこんな事聞きたいなどお声がけください
 
 ---
 
-## ランチ
+## Lunch
 
 TBD
 
@@ -77,7 +77,7 @@ TBD
 
 ---
 
-## もし👀
+## if... 👀
 
 遅れてくる・早く退出する場合は、 [slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channel にてcheck-in & outの内容を報告ください。
 
