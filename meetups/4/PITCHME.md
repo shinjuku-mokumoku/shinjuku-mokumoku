@@ -87,6 +87,5 @@ TBD
 
 # 💪 
 
-Lets mokumoku!
+Let's mokumoku!
 
----
