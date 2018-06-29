@@ -55,16 +55,6 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## 遅れてくる・早く退出する場合
-
-遅れてくる・早く退出する場合は、 [slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channel にてcheck-in & outの内容を報告ください。
-
-未登録の方は方はこちら
-
-👉 https://shinjuku-mokumoku.herokuapp.com
-
----
-
 ## 相談事があれば
 
 slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) でこんな事聞きたいなどお声がけください
@@ -85,3 +75,14 @@ TBD
 
 [shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku)
 
+---
+
+## もし👀
+
+遅れてくる・早く退出する場合は、 [slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channel にてcheck-in & outの内容を報告ください。
+
+---
+
+# 💪 Lets mokumoku! 💪
+
+---
