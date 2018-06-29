@@ -46,22 +46,19 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## コミュニケーション
 
-質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) で mention もしくは、twitterにて #shinjukumokumoku 付きで tweetくだされば反応します。
+slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) で mention もしくは、twitterにて #shinjukumokumoku 付きで tweetくだされば反応します。
 未登録の方は方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
 
 ---
 
 ## タイムテーブル
 
-時間  | 内容
----   | ---
-10:30 | 開場
-11:00 | check-in: 自己紹介と今日取り組むことの発表
-11:30 | もくもく
-12:30 | 有志でランチ
-13:30 | もくもく
-17:00 | check-out: 取り組んだことの発表・会の振り返り
-17:30 | 片付け・解散
+- 11:00 check-in: 自己紹介と今日取り組むことの発表
+- 11:30 もくもく
+- 12:30 有志でランチ
+- 13:30 もくもく
+- 17:00 check-out: 取り組んだことの発表・会の振り返り
+- 17:30 片付け・解散
 
 ---
 
