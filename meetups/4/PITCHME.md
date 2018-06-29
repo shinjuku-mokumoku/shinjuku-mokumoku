@@ -6,23 +6,23 @@ Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
 
 ---
 
-## shinjukuプログラミングもくもく とは？
+## shinjuku mokumoku とは？
 
 １人だとプログラミングをサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作りたいという理由によって 2018-05-19 より隔週で開催されているもくもく会です。
 
 ---
 
-## サボりそうな発端オーガナイザー
+## ~~サボりそうな~~ 発起人たち
 
 @threetreeslight | @aretoky
---- | ---
+:---: | :---:
 ![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4)
 
 ---
 
-## 圧倒的やる気を出す
+## つい業務をしてしまうので
 
-自身にプレッシャーを与えるためにも成果発表が必要だと考え、check-inにてやることを宣言し、check-outにて成果を発表します 👐
+check-inにてやることを宣言し、check-outにて成果を発表します 👐
 
 ---
 
