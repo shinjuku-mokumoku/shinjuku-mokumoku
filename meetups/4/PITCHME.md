@@ -57,11 +57,35 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## Communication
+## Check-In
 
-せっかくのプログラマー同士、困ったときには助け合いましょう✨
+一人あたり2-3分ぐらいで自己紹介と今日取り組むことの発表です 👏
 
-何か有りましたら slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) でこんな事聞きたいなどお声がけください
+[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
+
+```
+# <name_or_handle>
+
+## 会社や業務で普段やっていること
+
+## 今日取り組むこと
+
+## (option) 相談するかもしれないこと
+```
+
+---
+
+## Check-Out
+
+取り組んだことの発表、一人あたり2-3分ぐらいで発表します 👏
+
+[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
+
+```
+## 今日取り組むと宣言したこと
+
+## 今日取り組んだ成果
+```
 
 ---
 
@@ -71,17 +95,25 @@ TBD
 
 ---
 
-## check-in
+## Communication
 
-早速、一人あたり2-3分ぐらいで自己紹介と今日取り組むことの発表です 👏
+せっかくのプログラマー同士、困ったときには助け合いましょう✨
 
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku)
+何か有りましたら slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) でこんな事聞きたいなどお声がけください
 
 ---
 
 ## if... 👀
 
 遅れてくる・早く退出する場合は、 [slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channel にてcheck-in & outの内容を報告ください。
+
+---
+
+## Check-In
+
+早速 check-in を始めます! 
+
+[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)
 
 ---
 
