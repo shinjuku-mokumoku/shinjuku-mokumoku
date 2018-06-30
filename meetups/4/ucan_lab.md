@@ -16,3 +16,11 @@ Nuxt.jsのチュートリアル的なものを進めます。
 
 Nuxt詳しい人がいたら教えてください！
 
+## 今日取り組むと宣言したこと
+
+Nuxt.jsのチュートリアルをする。
+
+## 今日取り組んだ成果
+
+Nuxt.jsのチュートリアル完了！
+[ucan-lab/nuxt-hello](https://github.com/ucan-lab/nuxt-hello)
