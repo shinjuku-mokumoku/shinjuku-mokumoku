@@ -1,0 +1,6 @@
+# Layout
+layout : middle-center
+
+# Look-and-Feel
+theme : sky
+theme-override : /assets/css/PITCHME.css
