@@ -14,3 +14,10 @@
 
 Cloud Functionsについて
 
+## 今日取り組むと宣言したこと
+
+GraphQLをGCPにのせる
+
+## 今日取り組んだ成果
+
+Typescript + Express + GraphQLのざっくりとした実装の雰囲気を掴んだ
