@@ -1,4 +1,4 @@
-## Shinjuku mokumoku #5
+## Shinjuku mokumoku #6
 
 ![](/assets/images/shinjuku-mokumoku-banner.png)
 
