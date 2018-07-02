@@ -16,6 +16,7 @@
 明日開催される旨や、参加者は事前に自己紹介PRを出しておいてほしい旨のリマインド
 
 subject: 明日はshinjukuもくもくプログラミングです！
+
 To: Event Admins, Presenter, Attendees, Waitlist
 
 Body:
