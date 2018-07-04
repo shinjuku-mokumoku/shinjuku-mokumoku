@@ -12,9 +12,11 @@
 - 数学や統計を学び直す、論文を読む
 - OSS活動やプライベートプロダクトを集中して進めたい
 
-また、自身にプレッシャーを与えるためにも成果発表が必要だと考え、check-inにてやることを宣言し、check-outにて成果を発表します。
+# やってること
 
-質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) で mention もしくは、twitterにて #shinjukumokumoku 付きで tweetくだされば反応します。
+ - また、自身にプレッシャーを与えるためにも成果発表が必要だと考え、check-inにてやることを宣言し、check-outにて成果を発表します。
+ - 質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) で mention もしくは、twitterにて #shinjukumokumoku 付きで tweetくだされば反応します。
+
 # コミュニケーション
 
 遅れてくる・早く退出する場合は、 [slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channel にてcheck-in & outの内容を報告ください。
@@ -124,3 +126,6 @@ Repro株式会社
 
 - [ginzarb](https://github.com/ginzarb) githubの運用を参考にさせて頂きました。:tada:
 
+# 注意事項
+
+ - 写真撮影を許可しています。写りたくない人が居たら事前にお知らせください。

@@ -107,9 +107,11 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## if... 👀
+## Notice... 👀
 
 遅れてくる・早く退出する場合は、 [slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channel にてcheck-in & outの内容を報告ください 🙏
+
+写真撮影を許可しています。写りたくない人が居たら事前にお知らせください。
 
 ---
 
