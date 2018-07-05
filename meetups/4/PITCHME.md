@@ -105,9 +105,11 @@ uber eatsで好きに頼んで、頼んで集まってワイワイ食べまし�
 
 ---
 
-## if... 👀
+## Notice... 👀
 
 遅れてくる・早く退出する場合は、 [slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channel にてcheck-in & outの内容を報告ください。
+
+わいわいやってる雰囲気を見せたいので写真撮影があります。写りたくないという方は事前にお知らせください。
 
 ---
 

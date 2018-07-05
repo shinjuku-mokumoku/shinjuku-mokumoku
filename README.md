@@ -16,6 +16,8 @@
 
 また、自身にプレッシャーを与えるためにも成果発表が必要だと考え、check-inにてやることを宣言し、check-outにて成果を発表します。
 
+※わいわいやってる雰囲気を見せたいので写真撮影があります。写りたくないという方は事前にお知らせください。
+
 質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) で mention もしくは、twitterにて #shinjukumokumoku 付きで tweetくだされば反応します。
 
 未登録の方は方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
