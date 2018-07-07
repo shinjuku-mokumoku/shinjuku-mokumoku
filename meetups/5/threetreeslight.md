@@ -30,4 +30,4 @@
 - kubernatesからcontainer metricなどいい感じに取得できるようになったが大量にメトリックが有りすぎて、どれ使うとよいかいまいちピンときていない感じです。
 
 ## 今日取り組んだ成果
-
+https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/5
