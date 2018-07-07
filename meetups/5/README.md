@@ -46,8 +46,11 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 
 # ランチ
 13時頃に外で食べに行く人は4,5人ずつ集まっていこうとおもいます。
+
 13時〜14時は鍵閉めてしまっている可能性があるので気をつけてください。
+
 もし来てしまったら[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)までご連絡ください
+
 なるべく早く戻ります。
 
 # check-in & out
