@@ -48,9 +48,13 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 
 13時頃に外で食べに行く人は4,5人ずつ集まっていこうと思います。
 
+[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)に近場のお店一覧とアンケートをお送りするので
+
+12:50までに行きたいお店を押してください。(外に行かない選択肢もあります)
+
 13時〜14時は鍵閉めてしまっている可能性があるので気をつけてください。
 
-もし来てしまったら[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)までご連絡ください
+もし来てしまったら[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)までご連絡ください
 
 なるべく早く戻ります。
 
@@ -87,7 +91,7 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 ## 振り返り
 
 今後の回を良くするために、KPTを行います。
-過去の内容は [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) を参照くださいk
+過去の内容は [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) を参照ください
 
 # 設備
 
