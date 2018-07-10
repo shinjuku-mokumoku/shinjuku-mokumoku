@@ -94,9 +94,15 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 13時頃に外で食べに行く人は4,5人ずつ集まっていこうと思います。
 
+[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)に近場のお店一覧とアンケートを出すので
+
+12:50までに行きたいお店を押してください。
+
+(ランチ参加は強制ではありません。自分で買ってきたり、そのまま作業を続行するのもOKです)
+
 13時〜14時は鍵閉めてしまっている可能性があるので気をつけてください。
 
-もし来てしまったら[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)までご連絡ください
+もし来てしまったら[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)までご連絡ください
 
 なるべく早く戻ります。
 
