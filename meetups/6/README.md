@@ -25,7 +25,20 @@
 channel  | purpose
 ---      | ---
 general  | やること・やったことを報告したり、これ困ってますー！など気軽に聞く場所。
-bigenner | プログラミング初心者が質問して助けを求めるchannel。どう勉強したらよいか？このエラー何？対面で教えてほしい！！など気軽に聞く場所。
+beginner | プログラミング初心者が質問して助けを求めるchannel。どう勉強したらよいか？このエラー何？対面で教えてほしい！！など気軽に聞く場所。
+
+
+## 質問テンプレート
+
+以下のような質問テンプレートを使うと答える側も答えやすいかもしれません。ご活用ください
+
+```
+* OSは何？
+* なんの言語・技術？
+* バージョン？
+* 緊急度（ゆる募など）
+* 質問詳細
+```
 
 # タイムテーブル
 
@@ -48,9 +61,13 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 
 13時頃に外で食べに行く人は4,5人ずつ集まっていこうと思います。
 
+[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)に近場のお店一覧とアンケートを出すので12:50までに行きたいお店を押してください。
+
+ランチ参加は強制ではありません。自分で買ってきたり、そのまま作業を続行するのもOKです
+
 13時〜14時は鍵閉めてしまっている可能性があるので気をつけてください。
 
-もし来てしまったら[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)までご連絡ください
+もし来てしまったら[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)までご連絡ください
 
 なるべく早く戻ります。
 
@@ -87,7 +104,7 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 ## 振り返り
 
 今後の回を良くするために、KPTを行います。
-過去の内容は [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) を参照くださいk
+過去の内容は [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) を参照ください
 
 # 設備
 

@@ -27,6 +27,18 @@ channel  | purpose
 general  | やること・やったことを報告したり、これ困ってますー！など気軽に聞く場所。
 bigenner | プログラミング初心者が質問して助けを求めるchannel。どう勉強したらよいか？このエラー何？対面で教えてほしい！！など気軽に聞く場所。
 
+## Template for Ask
+
+以下のような質問テンプレートを使うと答える側も答えやすいかもしれません。ご活用ください。
+
+```
+* OSは何？
+* なんの言語・技術？
+* バージョン？
+* 緊急度（ゆる募など）
+* 質問詳細
+```
+
 ## meetups
 
 1. [README](/meetups/1/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F1) / [kpt](/meetups/1/kpt.md)
