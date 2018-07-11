@@ -1,0 +1,1250 @@
+Request: Optional(https://novel18.syosetu.com/n4021em/)
+Response: Optional(<NSHTTPURLResponse: 0x6040002285a0> { URL: https://novel18.syosetu.com/n4021em/ } { Status Code: 200, Headers {
+    Connection =     (
+        close
+    );
+    "Content-Encoding" =     (
+        gzip
+    );
+    "Content-Length" =     (
+        11965
+    );
+    "Content-Type" =     (
+        "text/html"
+    );
+    Date =     (
+        "Wed, 04 Jul 2018 23:11:09 GMT"
+    );
+    Server =     (
+        Apache
+    );
+    "Set-Cookie" =     (
+        "ks2=tvfpgdup3s2a; expires=Thu, 04-Jul-2019 23:11:09 GMT; path=/; domain=.syosetu.com"
+    );
+    Vary =     (
+        "Accept-Encoding"
+    );
+} })
+Result: FAILURE
+Data: <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>何度転生しても月を見る</title>
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="format-detection" content="telephone=no" />
+
+<meta name="WWWC" content="2018/05/11 10:58" /><meta name="description" content="好き好き過ぎてヤンデレになっちゃった前世の記憶を持つ年下くん// 無料オンライン小説です" /><link rel="shortcut icon" href="https://static.syosetu.com/view/images/narou.ico" />
+<link rel="icon" href="https://static.syosetu.com/view/images/narou.ico" />
+<link rel="alternate" href="http://nkx.syosetu.com/n4021em/" media="handheld" />
+<link href="https://api.syosetu.com/writernovel/x9955z.Atom" rel="alternate" type="application/atom+xml" title="Atom" />
+<link rel="stylesheet" type="text/css" href="https://static.syosetu.com/view/css/lib/jquery.hina.css?oyb9lo" media="screen,print" />
+
+<link rel="stylesheet" type="text/css" href="https://static.syosetu.com/view/css/lib/tippy.css?ov2lia" media="screen,print" /><link rel="stylesheet" type="text/css" href="https://static.syosetu.com/novelview/css/siori_toast_pc.css?oyb9lq" media="screen,print" /><link rel="stylesheet" type="text/css" href="https://static.syosetu.com/view/css/lib/remodal.css?oqe20g" media="screen,print" /><link rel="stylesheet" type="text/css" href="https://static.syosetu.com/view/css/lib/remodal-default_pc-theme.css?oyez8w" media="screen,print" /><link rel="stylesheet" type="text/css" href="https://static.syosetu.com/novelview/css/remodal_pc.css?oyh9he" media="screen,print" /><link rel="stylesheet" type="text/css" href="https://sbo.syosetu.com/20180427/ncout.css" media="screen,print" />
+<script type="text/javascript"><!--
+var domain = 'syosetu.com';
+function wOpen(URL,NAME,OPTION){WO1 = window.open(URL,NAME,OPTION);WO1.window.focus();}
+//--></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://static.syosetu.com/view/js/lib/jquery.hina.js?oyez8w"></script>
+<script type="text/javascript" src="https://static.syosetu.com/view/js/global.js?oyez8w"></script>
+<script type="text/javascript" src="https://static.syosetu.com/novelview/js/novelview.js?p4feug"></script>
+
+<script type="text/javascript" src="https://static.syosetu.com/view/js/lib/jquery.readmore.js?o7mki8"></script><script type="text/javascript" src="https://static.syosetu.com/view/js/lib/tippy.min.js?oqe1mv"></script><script type="text/javascript" src="https://static.syosetu.com/novelview/js/novel_bookmarkmenu.js?oyb9lp"></script><script type="text/javascript" src="https://static.syosetu.com/view/js/lib/remodal.min.js?oqe1mv"></script><!-- testutttt -->
+
+
+<script type="text/javascript">
+var microadCompass = microadCompass || {};
+microadCompass.queue = microadCompass.queue || [];
+</script>
+<script type="text/javascript" charset="UTF-8" src="//j.microad.net/js/compass.js" onload="new microadCompass.AdInitializer().initialize();" async></script>
+
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+
+<rdf:Description
+rdf:about="https://novel18.syosetu.com/n4021em/
+dc:identifier="https://novel18.syosetu.com/n4021em/"
+dc:title="何度転生しても月を見る"
+trackback:ping="https://trackback.syosetu.com/send/novel/ncode/1163905/" />
+</rdf:RDF>
+-->
+
+
+
+</head>
+<body onload="initRollovers();">
+
+<a id="pageBottom" href="#footer">↓</a>
+<div id="novel_header">
+<ul id="head_nav">
+<li id="login">
+<a href="https://ssl.syosetu.com/login/input/"><span class="attention">ログイン</span></a>
+</li>
+<li><a href="https://novel18.syosetu.com/novelview/infotop/ncode/n4021em/">小説情報</a></li>
+<li><a href="https://novelcom18.syosetu.com/impression/list/ncode/1163905/">感想</a></li>
+<li><a href="https://novelcom18.syosetu.com/novelreview/list/ncode/1163905/">レビュー</a></li>
+<li><a href="https://pdfnovels.net/n4021em/" class="menu" target="_blank">縦書きPDF</a></li>
+
+
+<li>
+<a
+
+href="https://twitter.com/intent/tweet?text=%E3%80%90R18%E3%80%91%E4%BD%95%E5%BA%A6%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%A6%E3%82%82%E6%9C%88%E3%82%92%E8%A6%8B%E3%82%8B&amp;url=https%3A%2F%2Fnovel18.syosetu.com%2Fn4021em%2F&amp;hashtags=narou%2CnarouN4021EM">
+
+<img src="https://static.syosetu.com/novelview/img/Twitter_logo_blue.png?nrkioy" class="menu" style="margin-left:7px; margin-right:7px;" height="20px" />
+</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</li></ul>
+
+<div id="novelnavi_right">
+<div class="toggle" id="menu_on">表示調整</div>
+<div class="toggle_menuclose" id="menu_off">閉じる</div>
+
+<div class="novelview_navi">
+<img src="https://static.syosetu.com/novelview/img/novelview_on.gif?n7nper" width="100" height="20" style="cursor:pointer;" onclick="sasieclick(true);" id="sasieflag" alt="挿絵表示切替ボタン" />
+<script type="text/javascript"><!--
+sasieinit();
+//--></script>
+
+<div class="color">
+▼配色<br />
+<label><input type="radio" value="0" name="colorset" />指定なし(作者設定優先)</label><br />
+<label><input type="radio" value="1" name="colorset" />標準設定</label><br />
+<label><input type="radio" value="2" name="colorset" />ブラックモード</label><br />
+<label><input type="radio" value="3" name="colorset" />ブラックモード2</label><br />
+<label><input type="radio" value="4" name="colorset" />通常[1]</label><br />
+<label><input type="radio" value="5" name="colorset" />通常[2]</label><br />
+<label><input type="radio" value="6" name="colorset" />シンプル</label><br />
+<label><input type="radio" value="7" name="colorset" />おすすめ設定</label>
+</div>
+
+
+▼メニューバー<br />
+<label><input type="checkbox" name="fix_menu_bar" />追従</label>
+<span id="menu_off_2">×閉じる</span>
+
+</div><!--novelview_navi-->
+</div><!-- novelnavi_right -->
+
+</div><!--novel_header-->
+
+<div id="container">
+<div class="toaster bookmarker_addend" id="toaster_success">
+<strong>しおりの位置情報を変更しました</strong>
+</div>
+<div class="toaster bookmarker_error" id="toaster_error">
+<strong>エラーが発生しました</strong><br />
+<div class="text-right">
+<a href="#" class="toaster_close">閉じる</a>
+</div>
+</div>
+
+<div class="narou_modal" data-remodal-id="add_bookmark">
+<div class="close" id="add_bookmark_modal_close"></div>
+
+<div class="scroll">
+<p class="fav_noveltitle" id="add_bookmark_title"></p>
+<p class="mes">ブックマークしました。</p>
+
+<div class="favnovelmain_update">
+<h3>設定</h3>
+<p>
+<input type="checkbox" name="isnotice" value="1"  />更新通知
+<span class="left10" id="isnoticecnt">0/400</span>
+</p>
+
+<p>
+<label><input type="radio" name="jyokyo" class="bookmark_jyokyo" value="2"  checked="checked" />公開</label>
+<label><input type="radio" name="jyokyo" class="bookmark_jyokyo left10" value="1"  />非公開</label>
+</p>
+
+<div class="toaster bookmarker_addend" id="bookmark_save_toaster">
+<strong>設定を保存しました</strong>
+</div>
+
+<div class="toaster bookmarker_error" id="bookmark_save_err_toaster">
+<strong>エラーが発生しました</strong>
+<div id="bookmark_save_errmsg"></div>
+<div class="text-right">
+<a href="#" class="toaster_close">閉じる</a>
+</div>
+</div>
+
+<p>
+カテゴリ
+<select name="categoryid" id="category_select"></select>
+</p>
+
+<input type="button" class="button toast" value="設定を保存する" id="bookmark_setting_submit" />
+<input type="hidden" id="bookmark_setting_url" value="https://syosetu.com/favnovelmain/updateajax/" />
+<input type="hidden" id="bookmark_setting_useridfavncode" value="" />
+<input type="hidden" id="bookmark_setting_xidfavncode" value="" />
+<input type="hidden" id="bookmark_setting_token" value="" />
+</div>
+<!-- favnovelmain_update -->
+
+<a href="//syosetu.com/favnovelmain18/list/" class="button" id="modal_bookmark_btn">ブックマークへ</a>
+<input type="hidden" value="//syosetu.com/favnovelmain18/list/" id="base_bookmark_url">
+</div><!-- scroll -->
+</div>
+<!-- narou_modal -->
+
+<div class="narou_modal" data-remodal-id="delconf_bookmark">
+<div class="close" id="delconf_bookmark_modal_close"></div>
+
+<div class="scroll">
+<p class="mes">以下のブックマークを解除します。<br />よろしければ[解除]を押してください。</p>
+<p class="fav_noveltitle" id="delconf_bookmark_title"></p>
+<input class="button" type="button" value="解除" id="delconf_bookmark_submit" />
+<input type="hidden" name="del_bookmark_url" value="https://syosetu.com/favnovelmain/deleteajax/" />
+<input type="hidden" name="del_bookmark_token" id="del_bookmark_token" value="" />
+</div><!-- scroll -->
+</div>
+
+<div class="narou_modal" data-remodal-id="delend_bookmark">
+<div class="close" id="delend_bookmark_modal_close"></div>
+<p class="mes">ブックマークを解除しました。</p>
+</div>
+
+<div class="narou_modal modal_error" data-remodal-id="error_modal">
+<div class="close" id="error_modal_close"></div>
+
+<div class="scroll">
+<p class="mes err">エラーが発生しました。</p>
+<div id="modal_err_mes" class="err"></div>
+<p class="guide">エラーの原因がわからない場合は<a href="https://syosetu.com/help/top/" target="_blank">ヘルプ</a>(Q&A)や<a href="https://syosetu.com/site/man/" target="_blank">各種マニュアル</a>をご確認ください。</p>
+</div><!-- scroll -->
+</div>
+
+<div class="contents1">
+
+<span class="attention">＜R18＞</span>
+18歳未満の方は<a href="https://syosetu.com">移動</a>してください。
+
+この作品には
+〔ボーイズラブ要素〕〔残酷描写〕
+が含まれています。
+
+</div><!--contents1-->
+
+<div id="novel_contents">
+<div id="novel_color">
+
+
+<p class="novel_title">何度転生しても月を見る</p>
+
+
+<div class="novel_writername">
+作者：シュラハト
+</div><!--novel_writername-->
+
+
+<div id="novel_ex">好き好き過ぎてヤンデレになっちゃった前世の記憶を持つ年下くん(受)<br />
+と<br />
+前世年下くんを嫁にした彼女がいる年上くん(攻)<br />
+年上くんに呪い(まじないとも言う)を掛けたのに全然思い出してくれないし何より自分のことより大切な人が出来たって…おこだよ？<br />
+……な話<br />
+<br />
+</div>
+
+
+
+
+<div class="index_box">
+
+<dl class="novel_sublist2">
+<dd class="subtitle">
+<a href="/n4021em/1/">【プロローグ】</a>
+</dd>
+<dt class="long_update">
+2018/01/06 10:18
+</dt>
+</dl>
+
+<dl class="novel_sublist2">
+<dd class="subtitle">
+<a href="/n4021em/2/">「みーつけた」</a>
+</dd>
+<dt class="long_update">
+2018/01/14 21:43
+<span title="2018/01/21 15:24 改稿">
+（<u>改</u>）</span>
+</dt>
+</dl>
+
+<dl class="novel_sublist2">
+<dd class="subtitle">
+<a href="/n4021em/3/">二人での生活</a>
+</dd>
+<dt class="long_update">
+2018/01/21 16:19
+<span title="2018/01/31 20:12 改稿">
+（<u>改</u>）</span>
+</dt>
+</dl>
+
+<dl class="novel_sublist2">
+<dd class="subtitle">
+<a href="/n4021em/4/">名前</a>
+</dd>
+<dt class="long_update">
+2018/02/01 09:17
+</dt>
+</dl>
+
+<dl class="novel_sublist2">
+<dd class="subtitle">
+<a href="/n4021em/5/">夕飯</a>
+</dd>
+<dt class="long_update">
+2018/02/01 09:19
+<span title="2018/02/09 16:11 改稿">
+（<u>改</u>）</span>
+</dt>
+</dl>
+
+<dl class="novel_sublist2">
+<dd class="subtitle">
+<a href="/n4021em/6/">就寝まで</a>
+</dd>
+<dt class="long_update">
+2018/03/04 22:04
+<span title="2018/03/11 17:37 改稿">
+（<u>改</u>）</span>
+</dt>
+</dl>
+
+<dl class="novel_sublist2">
+<dd class="subtitle">
+<a href="/n4021em/7/">とある魔法使いのおはなし</a>
+</dd>
+<dt class="long_update">
+2018/03/11 18:58
+</dt>
+</dl>
+
+<dl class="novel_sublist2">
+<dd class="subtitle">
+<a href="/n4021em/8/">真夜中</a>
+</dd>
+<dt class="long_update">
+2018/03/29 07:31
+</dt>
+</dl>
+
+<dl class="novel_sublist2">
+<dd class="subtitle">
+<a href="/n4021em/9/">いつまで</a>
+</dd>
+<dt class="long_update">
+2018/04/21 01:05
+<span title="2018/05/01 23:37 改稿">
+（<u>改</u>）</span>
+</dt>
+</dl>
+
+<dl class="novel_sublist2">
+<dd class="subtitle">
+<a href="/n4021em/10/">とある村の主のおはなし</a>
+</dd>
+<dt class="long_update">
+2018/05/11 10:58
+<span title="2018/05/23 22:13 改稿">
+（<u>改</u>）</span>
+</dt>
+</dl>
+</div><!--index_box-->
+
+</div><!--novel_color-->
+
+
+
+
+
+<div class="koukoku_auto">
+
+<div id="2a8c363162442b55522a79b1e414297e" >
+<script type="text/javascript">
+microadCompass.queue.push({
+"spot": "2a8c363162442b55522a79b1e414297e",
+"url": "${COMPASS_EXT_URL}",
+"referrer": "${COMPASS_EXT_REF}"
+});
+</script>
+</div>
+
+</div><!--koukoku_auto-->
+
+
+
+<div id="novel_attention">
++注意+<br />
+<span class="attention">特に記載なき場合、掲載されている小説はすべてフィクションであり実在の人物・団体等とは一切関係ありません。<br />
+特に記載なき場合、掲載されている小説の著作権は作者にあります(一部作品除く)。<br />
+作者以外の方による小説の引用を超える無断転載は禁止しており、行った場合、著作権法の違反となります。<br />
+</span><br />
+この小説はリンクフリーです。ご自由にリンク(紹介)してください。<br />
+この小説はケータイ対応です。ケータイかパソコンかを自動で判別し、適切なページを表示します。<br />
+小説の読了時間は毎分500文字を読むと想定した場合の時間です。目安にして下さい。
+</div><!--novel_attention-->
+
+
+<div id="novel_footer">
+<ul class="undernavi">
+<li><a href="https://xmypage.syosetu.com/x9955z/">作者Xマイページ</a></li>
+<li><a href="https://novel18.syosetu.com/novelview/infotop/ncode/n4021em/#trackback">トラックバック</a></li>
+
+<li><a href="https://novel18.syosetu.com/txtdownload/top/ncode/1163905/" onclick="javascript:window.open('https://novel18.syosetu.com/txtdownload/top/ncode/1163905/','a','width=600,height=450'); return false;">TXTダウンロード</a></li>
+
+<li><a href="http://nkx.syosetu.com/n4021em/" onclick="virtualmobileview('n4021em');return false;">ケータイ表示</a></li>
+<li><a href="https://syosetu.com/ihantsuhou/input/ncode/1163905/">情報提供</a></li>
+</ul>
+</div><!--novel_footer-->
+
+
+<div class="koukoku_text">
+
+<div id="fea96cc898b9e843e65c11522cc8bc5c" >
+<script type="text/javascript">
+microadCompass.queue.push({
+"spot": "fea96cc898b9e843e65c11522cc8bc5c",
+"url": "${COMPASS_EXT_URL}",
+"referrer": "${COMPASS_EXT_REF}"
+});
+</script>
+</div>
+
+</div><!--koukoku_text-->
+
+</div><!--novel_contents-->
+
+
+
+
+<div id="recommend">
+<h3>この小説をブックマークしている人はこんな小説も読んでいます！</h3>
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n8871ej/">
+<span class="reconovel_title">俺に気付いて欲しいです</span>（N8871EJ）</a>
+<p class="recommend_ex">　10年前に離ればなれになった幼なじみに会うために、日本に戻ってきた俺、美月（ミツキ）。
+　再開し、格好良く成長した幼なじみをデロデロに甘やかす日々が始まった。//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全7部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2017/11/21 14:29
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n8103ce/">
+<span class="reconovel_title">あなたの遺伝子、ください</span>（N8103CE）</a>
+<p class="recommend_ex">異世界人の男の子どもを産むために召喚されたけど、わたしじゃ彼らの求める唯一の条件を満たせないどころか、好きな人を他の女に取られてしまう。なら、せめて、彼がわたし//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(女性向け)
+</li>
+<li>
+完結済(全10部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2017/02/18 00:00
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n7200dj/">
+<span class="reconovel_title">大好きなんだってば！！！《番外編更新中》</span>（N7200DJ）</a>
+<p class="recommend_ex">「お前のような豚、誰が好きになるか」
+ーーその一言で俺は全てを思い出した。
+このセリフって鬼畜BLゲーム『絶対服従〜あなたの犬となりたい』じゃないか！！どのルー//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全55部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2017/04/28 01:02
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n4756el/">
+<span class="reconovel_title">看板…神獣と平凡な薬師</span>（N4756EL）</a>
+<p class="recommend_ex"> SS難度クラスのダンジョンがある村で薬師として働いているジスト。ある日ダンジョンで真っ黒な毛玉を発見し、一緒に生活する事に…。
+ 看板犬にでもしようと思ってい//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全16部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/05/14 19:34
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n5947dx/">
+<span class="reconovel_title">愛がなくては生きていけない</span>（N5947DX）</a>
+<p class="recommend_ex">巻き込まれて異世界に召喚された僕は、この世界のどこにも居場所がなかった。唯一手を差しのべてくれた優しい人にも今では他に愛する人がいる。
+何故、元の世界に帰るチャ//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全10部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2018/03/29 14:35
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n6830ek/">
+<span class="reconovel_title">異世界転生したら幽閉された</span>（N6830EK）</a>
+<p class="recommend_ex">気づいたら赤ん坊になってきた俺。この世界じゃ黒髪は忌み嫌われているという。双子の王子のはずだけどこの扱いって――。主人公受です。赤ん坊から始まりますので進みが遅//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全12部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2017/12/18 21:55
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n0411ee/">
+<span class="reconovel_title">僕は君に相応しくない。</span>（N0411EE）</a>
+<p class="recommend_ex">身体のどこかに刻まれている花の紋様が同じならば番とされているこの国の王様には左頬に牡丹の紋様がある。それと同じ紋様が僕の左胸には刻まれているが、これはニセモノな//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全25部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">7 user</li>
+<li>
+最終掲載日：2018/06/09 22:26
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n7131df/">
+<span class="reconovel_title">モブ・・・それも脇モブのはずなんですけど！？</span>（N7131DF）</a>
+<p class="recommend_ex">☆ご報告☆
+一迅社様より２０１７年９月２０日に書籍化されました。
+偏にモブをお読みいただいた、みな様のお陰です。ありがとうございます！！
+書籍化に伴うダイジェス//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全97部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2018/06/04 00:55
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n0926ee/">
+<span class="reconovel_title">どうやら最初の選択が間違っていたようです</span>（N0926EE）</a>
+<p class="recommend_ex">生まれてみれば、側室の子でした……―――
+前世ってものがあったことのみ覚えている主人公は、自分がある王国の第2王子として生まれたことを知る。もしかして今世は楽チ//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全15部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/06/16 22:02
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n6309do/">
+<span class="reconovel_title">詰んでる元悪役令嬢はドＳ王子様から逃げ出したい</span>（N6309DO）</a>
+<p class="recommend_ex">全部終了後（バッドエンド）に目覚めた１８禁乙女ゲー悪役令嬢転生者のテンプレでドＳな王子とのエロ話。目覚める前の悪役令嬢が淫乱変態。
+
+１／２４　リーンハルト様に//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(女性向け)
+</li>
+<li>
+完結済(全15部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/01/24 22:23
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n4179es/">
+<span class="reconovel_title">おれの番</span>（N4179ES）</a>
+<p class="recommend_ex">同じ男の魂に7度殺された俺は、呪いが解除され別の世界に転生した。そこは獣人が住まう世界で、父親の仕事を手伝いながら暮らしていた。
+そんな俺の目の前に異世界(以前//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全45部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/07/05 05:03
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n8047dy/">
+<span class="reconovel_title">住み込みで英雄をお世話する簡単なお仕事です</span>（N8047DY）</a>
+<p class="recommend_ex">迷い込んだのは、神様が作っためちゃくちゃ狭い異世界だった。
+小さな畑に小さな家、俺の他にはベッドで眠り続ける男がひとり。　
+神様曰く、彼は悲劇の英雄様らしい。
+//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全48部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2018/01/20 17:00
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n1280el/">
+<span class="reconovel_title">竜人のつがい</span>（N1280EL）</a>
+<p class="recommend_ex">『僕は――――どんな僕でも、僕だけを、ずっと愛してくれる存在が欲しい』
+　そう願って生まれ変わったら、竜人と呼ばれる生き物になった。
+　孤独だったイリヤが、番、//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全15部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/03/08 23:48
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n4755eq/">
+<span class="reconovel_title">だから俺は王位なんていらないって言ってるだろ!!</span>（N4755EQ）</a>
+<p class="recommend_ex">俺の名前はシリウス、アルトカメリ王国の第一王子。でも母親は側室で身分は低いから王位は望めないだろうと言われている。まあ個人的には十分有能な側近・ジルベールが俺の//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全19部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">6 user</li>
+<li>
+最終掲載日：2018/04/01 12:00
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n2995ej/">
+<span class="reconovel_title">ライバル令嬢は塔の中</span>（N2995EJ）</a>
+<p class="recommend_ex">　リリーナローゼは乙女ゲームのライバル令嬢で、攻略対象である婚約者レオンハルトとは婚約破棄はしても、酷い未来が待っているという様な内容では無かった筈だった。
+　//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(女性向け)
+</li>
+<li>
+連載(全10部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/05/21 10:06
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n8581ee/">
+<span class="reconovel_title">異世界トリップで平凡が猫になりました</span>（N8581EE）</a>
+<p class="recommend_ex">クールな平凡が異世界トリップでキュートな白猫になってしまうが、猫好きだった少年にとってはご褒美です。クールが飛んで行ってあざと可愛い猫仕草の研究を始めちゃったり//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全3部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2018/01/06 00:09
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n0858eo/">
+<span class="reconovel_title">異世界転生</span>（N0858EO）</a>
+<p class="recommend_ex">日本で四十路の男が仕事で足場を崩して転落し事故死を迎えた。気がついたら転生し、3才の男の子に。大好きな剣と魔法の世界に喜んだのもつかの間。この世界、同性婚ありな//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全98部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/07/03 00:00
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n4299ei/">
+<span class="reconovel_title">ヤンデレ王子からは逃げられない</span>（N4299EI）</a>
+<p class="recommend_ex">高校生の沢木創也が目覚めた場所は、異世界だった。そこで出会った金髪碧眼のキラキラ王子に、ドロドロに愛されるお話。
+王子、ヤンデレにつき、血みどろシーン、監禁シー//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全14部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/02/03 10:27
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n5346er/">
+<span class="reconovel_title">うわっ…俺の彼氏、遅漏すぎ…？</span>（N5346ER）</a>
+<p class="recommend_ex">先日無骨で優しくてかっこいい幼馴染、西野と恋人同士になったんだけど、なんかエッチの時俺だけ気持ちよくされちゃうんだけど！え？もしかして西野遅漏なの？え、ちょっと//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全9部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/06/13 00:00
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n4571eg/">
+<span class="reconovel_title">りっちゃんの恋。</span>（N4571EG）</a>
+<p class="recommend_ex">？×世話焼きオカン体質男子
+
+ふわふわ系幼馴染の梓のことが好きな世話焼きオカン体質の理人。
+どこまでもお世話を焼き続ける理人に、周囲は心配そうに見つめるが、そん//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全30部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2017/09/28 19:45
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n1581et/">
+<span class="reconovel_title">華獣になって、神子嫌う</span>（N1581ET）</a>
+<p class="recommend_ex">風呂で頭打って気絶、気づいたら華から生まれた華獣（かじゅう）という生き物になってました。どう見ても、同じ日本から転移してきた神子がいるけど、性格悪いから嫌い。関//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全13部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">6 user</li>
+<li>
+最終掲載日：2018/05/29 22:37
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n0062dz/">
+<span class="reconovel_title">弟のおまけのように、くっついて来てしまいました</span>（N0062DZ）</a>
+<p class="recommend_ex">大切な義理の弟が連れ去られる現場にて、誘拐犯にしがみついて到着した世界でΩ認定されました。義理の弟はαだから連れて来たそうです。俺は義弟のおまけみたいな物かと思//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全25部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2018/03/04 00:13
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n6702eh/">
+<span class="reconovel_title">お妃様は子沢山につき</span>（N6702EH）</a>
+<p class="recommend_ex">一国の王子でありながら、弟妹たちの世話に追われるフルミント。ある日、大国メロネアへ人質として赴くことになるが、そこで待ち受けていたのも子育てだった？
+やがて立派//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全35部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2017/12/26 16:03
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n2775ep/">
+<span class="reconovel_title">眠り騎士と悪役令嬢の弟</span>（N2775EP）</a>
+<p class="recommend_ex">病気で死に生前妹に借りてプレイしていた乙女ゲーム「口付けの契約」の世界に生前の記憶を持ち転生していた。
+
+今度こそ誰かの役に立ちたいのに転生したのは嫌われ者の悪//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全85部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/07/04 08:00
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n9026eh/">
+<span class="reconovel_title">没落貴族の愛され方</span>（N9026EH）</a>
+<p class="recommend_ex">魔法が衰退し、科学技術が躍進を続ける現代に似た世界観です。没落貴族のセナが、勝ち組貴族のラーフに溺愛されつつも、それに気付かない物語です。
+
+※攻めの女性との絡//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全40部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2017/11/28 00:00
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n2722en/">
+<span class="reconovel_title">竜帝陛下にだまされた</span>（N2722EN）</a>
+<p class="recommend_ex">かつて天才少年と呼ばれた僕、王立魔導研究所研究員のレイ・アイファンズは、そろそろ少年じゃなくなる17歳の今、天才でもないことに、気がついた。
+なにかを為すのに人//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全12部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/02/01 22:42
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n9760ct/">
+<span class="reconovel_title">親友をセフレにする方法</span>（N9760CT）</a>
+<p class="recommend_ex">（完結・改稿済）
+なによりも大切にしていた親友とセックスをする。そんなの、怖くないわけがなかった。それでも疼く身体には勝てなくて。
+「お前が鎮めてよ。このカラダ//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全54部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2016/05/21 10:18
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n1231ed/">
+<span class="reconovel_title">BLゲームの世界にトリップしても、俺は悪役令息なんですけど</span>（N1231ED）</a>
+<p class="recommend_ex">気がついたら知らない世界で殺人未遂の疑いをかけられていた俺──神道司(27)は、近頃腐女子の中で大流行しているBLゲーム「月夜の円舞曲〜真実のキスを〜」とそっく//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全10部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">6 user</li>
+<li>
+最終掲載日：2017/12/30 06:46
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n4350en/">
+<span class="reconovel_title">乙女ゲームの悪役令息は弟を溺愛する</span>（N4350EN）</a>
+<p class="recommend_ex">前世が子持ちの“おかん”だったことを思い出した俺、ルロイ・ロングロイトは公爵の嫡男。
+弟のレグラスをおかんパワーで可愛がりまくっていた。
+弟の学園入学直前、俺は//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全11部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/02/18 20:00
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n8209du/">
+<span class="reconovel_title">転生したらしいのですが、前世の記憶が全くありません</span>（N8209DU）</a>
+<p class="recommend_ex">儀式で嫁を転生させる男だけの世界。そんな世界に呼ばれてしまった、儀式失敗作の転生『男』。ダンナは筋骨隆々の用心棒で何だかコワイ。俺、こいつの子供を産むの？　とい//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全280部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2018/07/05 00:00
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n0130ea/">
+<span class="reconovel_title">悪役令息は、婚約破棄されてしまったのでスローライフをする予定だった</span>（N0130EA）</a>
+<p class="recommend_ex">とある乙女ゲームの世界に入り込んでしまった僕、ティモシーは、王子から婚約破棄されたはずだった。そして、悪役令嬢ならぬ悪役令息になって田舎でゆるゆるスローライフを//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全24部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2017/05/31 21:00
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n0581eh/">
+<span class="reconovel_title">悪逆貴族の身辺整理</span>（N0581EH）</a>
+<p class="recommend_ex">場所、時間、シチュエーション。全てを整え、完璧に事故死（と見せかけた自殺）をやり遂げた！……と思ったら、何故か昔読んだ小説の世界の悪役・ハインレイドになっていた//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+連載(全40部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2018/06/01 00:49
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n8367en/">
+<span class="reconovel_title">この腕が届く距離</span>（N8367EN）</a>
+<p class="recommend_ex">執着α×平凡β。気まぐれに未来が見えたあと、急激な眠気に襲われると言う超能力をもつ朱里は、同級生のα夏目飛衣（とい）をその能力で助けたことから、彼に囲いこまれて//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全12部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">4 user</li>
+<li>
+最終掲載日：2018/02/27 00:39
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n5673en/">
+<span class="reconovel_title">さあ、愛に笑え </span>（N5673EN）</a>
+<p class="recommend_ex">［絶対的なアルファ×どこまでも臆病なオメガ］
+叶わぬ恋であることは分かっていた。彼の隣にいられただけで、奇跡であることも十分に理解していた。だから、決して望まな//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全7部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/02/03 21:22
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n5870cy/">
+<span class="reconovel_title">誰が乙女ゲームだといった！</span>（N5870CY）</a>
+<p class="recommend_ex">ファンタジーADV乙女ゲーム『トリックスターは鏡の中で夢を見る』で、攻略キャラの死んだ弟に転生してしまった主人公。
+しかし病弱な主人公が思い出したのは前世の記憶//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全19部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2016/10/01 20:07
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+<div class="recommend_novel">
+<a href="https://novel18.syosetu.com/n7748em/">
+<span class="reconovel_title">怜くん、ごめんね！　親衛隊長も楽じゃないんだ！</span>（N7748EM）</a>
+<p class="recommend_ex">僕は前世の記憶を取り戻し、現実を知った。
+自分たちの通う学園が、王道学園ものＢＬシミュレーションゲームの舞台だということに。
+そのゲームでは、自分が性悪の親衛隊//</p>
+<ul class="reco">
+<li class="genre">
+ムーンライトノベルズ(ボーイズラブ)
+</li>
+<li>
+完結済(全28部分)
+</li>
+</ul>
+<ul class="reco">
+<li class="user">5 user</li>
+<li>
+最終掲載日：2018/02/01 16:04
+</li>
+</ul>
+
+</div><!--recommend_novel-->
+</div><!--recommend-->
+
+
+
+
+
+
+
+
+<div class="koukoku_728">
+
+
+<div id="8140fa6862368ad13a0b524dec11cff2" >
+<script type="text/javascript">
+microadCompass.queue.push({
+"spot": "8140fa6862368ad13a0b524dec11cff2",
+"url": "${COMPASS_EXT_URL}",
+"referrer": "${COMPASS_EXT_REF}"
+});
+</script>
+</div>
+
+</div><!--koukoku_728-->
+
+
+
+<a id="pageTop" href="#main">↑ページトップへ</a>
+
+</div><!--container-->
+
+<!-- フッタここから -->
+<div id="footer">
+<ul class="undernavi">
+<li><a href="https://syosetu.com">小説家になろう</a></li>
+<li><a href="https://noc.syosetu.com/">ノクターンノベルズ</a></li>
+<li><a href="https://mnlt.syosetu.com/">ムーンライトノベルズ</a></li>
+<li><a href="https://mid.syosetu.com/">ミッドナイトノベルズ</a></li>
+</ul>
+</div><!--footer-->
+<!-- フッタここまで -->
+
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQ7JDB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WQ7JDB');</script>
+<!-- End Google Tag Manager -->
+
+
+
+</body></html>
+
+
+
+
