@@ -1,4 +1,4 @@
-## Shinjuku mokumoku #6
+## Shinjuku mokumoku #7
 
 ![](/assets/images/shinjuku-mokumoku-banner.png)
 
@@ -17,6 +17,7 @@ Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
 @threetreeslight | @aretoky
 :---: | :---:
 ![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4)
+
 
 ---
 
