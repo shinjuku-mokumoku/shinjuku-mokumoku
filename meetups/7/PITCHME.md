@@ -59,9 +59,9 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## Check-In
+## Check-In & Check-Out
 
-一人あたり2-3分ぐらいで自己紹介と今日取り組むことの発表です 👏
+一人あたり2-3分ぐらいで自己紹介と今日取り組むこと＆Check-Outに成果の発表です 👏
 
 [shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
 
@@ -75,20 +75,10 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 ## (option) 相談するかもしれないこと
 
 ## (option) 得意とすること・教えられること
-```
 
----
-
-## Check-Out
-
-取り組んだことの発表、一人あたり2-3分ぐらいで発表します 👏
-
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
+## (Check-Out時)今日取り組んだ成果
 
 ```
-## 今日取り組んだ成果
-```
-
 ---
 
 ## Lunch
