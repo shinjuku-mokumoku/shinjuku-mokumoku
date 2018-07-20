@@ -73,11 +73,9 @@ beginner | プログラミング初心者が質問して助けを求めるchanne
 
 # check-in & out
 
-## check-in: 自己紹介と今日取り組むことの発表
+2-3 min/person の簡単なLTで自己紹介と今日取り組むことの発表＆check-out時に成果発表をします。
 
 [shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup) の `/meetups/x/yourname.md` にて以下の内容をPR出してください。
-
-2-3 min/person
 
 ```
 # <name_or_handle>
@@ -89,16 +87,9 @@ beginner | プログラミング初心者が質問して助けを求めるchanne
 ## (option) もしかしたら相談するかもしれないこと
 
 ## (option) 教えてもいいよという領域
-```
 
 ## check-out: 取り組んだことの発表
 
-2-3 min/person の簡単なLTで成果発表します。
-
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/meetups/x/yourname.md`にて以下の内容を追記し、PR出してください。
-
-```
-## 今日取り組んだ成果
 ```
 
 ## 振り返り
