@@ -47,6 +47,6 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 1. [README](/meetups/4/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F4) / [kpt](/meetups/4/kpt.md)
 1. [README](/meetups/5/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F5) / [kpt](/meetups/5/kpt.md)
 1. [README](/meetups/6/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F6) / [kpt](/meetups/6/kpt.md)
-1. [README](/meetups/6/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F7) / [kpt](/meetups/7/kpt.md)
-1. [README](/meetups/6/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F8) / [kpt](/meetups/8/kpt.md)
+1. [README](/meetups/7/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F7) / [kpt](/meetups/7/kpt.md)
+1. [README](/meetups/8/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F8) / [kpt](/meetups/8/kpt.md)
 
