@@ -45,7 +45,7 @@ beginner | プログラミング初心者が質問して助けを求めるchanne
 途中の入退出自由です。遅れてで参加も大丈夫です。
 せっかく集まったエンジニア同士コミュニケーション取れるようにするため、ランチを挟むようにしてみました。
 
-17:30以降については、会場の許しが有れば希望者でも継続もくもくします。19:00ぐらいに希望者で夕食を食べたりすることが多いです。
+17:30以降については、会場の許しが有れば希望者でも継続もくもくします。
 
 時間  | 内容
 ---   | ---
@@ -73,9 +73,13 @@ beginner | プログラミング初心者が質問して助けを求めるchanne
 
 # check-in & out
 
-2-3 min/person の簡単なLTで自己紹介と今日取り組むことの発表＆check-out時に成果発表をします。
+check-inでは自己紹介と今日取り組むことの発表
 
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup) の `/meetups/x/yourname.md` にて以下の内容をPR出してください。
+check-outでは成果発表
+
+どちらも2-3 min/person の簡単なLTをします！
+
+[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup) の `/meetups/x/yourname.md` にてそれぞれ5分前くらいまでに以下の内容をPR出してください。
 
 ```
 # <name_or_handle>

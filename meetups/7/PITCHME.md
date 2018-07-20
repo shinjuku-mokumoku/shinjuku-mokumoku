@@ -25,14 +25,6 @@ Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
 
 ---
 
-## Check-In & Out
-
-ついつい差し込み業務をしてしまう💦
-
-check-inにてやることを宣言し、check-outにて成果を発表します 💪
-
----
-
 ## Sponsers 👏
 
 会場・おやつ
@@ -65,7 +57,11 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## Check-In & Check-Out
 
-一人あたり2-3分ぐらいで自己紹介と今日取り組むこと＆Check-Outに成果の発表です 👏
+check-inでは自己紹介と今日取り組むこと
+
+check-outにて成果を発表します 💪
+
+一人あたり2-3分ぐらいでLTします 👏
 
 [shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
 
