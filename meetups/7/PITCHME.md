@@ -18,6 +18,9 @@ Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
 :---: | :---:
 ![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4)
 
+オーガナイザーのお手伝いしている皆様
+
+@Yhiss | @yokina
 
 ---
 
