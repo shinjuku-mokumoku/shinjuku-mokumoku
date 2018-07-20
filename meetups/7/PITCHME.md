@@ -21,6 +21,7 @@ Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
 オーガナイザーのお手伝いしている皆様
 
 @Yhiss | @yokina
+:---: | :---:
 
 ---
 
