@@ -47,3 +47,4 @@ nginx prometheus grafana
 
 ## 今日取り組んだ成果
 
+https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/7
