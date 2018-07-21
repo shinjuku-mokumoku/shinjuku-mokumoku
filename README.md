@@ -18,7 +18,7 @@
 
 質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) で mention もしくは、twitterにて #shinjukumokumoku 付きで tweetくだされば反応します。
 
-未登録の方は方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
+未登録の方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
 
 ## Channels
 
