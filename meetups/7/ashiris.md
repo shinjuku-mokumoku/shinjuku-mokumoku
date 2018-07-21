@@ -17,3 +17,5 @@ RailsとReactNativeを使ってアプリ開発をしています。
 - React, ReactNative
 
 ## 今日取り組んだ成果
+[Redux](https://redux.js.org/introduction)のドキュメントと一部のコードを読んでいた。
+[ReactNative](https://facebook.github.io/react-native/)のAPIドキュメントには手をつけてない。
