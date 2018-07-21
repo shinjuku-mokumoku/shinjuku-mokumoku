@@ -16,3 +16,8 @@ GKEまわりについて
 ## (option) 教えてもいいよという領域
 
 Androidアプリ開発に関してJava, Kotlinなど！
+
+## 今日取り組んだ成果
+
+GCPとTerraformとCircleCIをいじいじ
+GKEを立ち上げるところまではたどり着けず
