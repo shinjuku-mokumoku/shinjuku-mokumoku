@@ -17,3 +17,8 @@ UIScrollViewでscrollViewDidScrollが呼ばれない理由を調べる
 php,JavaScript(フレームワークじゃないやつ)、Unityなら少しはわかるかも…
 
 ## 今日取り組んだ成果
+・テキストの遅延ロード実装
+UIscrollViewのcontentSizeをテキスト表示したあとのサイズを設定し直したら呼べた
+
+・リファクタしようと思ってiOSのUnitTest実装
+
