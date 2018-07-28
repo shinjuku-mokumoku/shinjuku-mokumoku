@@ -1,6 +1,10 @@
 # Layout
-layout : middle-center
+transition : none
 
 # Look-and-Feel
-theme : sky
-theme-override : /assets/css/PITCHME.css
+theme: beige
+theme-override: /assets/css/PITCHME.css
+
+code-line-numbers : true
+mathjax : TeX-MML-AM_HTMLorMML-full
+charts : true

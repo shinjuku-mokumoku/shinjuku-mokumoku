@@ -129,3 +129,18 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 Let's mokumoku!
 
+---
+
+## Prepare Check-out
+
+今日の成果項を追加してPRをお願いします
+
+[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku)
+
+---
+
+## Check-Out!
+
+取り組んだことの発表していきましょう 👏
+
+[shinjuku-mokumoku - meetups](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)

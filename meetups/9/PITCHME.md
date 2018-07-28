@@ -2,28 +2,27 @@
 
 ![](/assets/images/shinjuku-mokumoku-banner.png)
 
-Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
+Hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 
 ---
 
-## What is shinjuku mokumoku?
+## What' shinjuku mokumoku?
 
-１人だとプログラミングをサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作りたいという理由によって 2018-05-19 より隔週で開催されているもくもく会です。
+１人だと勉強をサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作る
 
 ---
 
-## ~~サボりそうな~~ 発起人
+## ~~サボりそうな~~<br>オーガナイザーたち
 
-@threetreeslight | @aretoky
-:---: | :---:
-![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4)
-
+@threetreeslight | @aretoky | @Yhiss | @yokina
+:---: | :---: | :---: | :---:
+![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4)  | | 
 
 ---
 
 ## Check-In & Out
 
-ついつい差し込み業務をしてしまう💦
+差し込み業務を回避するには強い意志！
 
 check-inにてやることを宣言し、check-outにて成果を発表します 💪
 
@@ -39,33 +38,55 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## Facilities
 
-- WiFiあります
-- 喫煙所は9Fにありますので、喫煙者の方はご利用ください。
+- WiFiあります。SSID/PWは前に書いてあります
+- 喫煙所は9Fにあります
 - コーヒー、自由に飲んで頂いて結構です
-- 飲食可能です。フロアに自販機はありませんが、1Fにコンビニやマクドナルドがあります。
-- 電源あります。足りない場合はお声がけください。
-- 書籍もぼちぼちありますので、こんな本ありますか？とお声がけください。
+- 飲食可能です。フロアに自販機はありませんが、1Fにコンビニやマクドナルドがあります
+- 電源あります。足りない場合はお声がけください
+- 書籍もぼちぼちありますので、こんな本ありますか？とお声がけください
 
 ---
 
-## Time table
+## Notice... 👀
 
-- 11:00 check-in: 自己紹介と今日取り組むことの発表
+- どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください
+
+---
+
+## Communication
+
+困ったときには助け合う✨
+
+質問などはslackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) を是非ご利用ください
+
+---
+
+## Time Table
+
+- 11:00 check-in
 - 11:30 もくもく
 - 13:00 有志でランチ
 - 14:00 もくもく
-- 17:00 check-out: 取り組んだことの発表・会の振り返り
+- 17:00 check-out
 - 17:30 片付け・解散
 
 ---
 
-## Check-In
+## Lunch
 
-一人あたり2-3分ぐらいで自己紹介と今日取り組むことの発表です 👏
+せっかくなのでランチしましょう！
 
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
+[slack](https://shinjuku-mokumoku.slack.com/)にてランチアンケートを出しますので12:50までにお答えください
 
-```
+(強制ではありません)
+
+---
+
+## Prepare Check-In
+
+[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) のtemplateを参考にPRをおねがいします
+
+```md
 # <name_or_handle>
 
 ## 会社や業務で普段やっていること
@@ -79,53 +100,31 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## Check-Out
-
-取り組んだことの発表、一人あたり2-3分ぐらいで発表します 👏
-
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
-
-```
-## 今日取り組んだ成果
-```
-
----
-
-## Lunch
-
-13時頃に外で食べに行く人は4,5人ずつ集まっていこうと思います。
-
-[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)に近場のお店一覧とアンケートを出すので12:50までに行きたいお店を押してください。
-
-ランチ参加は強制ではありません。自分で買ってきたり、そのまま作業を続行するのもOKです。13時〜14時は鍵閉めてしまっている可能性があるので気をつけてください。
-
----
-
-## Communication
-
-せっかくのプログラマー同士、困ったときには助け合いましょう✨
-
-何か有りましたら slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) でこんな事聞きたいなどお声がけください
-
----
-
-## Notice... 👀
-
-遅れてくる・早く退出する場合は、 [slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channel にてcheck-in & outの内容を報告ください 🙏
-
-写真撮影を許可しています。写りたくない人が居たら事前にお知らせください。
-
----
-
-## Check-In
+## Check-In!
 
 早速 check-in を始めます!
 
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)
+[shinjuku-mokumoku - meetups](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)
 
 ---
 
 # 💪
 
 Let's mokumoku!
+
+---
+
+## Prepare Check-out
+
+今日の成果項を追加してPRをお願いします
+
+[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku)
+
+---
+
+## Check-Out!
+
+取り組んだことの発表していきましょう 👏
+
+[shinjuku-mokumoku - meetups](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)
 
