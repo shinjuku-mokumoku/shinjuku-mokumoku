@@ -18,14 +18,10 @@ Hashtag : [#shinjukumokumoku](https://twitter.com/search?q=%23shinjukumokumoku)
 :---: | :---:
 ![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4)
 
+お手伝いしている皆様
 
----
-
-## Check-In & Out
-
-ついつい差し込み業務をしてしまう💦
-
-check-inにてやることを宣言し、check-outにて成果を発表します 💪
+@Yhiss | @yokina
+:---: | :---:
 
 ---
 
@@ -59,9 +55,13 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## Check-In
+## Check-In & Check-Out
 
-一人あたり2-3分ぐらいで自己紹介と今日取り組むことの発表です 👏
+check-inでは自己紹介と今日取り組むこと
+
+check-outにて成果を発表します 💪
+
+一人あたり2-3分ぐらいでLTします 👏
 
 [shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
 
@@ -75,29 +75,26 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 ## (option) 相談するかもしれないこと
 
 ## (option) 得意とすること・教えられること
-```
 
----
-
-## Check-Out
-
-取り組んだことの発表、一人あたり2-3分ぐらいで発表します 👏
-
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)の`/member/xxx/yourname.md`にて以下の内容を追記し、PR出してください。
+## (Check-Out時)今日取り組んだ成果
 
 ```
-## 今日取り組んだ成果
-```
-
 ---
 
 ## Lunch
 
-13時頃に外で食べに行く人は4,5人ずつ集まっていこうと思います。
+13時に外行く人は4,5人ずつでいきましょう
 
-[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)に近場のお店一覧とアンケートを出すので12:50までに行きたいお店を押してください。
+[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)に近場のお店と
+アンケートを出すので12:50までに行きたいお店を押してください。
 
-ランチ参加は強制ではありません。自分で買ってきたり、そのまま作業を続行するのもOKです。13時〜14時は鍵閉めてしまっている可能性があるので気をつけてください。
+ランチ参加は強制ではありません。
+
+コンビニで買ってきたりそのまま作業もOK。
+
+13時〜14時は鍵閉めてる可能性があるので
+
+気をつけてください。
 
 ---
 
