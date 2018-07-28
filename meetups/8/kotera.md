@@ -10,6 +10,14 @@
 
 - MySQLのオプティマイザの挙動調査
 
+# 今日やったこと
+
+MySQLのチューニングをした
+https://paper.dropbox.com/doc/shinjuku-mokumoku--AIsGpw8iz7EP0sCcBocKFI9JAg-AaPI5YlTK9VxPc39w1FLw
+(見れないかも)
+
+
+
 ## (option) もしかしたら相談するかもしれないこと
   
 - 特に無し
