@@ -2,13 +2,13 @@
 
 ![](/assets/images/shinjuku-mokumoku-banner.png)
 
-Hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
+hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 
 ---
 
 ## What' shinjuku mokumoku?
 
-１人だと勉強をサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作る
+１人だと勉強をサボりそうなオーガナイザーが **強制的にプログラミングする** ための時間を作る
 
 ---
 
@@ -28,9 +28,7 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## Sponsers 👏
-
-会場・おやつ
+## 会場・おやつ Sponsers 👏
 
 ![](/assets/images/sponsers/repro-logo-colored.png)
 
@@ -47,9 +45,10 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## Notice... 👀
+## Attention
 
 - どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください
+- 途中退出される場合は、PRに今日の成果をお出しください
 
 ---
 
@@ -58,6 +57,8 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 困ったときには助け合う✨
 
 質問などはslackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) を是非ご利用ください
+
+まだの方はconnpassのリンクからぜひ
 
 ---
 
@@ -68,7 +69,7 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 - 13:00 有志でランチ
 - 14:00 もくもく
 - 17:00 check-out
-- 17:30 片付け・解散
+- 17:30 KPT
 
 ---
 
@@ -104,6 +105,8 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 早速 check-in を始めます!
 
+2-3min / person
+
 [shinjuku-mokumoku - meetups](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)
 
 ---
@@ -126,5 +129,23 @@ Let's mokumoku!
 
 取り組んだことの発表していきましょう 👏
 
+2-3min / person
+
 [shinjuku-mokumoku - meetups](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)
+
+---
+
+## KPT
+
+1. よかったこと
+1. わるかったこと・課題感をかんじたこと
+1. これやってみたいとおもったこと
+
+---
+
+# 👋
+
+## see you next time!
+
+会場の方ないしオーガナイザーがいる間は会場に残って作業続けても大丈夫です
 

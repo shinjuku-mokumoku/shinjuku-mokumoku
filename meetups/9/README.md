@@ -1,11 +1,10 @@
-# Attention
+![](/assets/images/shinjuku-mokumoku-banner-960x180.png)
 
-##**今週は日曜日開催です！参加される皆様お間違いないようお願いします**
+# 今週は日曜日開催です！参加される皆様お間違いないようお願いします
 
 # ガンガンコードを書く・学ぶ
 
-オーガナイザーが**ストイックにプログラミングする**ための強制的な時間を作りたい、１人だとサボりそうという流れから、2018-05-19 より隔週で開催されています。
-（ほんとは毎週やりたいのです。オーガナイズをお手伝いいただけませんか？やっても良い方はご連絡ください）
+１人だと勉強をサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作ることを目的に毎週開催されているもくもく会です。
 
 そのため、新宿プログラミングもくもく会では参加しているプログラマー各位が相談したりしながら、以下のようなテーマにそれぞれ取り組みます。
 
@@ -16,27 +15,23 @@
 - 数学や統計を学び直す、論文を読む
 - OSS活動やプライベートプロダクトを集中して進めたい
 
-# やってること
+自身にプレッシャーを与えるためにcheck-inにてやることを宣言し、check-outにて成果を発表します 💪
 
- - また、自身にプレッシャーを与えるためにも成果発表が必要だと考え、check-inにてやることを宣言し、check-outにて成果を発表します。
- - 質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) で mention もしくは、twitterにて #shinjukumokumoku 付きで tweetくだされば反応します。
+### 過去の雰囲気
+
+[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) のmeetupsをみてみてください。
+
+どういうことをやっているかイメージしやすいかもしれません。
 
 # コミュニケーション
 
-遅れてくる・早く退出する場合は、 [slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channel にてcheck-in & outの内容を報告ください。
-未登録の方は方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
+もくもく中の質問などはslackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) を利用していきましょう！
 
-channel  | purpose
----      | ---
-general  | やること・やったことを報告したり、これ困ってますー！など気軽に聞く場所。
-beginner | プログラミング初心者が質問して助けを求めるchannel。どう勉強したらよいか？このエラー何？対面で教えてほしい！！など気軽に聞く場所。
+未登録の方は方は https://shinjuku-mokumoku.herokuapp.com よりぜひ登録ください。
 
+以下のようなプログラミングに関わる質問は以下のテンプレートを使うと、答える側も答えやすいかもしれません 👀
 
-## 質問テンプレート
-
-以下のような質問テンプレートを使うと答える側も答えやすいかもしれません。ご活用ください
-
-```
+```txt
 * OSは何？
 * なんの言語・技術？
 * バージョン？
@@ -46,10 +41,9 @@ beginner | プログラミング初心者が質問して助けを求めるchanne
 
 # タイムテーブル
 
-途中の入退出自由です。遅れてで参加も大丈夫です。
-せっかく集まったエンジニア同士コミュニケーション取れるようにするため、ランチを挟むようにしてみました。
+途中の入退出自由です。
 
-17:30以降については、会場の許しが有れば希望者でも継続もくもくします。19:00ぐらいに希望者で夕食を食べたりすることが多いです。
+せっかく集まったプログラマー同士、よければランチいきましょう！
 
 時間  | 内容
 ---   | ---
@@ -58,62 +52,40 @@ beginner | プログラミング初心者が質問して助けを求めるchanne
 11:30 | もくもく
 13:00 | 有志でランチ
 14:00 | もくもく
-17:00 | check-out: 取り組んだことの発表・会の振り返り
-17:30 | 片付け・解散
-
-# ランチ
-
-13時頃に外で食べに行く人は4,5人ずつ集まっていこうと思います。
-
-[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)に近場のお店一覧とアンケートを出すので12:50までに行きたいお店を押してください。
-
-ランチ参加は強制ではありません。自分で買ってきたり、そのまま作業を続行するのもOKです。
-
-13時〜14時は鍵閉めてしまっている可能性があるので気をつけてください。
-
-もし来てしまったら[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/)までご連絡ください。
-
-なるべく早く戻ります。
+17:00 | check-out: 取り組んだことの発表
+17:30 | 振り返り(KPT)
+17:35 | 片付け・解散
 
 # check-in & out
 
-check-inでは自己紹介と今日取り組むこと
+差し込み業務を回避するには強い意志！
 
-check-outにて成果を発表します 💪
+check-inにてやることを宣言し、check-outにて成果を発表します 💪
 
-一人あたり2-3分ぐらいでLTします 👏
+[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) のtemplateを参考にPRをおねがいします
 
-[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup) の `/meetups/x/yourname.md` にて以下の内容をPR出してください。
-
-```
+```md
 # <name_or_handle>
 
 ## 会社や業務で普段やっていること
 
 ## 今日取り組むこと
 
-## (option) もしかしたら相談するかもしれないこと
+## (option) 相談するかもしれないこと
 
-## (option) 教えてもいいよという領域
-
-## (check-out)今日取り組んだ成果
+## (option) 得意とすること・教えられること
 ```
-
-## 振り返り
-
-今後の回を良くするために、KPTを行います。
-過去の内容は [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) を参照ください
 
 # 設備
 
-- WiFiあります。
-- イベントスペースで淹れたてコーヒーがあります。自由に飲んで頂いて結構です。
-- 飲食可能です。フロアに自販機はありませんが、建物1Fにコンビニやマクドナルドがあります。
-- 電源あります。足りない場合は延長ケーブルお出しするのでお声がけください。
-- ディスプレイ欲しい人が居たら、オフィススペースから貸出することも可能です。お声がけください。
-- 書籍もぼちぼちありますので、こんな本ありますか？とお声がけください。イベントスペース内であればお貸しできます。
+- WiFiあります。SSID/PWは前に書いてあります
+- 喫煙所は9Fにあります
+- コーヒー、自由に飲んで頂いて結構です
+- 飲食可能です。フロアに自販機はありませんが、1Fにコンビニやマクドナルドがあります
+- 電源あります。足りない場合はお声がけください
+- 書籍もぼちぼちありますので、こんな本ありますか？とお声がけください
 
-# 会場・アクセス
+# 会場
 
 Repro株式会社
 
@@ -122,35 +94,23 @@ Repro株式会社
 
 ## アクセス
 
-こちらの建物の6Fです。
+こちらの建物の6Fです
 
 ![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-1.png?raw=true)
 
-エレベーターから降りて**左**方向にお進みください。
-
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-2.png?raw=true)
-
-エントランスからみて右手側です。
-
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-3.png?raw=true)
-
-会場にお入りください
+エレベーターから降りて**左**に進み、会場にお入りください
 
 ![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-4.png?raw=true)
 
-迷われましたら、[slack/shinjuku-mokumoku #general](https://shinjuku-mokumoku.slack.com/) channelで mention もしくは、 #shinjukumokumoku 付きでtweetくだされば反応します。
-上記slackに未登録の方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
+迷われましたら、[slack/shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) もしくは、 `#shinjukumokumoku` hash付きでtweetください。
+slackは https://shinjuku-mokumoku.herokuapp.com より登録できます。
 
-# スポンサー
-
-## 会場・おやつ
+# 会場・おやつスポンサー 👏
 
 ![](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/assets/images/sponsers/repro-logo-colored.png?raw=true)
 
-# スペシャルサンクス
+# 留意事項
 
-- [ginzarb](https://github.com/ginzarb) githubの運用を参考にさせて頂きました。:tada:
-
-# 注意事項
-
- - 写真撮影を許可しています。写りたくない人が居たら事前にお知らせください。
+- どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください
+- 途中退出される場合は、PRに今日の成果をお出しください
+- 質問・疑問などは、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) もしくは、twitterにて `#shinjukumokumoku` 付きtweetでご連絡ください

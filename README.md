@@ -1,6 +1,6 @@
 # What's shinjuku mokumoku programming?
 
-![](/assets/images/shinjuku-mokumoku-banner.png)
+![](/assets/images/shinjuku-mokumoku-banner-960x180.png)
 
 オーガナイザーが**ストイックにプログラミングする**ための強制的な時間を作りたい、１人だとサボりそうという流れから、2018-05-19 より隔週で開催されています。
 （ほんとは毎週やりたいのです。オーガナイズをお手伝いいただけませんか？やっても良い方はご連絡ください）
