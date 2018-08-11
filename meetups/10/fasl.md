@@ -14,7 +14,7 @@
  -  azure上でのchainer構築  
   ssh接続のためdisplay 関係のエラーが出たが、https://qiita.com/nishio/items/0a8949262d86c181668b
  　を参考にした。  
- -  画像認識のサンプルプログラムの動作確認。  
+ -  手書き文字認識画像認識のサンプルプログラムの動作確認。  
 
 epoch       main/loss   validation/main/loss  main/accuracy  validation/main/accuracy  elapsed_time  
 1           0.189221 　 0.0839476 　          0.942117       0.9745                    72.866  
