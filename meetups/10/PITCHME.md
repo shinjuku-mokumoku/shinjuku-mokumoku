@@ -14,9 +14,9 @@ hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 
 ## ~~サボりそうな~~<br>オーガナイザーたち
 
-@threetreeslight | @aretoky | @Yhiss | @yokina
-:---: | :---: | :---: | :---:
-![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4)  | |
+@threetreeslight | @aretoky | @Yhiss | @yokina | @koki1023
+:---: | :---: | :---: | :---: | :---:
+![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4)  | ![](https://avatars2.githubusercontent.com/u/39427270?s=100&v=4) | ![](https://avatars0.githubusercontent.com/u/4452841?s=100&v=4) | ![](https://avatars1.githubusercontent.com/u/28473371?s=100&v=4)
 
 ---
 
@@ -28,7 +28,7 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-## 会場・おやつ Sponsers 👏
+## 会場 Sponsers 👏
 
 ![](/assets/images/sponsers/repro-logo-colored.png)
 
