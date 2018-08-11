@@ -11,3 +11,8 @@
 
 ## (option) 得意とすること・教えられること
 ・プロゲートレベルの、Rubyのコードの書き方
+
+## 成果
+・『パーフェクトRuby on Rails』2章　
+　Model・Controller について完了。
+　Viewの解説に入ったところ。
