@@ -1,4 +1,4 @@
-# seekworser(slack)
+# s_fujisawa(slack)
 
 ## 会社や業務で普段やっていること
 物理系学生、データ解析とか数値計算とか
@@ -16,3 +16,11 @@
 スマホアプリとかでデータベースやったことある人いたら話聞けると嬉しいです
 
 ## 今日の成果
+pythonからMySQLにアクセスしてSQL打てるようにした
+上記のmoduleのテストコード
+DBに格納するためのデータの(Java-likeな)Beanを作成
+getter, setterをひたすら書きまくった
+
+Todo:
+Beanのテストコード
+コマンドラインからselect, insert, modify, deleteができるコントローラの作成
