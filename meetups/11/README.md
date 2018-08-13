@@ -60,7 +60,7 @@
 
 check-inにてやることを宣言し、check-outにて成果を発表します 💪
 
-[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) のtemplateを参考にPRをおねがいします
+[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) のtemplateを参考にPullRequestをおねがいします
 
 ```md
 # <name_or_handle>
@@ -73,6 +73,11 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## (option) 得意とすること・教えられること
 ```
+
+[PR例](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/137/files)、
+[PR例2](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/132/files)
+
+こんな感じでmeetups/(ミートアップの番号)/(あなたの名前).mdをご自分のリポジトリにファイルを作成し、当日の11時までに本家にPR出して下さい。
 
 # 会場
 
@@ -109,6 +114,7 @@ slackは https://shinjuku-mokumoku.herokuapp.com より登録できます。
 
 # 留意事項
 
+- PullRequestを出すのにgitを使います。わからない方は[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/general)まで
 - どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください
 - 途中退出される場合は、PRに今日の成果をお出しください
 - 質問・疑問などは、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) もしくは、twitterにて `#shinjukumokumoku` 付きtweetでご連絡ください
