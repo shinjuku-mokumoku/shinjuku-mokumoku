@@ -39,3 +39,4 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 1. [README](/meetups/8/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F8) / [kpt](/meetups/8/kpt.md)
 1. [README](/meetups/9/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F9) / [kpt](/meetups/9/kpt.md)
 1. [README](/meetups/10/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F10) / [kpt](/meetups/10/kpt.md)
+1. [README](/meetups/11/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F11) / [kpt](/meetups/11/kpt.md)
