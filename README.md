@@ -20,12 +20,17 @@
 
 未登録の方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
 
-## Channels
+## Other Usage
 
-channel  | purpose
----      | ---
-general  | やること・やったことを報告したり、これ困ってますー！など気軽に聞く場所。
-bigenner | プログラミング初心者が質問して助けを求めるchannel。どう勉強したらよいか？このエラー何？対面で教えてほしい！！など気軽に聞く場所。
+提出された自己紹介markdownから発表順を決定する
+
+```sh
+scripts/presenter.js <num>
+
+OR
+
+MEETUP=10 docker-compose run presenter
+```
 
 ## meetups
 
