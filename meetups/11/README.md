@@ -60,7 +60,6 @@
 
 check-inにてやることを宣言し、check-outにて成果を発表します 💪
 
-[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) のtemplateを参考にPRをおねがいします
 
 ```md
 # <name_or_handle>
@@ -73,6 +72,20 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## (option) 得意とすること・教えられること
 ```
+
+## PullRequest
+
+やることと成果は、
+[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) repositoryの`meetups/<開催回数>/<あなたのお名前>.md`としてPullRequest(以下PR)を出していただきます。
+
+> こちらはPR例です。参考にどうぞ。
+> - https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/137
+
+> Pull Requestとは？その出し方？
+> - [About pull requests](https://help.github.com/articles/about-pull-requests/)
+> - [Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
+
+PullRequestを出すのにはgitが必要です。わからない方は[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/general)までご質問下さい。
 
 # 会場
 
