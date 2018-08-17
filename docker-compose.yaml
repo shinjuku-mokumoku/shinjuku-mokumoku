@@ -6,3 +6,12 @@ services:
       - ./:/repo
     ports:
       - 9000:9000
+
+  presenter:
+    image: node:latest
+    volumes:
+      - ./:/app
+    environment:
+      MEETUP: ${MEETUP}
+    working_dir: /app
+    command: ["node", "scripts/presenter.js", $MEETUP]
