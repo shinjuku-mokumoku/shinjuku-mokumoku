@@ -23,11 +23,13 @@ Body:
 
 ```
 明日はshinjukuもくもくプログラミングです！
-参加される方は事前に自己紹介のPull-Requestを以下のrepositoryに投稿お願いします。
-https://github.com/shinjuku-mokumou/shinjuku-mokumoku
 
-PR先、自己紹介テンプレートはconnpassページにあります。
-やり方がわからない部分がありましたら、slackにて気軽にご質問ください。
+参加頂く方は以下を参考に、自己紹介とやることの宣言を行うPull Requestを shinjuku-mokumoku repo(https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) の `meetups/<開催回数>/<あなたのお名前>.md` へお出しください。
+
+参考: https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/137
+
+Pull Requestで不明瞭な点がありましたら、connpassのpageを御覧ください。
+やり方がわからない部分がありましたら、slackにて質問いただいても大丈夫です。
 
 皆様のご来場をお待ちしております✨
 ```
@@ -45,6 +47,7 @@ PR先、自己紹介テンプレートはconnpassページにあります。
     1. 集まりが悪い場合は少し(5-10min程度) 開始を遅らせる
     1. 会の趣旨説明と自己紹介のファシリテート
     1. 参加者の出欠をattendance登録
+    1. lunch pollerのpost
 1. 13:00
     1. ランチのファシリテート
 1. 17:00
@@ -55,3 +58,17 @@ PR先、自己紹介テンプレートはconnpassページにあります。
 1. 18:00
     1. 原状復帰
     1. 翌々回までのイベント準備
+
+## lunch post
+
+ランチ募集
+
+```
+/poll 'ランチ案' 'タンタポッカ(イタリアン)' '高瀬(懐石・寿司)' 'バーガーズベース' '野菜を食べるカレーcamp' '山翠楼(中華)' 'オフィスにいます'
+```
+
+```
+ランチのお店の詳細
+https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md
+
+```
