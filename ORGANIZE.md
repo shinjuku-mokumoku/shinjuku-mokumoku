@@ -23,11 +23,13 @@ Body:
 
 ```
 明日はshinjukuもくもくプログラミングです！
-参加される方は事前に自己紹介のPull-Requestを以下のrepositoryに投稿お願いします。
-https://github.com/shinjuku-mokumou/shinjuku-mokumoku
 
-PR先、自己紹介テンプレートはconnpassページにあります。
-やり方がわからない部分がありましたら、slackにて気軽にご質問ください。
+参加頂く方は以下を参考に、自己紹介とやることの宣言を行うPull Requestを shinjuku-mokumoku repo(https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) の `meetups/<開催回数>/<あなたのお名前>.md` へお出しください。
+
+参考: https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/137
+
+Pull Requestで不明瞭な点がありましたら、connpassのpageを御覧ください。
+やり方がわからない部分がありましたら、slackにて質問いただいても大丈夫です。
 
 皆様のご来場をお待ちしております✨
 ```

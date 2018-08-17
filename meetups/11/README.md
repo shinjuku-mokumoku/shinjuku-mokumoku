@@ -1,5 +1,3 @@
-![](/assets/images/shinjuku-mokumoku-banner-960x180.png)
-
 # ガンガンコードを書く・学ぶ
 
 １人だと勉強をサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作ることを目的に毎週開催されているもくもく会です。
@@ -15,11 +13,7 @@
 
 自身にプレッシャーを与えるためにcheck-inにてやることを宣言し、check-outにて成果を発表します 💪
 
-### 過去の雰囲気
-
-[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) のmeetupsをみてみてください。
-
-どういうことをやっているかイメージしやすいかもしれません。
+過去の雰囲気 : [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/meetups)
 
 # コミュニケーション
 
@@ -56,36 +50,17 @@
 
 # check-in & out
 
-差し込み業務を回避するには強い意志！
+差し込み業務を回避するには強い意志！ということで、check-inにてやることを宣言し、check-outにて成果を発表します 💪
 
-check-inにてやることを宣言し、check-outにて成果を発表します 💪
+以下を参考に、自己紹介とやることの宣言を行うPull Requestを [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) の `meetups/<開催回数>/<あなたのお名前>.md` ([template](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/meetups/template/template.md)) へお出しください。
 
+参考: https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/137
 
-```md
-# <name_or_handle>
+> 💡 Pull Requestとは？その出し方は？
+> - [Github help - About pull requests](https://help.github.com/articles/about-pull-requests/)
+> - [Github help - Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
 
-## 会社や業務で普段やっていること
-
-## 今日取り組むこと
-
-## (option) 相談するかもしれないこと
-
-## (option) 得意とすること・教えられること
-```
-
-## PullRequest
-
-やることと成果は、
-[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) repositoryの`meetups/<開催回数>/<あなたのお名前>.md`としてPullRequest(以下PR)を出していただきます。
-
-> こちらはPR例です。参考にどうぞ。
-> - https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/137
-
-> Pull Requestとは？その出し方？
-> - [About pull requests](https://help.github.com/articles/about-pull-requests/)
-> - [Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
-
-PullRequestを出すのにはgitが必要です。わからない方は[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/general)までご質問下さい。
+gitやpull requestに不安な点がありましたら[shinjuku-mokumoku slack](https://shinjuku-mokumoku.slack.com/general)までご質問ください。
 
 # 会場
 
@@ -123,5 +98,5 @@ slackは https://shinjuku-mokumoku.herokuapp.com より登録できます。
 # 留意事項
 
 - どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください
-- 途中退出される場合は、PRに今日の成果をお出しください
 - 質問・疑問などは、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) もしくは、twitterにて `#shinjukumokumoku` 付きtweetでご連絡ください
+- 途中退出される場合は、PRに今日の成果をお出しください
