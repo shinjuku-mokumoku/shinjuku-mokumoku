@@ -21,4 +21,4 @@
 - PythonやSlackAppに詳しい方にお助けいただきたいシーンがあるかもしれません...! :bow:
 
 ## 今日の成果
-- あとで書く
+- https://gitpitch.com/TaKesso/slides/master?p=shinjuku-mokumoku/11
