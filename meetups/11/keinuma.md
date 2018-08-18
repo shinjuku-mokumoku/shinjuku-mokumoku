@@ -16,3 +16,6 @@ Vue.js
 
 ## (option) 教えてもいいよという領域
 Python, Django周りなら少し
+
+## 今日取り組んだ成果
+- [成果](https://gitpitch.com/keinuma/slides?grs=gitlab&p=20180818_shinjukumokumoku)
