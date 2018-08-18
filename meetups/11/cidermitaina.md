@@ -14,3 +14,13 @@ https://railstutorial.jp/
 Ruby、railsについて聞くかもしれません。。。
 
 ## 今日の成果
+railsチュートリアル
+6章まで(残りは宿題...！)
+
+- メソッド定義
+- Rubyにおけるクラス
+- クラス継承
+- パーシャル (partial)
+- Asset Pipeline
+- Userモデル
+- データベース
