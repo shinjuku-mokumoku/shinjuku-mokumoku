@@ -52,7 +52,7 @@
 
 差し込み業務を回避するには強い意志！ということで、check-inにてやることを宣言し、check-outにて成果を発表します 💪
 
-以下を参考に、自己紹介とやることの宣言を行うPull Requestを [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) の `meetups/<開催回数>/<あなたのお名前>.md` ([template](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/meetups/template/template.md)) へお出しください。
+以下を参考に、自己紹介とやることの宣言を行うPull Requestを [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) の `meetups/<開催回数>/<あなたのお名前>.md` ([template](https://raw.githubusercontent.com/shinjuku-mokumoku/shinjuku-mokumoku/master/meetups/template/template.md)) へお出しください。
 
 参考: https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/137
 
