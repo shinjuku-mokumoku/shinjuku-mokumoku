@@ -28,3 +28,9 @@
 サービスアーキテクチャ、インフラまわり、rubyを中心としたアプリケーションで少し相談乗れるかもしれません。
 
 ## 今日取り組んだ成果
+
+shinjukurb - fluentd overview
+https://gitpitch.com/threetreeslight/slides/master?p=shinjukurb/64/fluentd-overview
+
+shinjukurb - What is the best way to collect log on kubernates
+https://gitpitch.com/threetreeslight/slides/master?p=shinjukurb/64/kubernates-logging
