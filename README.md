@@ -1,9 +1,8 @@
-# What's shinjuku mokumoku programming?
+# What's Shinjuku Mokumoku Programming?
 
 ![](/assets/images/shinjuku-mokumoku-banner-960x180.png)
 
-オーガナイザーが**ストイックにプログラミングする**ための強制的な時間を作りたい、１人だとサボりそうという流れから、2018-05-19 より隔週で開催されています。
-（ほんとは毎週やりたいのです。オーガナイズをお手伝いいただけませんか？やっても良い方はご連絡ください）
+１人だと勉強をサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作ることを目的に毎週開催されているもくもく会です。
 
 そのため、新宿プログラミングもくもく会では参加しているプログラマー各位が相談したりしながら、以下のようなテーマにそれぞれ取り組みます。
 
@@ -20,28 +19,22 @@
 
 未登録の方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
 
+## ToC
+
+- [Introduction Pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku)
+- [shinjuku-mokumoku slack](https://shinjuku-mokumoku.slack.com/) (regstration is [here](https://shinjuku-mokumoku.herokuapp.com))
+- [shinjuku-mokumoku connpass group](https://shinjuku-moku.connpass.com/)
+  - [connpass descritpion](connpass.md)
+- [Organizer works](ORGANIZE.md)
+
 ## Other Usage
 
 提出された自己紹介markdownから発表順を決定する
 
 ```sh
-scripts/presenter.js <num>
+node scripts/presenter.js <num>
 
 OR
 
-MEETUP=10 docker-compose run presenter
+MEETUP=<num> docker-compose run presenter
 ```
-
-## meetups
-
-1. [README](/meetups/1/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F1) / [kpt](/meetups/1/kpt.md)
-1. [README](/meetups/2/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F2) / [kpt](/meetups/2/kpt.md)
-1. [README](/meetups/3/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F3) / [kpt](/meetups/3/kpt.md)
-1. [README](/meetups/4/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F4) / [kpt](/meetups/4/kpt.md)
-1. [README](/meetups/5/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F5) / [kpt](/meetups/5/kpt.md)
-1. [README](/meetups/6/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F6) / [kpt](/meetups/6/kpt.md)
-1. [README](/meetups/7/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F7) / [kpt](/meetups/7/kpt.md)
-1. [README](/meetups/8/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F8) / [kpt](/meetups/8/kpt.md)
-1. [README](/meetups/9/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F9) / [kpt](/meetups/9/kpt.md)
-1. [README](/meetups/10/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F10) / [kpt](/meetups/10/kpt.md)
-1. [README](/meetups/11/README.md) / [pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=meetups%2F11) / [kpt](/meetups/11/kpt.md)
