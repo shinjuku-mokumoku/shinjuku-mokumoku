@@ -38,3 +38,13 @@ OR
 
 MEETUP=<num> docker-compose run presenter
 ```
+
+次回eventのtemplateを作る
+
+```sh
+node scripts/generate-next-event.js
+
+OR
+
+docker-compose run node node ./scripts/generate-next-event.js
+```
