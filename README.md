@@ -15,9 +15,25 @@
 
 また、自身にプレッシャーを与えるためにもcheck-inにてやることを宣言し、check-outにて成果を発表します！
 
-質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) で mention もしくは、twitterにて #shinjukumokumoku hash付きで 連絡ください。
+過去の雰囲気 : [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/meetups)
 
-未登録の方は https://shinjuku-mokumoku.herokuapp.com より登録ください。
+質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) もしくは、twitter [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku) にてご連絡ください。
+slack 未登録の方は方は https://shinjuku-mokumoku.herokuapp.com よりぜひ登録ください。
+
+# check-in & out
+
+差し込み業務を回避するには強い意志！ということで、check-inにてやることを宣言し、check-outにて成果を発表します 💪
+
+以下を参考に、自己紹介とやることの宣言を行うPull Requestを [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) の `meetups/<開催回数>/<あなたのお名前>.md` ([template](https://raw.githubusercontent.com/shinjuku-mokumoku/shinjuku-mokumoku/master/meetups/template.md)) へお出しください。
+
+参考: https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/137
+
+> 💡 Pull Requestとは？その出し方は？
+>
+> - [Github help - About pull requests](https://help.github.com/articles/about-pull-requests/)
+> - [Github help - Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
+
+gitやpull requestに不安な点がありましたら[shinjuku-mokumoku slack](https://shinjuku-mokumoku.slack.com/general)までご質問ください。
 
 ## ToC
 
