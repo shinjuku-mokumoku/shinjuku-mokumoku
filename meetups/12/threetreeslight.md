@@ -33,4 +33,10 @@
 
 ## 今日取り組んだ成果
 
-TBD
+- [Repro Tech Meetup - Introduction](https://gitpitch.com/reproio/repro-tech-meetup?p=meetups/2)
+- [Hacking HR - introduction](https://gitpitch.com/hacking-hr/hacking-hr/master?&p=meetups/2)
+- Repro deep dive 
+  - [Introduction](https://gitpitch.com/threetreeslight/slides/master?p=repro-deep-dive/1/introduction#)
+  - [carrer panel discussion](https://gitpitch.com/threetreeslight/slides/master?p=repro-deep-dive/1/carrer-panel#/)
+
+
