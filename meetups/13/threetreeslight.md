@@ -18,6 +18,10 @@
 - [Repro Tech Hands-on](https://repro-tech.connpass.com/)
   - 2018-09-16 Firebase触ります！
 
+## (option) 教えてもいいよという領域
+
+サービスアーキテクチャ、インフラまわり、rubyを中心としたアプリケーションで少し相談乗れるかもしれません。
+
 ## 今日取り組むこと
 
 Kubernates上のSSL証明書の自動更新作業に着手します
@@ -26,9 +30,7 @@ Kubernates上のSSL証明書の自動更新作業に着手します
 
 ## (option) もしかしたら相談するかもしれないこと
 
-## (option) 教えてもいいよという領域
-
-サービスアーキテクチャ、インフラまわり、rubyを中心としたアプリケーションで少し相談乗れるかもしれません。
-
 ## 今日取り組んだ成果
+
+https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/13
 
