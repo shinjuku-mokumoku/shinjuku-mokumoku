@@ -37,11 +37,15 @@ gitやpull requestに不安な点がありましたら[shinjuku-mokumoku slack](
 
 ## ToC
 
-- [Introduction Pitch](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku)
-- [shinjuku-mokumoku slack](https://shinjuku-mokumoku.slack.com/) (regstration is [here](https://shinjuku-mokumoku.herokuapp.com))
-- [shinjuku-mokumoku connpass group](https://shinjuku-moku.connpass.com/)
-  - [connpass descritpion](connpass.md)
-- [Organizer works](ORGANIZE.md)
+- Pitch
+  - [Introduction, Closing](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku)
+  - [Boardgame](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=boardgame)
+- Community
+  - [slack](https://shinjuku-mokumoku.slack.com/) (regstration is [here](https://shinjuku-mokumoku.herokuapp.com))
+  - [connpass group](https://shinjuku-moku.connpass.com/)
+- Organize
+  - [connpass event descritpion](connpass.md)
+  - [Organizer works](ORGANIZE.md)
 
 ## Other Usage
 
