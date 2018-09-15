@@ -11,6 +11,11 @@
 
 - localstackの組み込み
 
+## 今日の成果
+
+- https://github.com/vasilyjp/ のリポジトリが消えていることに気付いた。
+  - `redis-dist-mutex`を利用していたので、代案を探した  
+
 ## (option) もしかしたら相談するかもしれないこと
 
 - 特に無し
