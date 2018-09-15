@@ -14,3 +14,5 @@ SymfonyのアプリをDockerに乗せる
 Docker,Symfony
 
 ## 今日の成果
+とりあえずphp5.3,symfony1のアプリケーションがamazonlinux2コンテナの上の動いた
+自己満足感が強い
