@@ -24,4 +24,9 @@
 
 ## 今日の成果
 
-WIP
+- Django Girlsチュートリアルやった
+  - DjangoのMVTモデルが何となく理解できた
+
+- DjangoをDockerで動かす前準備として、DBをSQLite3からMySQL on Dockerに切り替えるところで詰まってた
+  - Djangoのモデルからテーブルを作るmakemigrations, migrateが
+    ちゃんと理解できていない感じがするので掘り下げる
