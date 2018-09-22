@@ -30,9 +30,9 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## 成果発表
 
-2~3minでモニターを使って是非今日の成果を皆さんで共有し合いましょう:sparkles:
+最後に以下のようにLTをします
 
-ref. [過去の発表](https://gitpitch.com/koki1023/2018-08-25_mokumoku)
+e.g. [過去の発表](https://gitpitch.com/koki1023/2018-08-25_mokumoku)
 
 ---
 
