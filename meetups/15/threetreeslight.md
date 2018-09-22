@@ -31,6 +31,4 @@ PCが治ったのでservice meshについて学びます :muscle:
 
 ## 今日取り組んだ成果
 
-自分のdotfilesのかっこよくしようと諸々やっていたら何の成果になもなりませんでした :sweat_smile:
-
-https://github.com/threetreeslight/dotfiles
+https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/15
