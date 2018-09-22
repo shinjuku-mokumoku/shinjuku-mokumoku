@@ -28,6 +28,14 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
+## 成果発表
+
+最後に以下のようなLTをします！
+
+e.g. [過去の発表](https://gitpitch.com/koki1023/2018-08-25_mokumoku)
+
+---
+
 ## 会場 Sponsers 👏
 
 ![](/assets/images/sponsers/repro-logo-colored.png)
