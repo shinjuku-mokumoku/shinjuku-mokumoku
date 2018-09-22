@@ -1,0 +1,13 @@
+# Kojima(ID: ashiris)
+
+## 会社や業務で普段やっていること
+- ReactNative, Rails でアプリ開発しています。
+
+## 今日取り組むこと
+- Vue の勉強しようと思ってます。
+
+## (option) もしかしたら相談するかもしれないこと
+
+## (option) 教えてもいいよという領域
+- ReactNatve
+- Rails
