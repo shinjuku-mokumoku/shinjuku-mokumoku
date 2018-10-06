@@ -55,6 +55,7 @@
         - (前提) fitbitのAPIを使うときはhttps://dev.fitbit.com/login でアプリケーションを登録する必要がある
         - (状況3) 今回、この辺の手順をド忘れしていたの[このページ](https://qiita.com/fujit33/items/2af7c4afdb4e07601def)を見ながら、最初からアプリを登録し直した
         - (状況4) そのとき、<u>**「OAuth 2.0 Application Type」の設定を「Personal」にし忘れていた（私のちょんぼ）**</u>
+            + <img src="https://user-images.githubusercontent.com/31801148/46569009-a1f9b800-c989-11e8-99da-6a58842ce34d.png">
         - (結果) APIを叩いて返却されるjsonの中に詳細なデータが含まれていなかった
 - 参考にしたページ
     + https://python-fitbit.readthedocs.io/en/latest/#fitbit-api
