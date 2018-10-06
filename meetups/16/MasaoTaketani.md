@@ -14,3 +14,5 @@ After that, I may also try to implement some word2vec and RL algorithms.
 Nothing.
 
 ## ç°ì˙ÇÃê¨â 
+I implemented some algorithms from PRML(Pattern Recognition and Machine Learning) book.
+I could not finish implementing a regularization term, which is used to restrict weights to having high value.
