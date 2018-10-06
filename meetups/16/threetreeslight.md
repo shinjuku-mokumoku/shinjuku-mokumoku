@@ -35,3 +35,7 @@ Istio触ったことがある人いたらぜひランチにでも話しましょ
 
 ## 今日取り組んだ成果
 
+- [Why do we need service mesh?](https://threetreeslight.com/posts/2018/09/22/why-do-we-need-service-mesh/)
+- [How to manage secret on kubernates?](https://threetreeslight.com/posts/2018/10/06/how-to-manage-secret-on-kubernates/)
+- [Awesome kubernates tools: kubectx](https://threetreeslight.com/posts/2018/10/06/awesome-kubernates-tools-kubectx/)
+- [How to record terminal operation?](https://threetreeslight.com/posts/2018/10/06/how-to-record-terminal-operation/)
