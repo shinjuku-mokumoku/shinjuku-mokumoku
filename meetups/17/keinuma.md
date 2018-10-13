@@ -17,3 +17,7 @@ Go
 
 ## (option) 教えてもいいよという領域
 Python, Django周りなら少し
+
+## 今日取り組んだ成果
+- https://gitpitch.com/keinuma/slides?p=20181013_shinjukumokumoku#/
+- https://blog.keinuma.com/2018/10/13/go-web-form
