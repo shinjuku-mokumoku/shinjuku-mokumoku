@@ -34,3 +34,5 @@ Hosting
 Istio触ったことがある人いたらぜひお話効かせてください :pray:
 
 ## 今日取り組んだ成果
+
+https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/17
