@@ -25,4 +25,11 @@
 
 ## 今日の成果
 
-ToDo
+- LocalStackのSecretsManagerとりあえず動かせた
+- どうでも良い感じのところではまりました
+  - バージョン `0.8.7` は `latest` では無い
+    https://hub.docker.com/r/localstack/localstack/tags/
+  - 公式サンプルの `docker-compose.yml` がSecretsManagerで使用しているport(4584)が空いてなかった
+    https://github.com/localstack/localstack/blob/master/docker-compose.yml
+    => 1行プルリク出した
+- リファクタリングはSlackのWebhook URLをSecretsManagerから読み込むようにしたところで時間切れ
