@@ -1,4 +1,4 @@
-# yoshiarch
+# なか (yoshiarch)
 
 ## 会社や業務で普段やっていること
 
@@ -11,5 +11,5 @@
 
 ## 今日の成果
 
-- (何かあるといいですね)
+- https://gitpitch.com/yoshiarch/mokumokulog
 
