@@ -11,4 +11,6 @@
 - 時間があれば量子アニーリングのシミュレーターを動かす
 
 ## 今日取り組んだ成果
-
+- vggishなモデルで単純な波と話声の特徴量を抽出してみた
+- google quantum AIの論文を読んで量子コンピュータビジネスのおおよそ状況を把握
+- https://www.quantummachinelearning.org/qmlkdd2018.htmlから論文をいくつか斜め読み
