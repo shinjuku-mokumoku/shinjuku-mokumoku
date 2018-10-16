@@ -14,9 +14,9 @@ hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 
 ## ~~サボりそうな~~<br>オーガナイザーたち
 
-@ttl | @aretoky | @Yhiss | @yokina | @koki1023
+@koki1023 | @ttl | @aretoky | @Yhiss | @yokina
 :---: | :---: | :---: | :---: | :---:
-![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4)  | ![](https://avatars2.githubusercontent.com/u/39427270?s=100&v=4) | ![](https://avatars0.githubusercontent.com/u/4452841?s=100&v=4) | ![](https://avatars1.githubusercontent.com/u/28473371?s=100&v=4)
+![](https://avatars1.githubusercontent.com/u/28473371?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4)  | ![](https://avatars2.githubusercontent.com/u/39427270?s=100&v=4) | ![](https://avatars0.githubusercontent.com/u/4452841?s=100&v=4)
 
 ---
 
@@ -32,7 +32,8 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 最後に以下のようなLTをします！
 
-e.g. [過去の発表](https://gitpitch.com/koki1023/2018-08-25_mokumoku)
+> 💡 gitpitchを使うと簡単にLTできます
+> [GETTING STARTED ISTIO](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/17)
 
 ---
 
