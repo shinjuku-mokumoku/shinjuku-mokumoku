@@ -1,75 +1,39 @@
-# オーガナイザーのお仕事
+# Meetup organize workflow
 
-## イベントの準備
+## Prepare Event
 
-以下はイベント終了後に以下の作業が速やかに完了していることが望ましい。
+- [ ] `connpass.md` をもとに connpass eventを作成
 
-1. github
-    1. 翌々回までのイベントの準備を行う
-    1. KPTの結果を反映したREADME.md, PITCHME.md, PITCHME.yaml, template.md をcopyしたディレクトリを作成
-1. connpass
-    1. githubで作成されたREADME.mdを元に、翌々週までのイベントを作成
-    1. 募集開始は開催週の頭（日曜日の日中帯）にする
-
-## イベント前日
-
-明日開催される旨や、参加者は事前に自己紹介PRを出しておいてほしい旨のリマインド
-
-subject: 明日はshinjukuもくもくプログラミングです！
-
-To: Event Admins, Presenter, Attendees, Waitlist
-
-Body:
-
-```
-明日はshinjukuもくもくプログラミングです！
-
-参加頂く方は以下を参考に、自己紹介とやることの宣言を行うPull Requestを shinjuku-mokumoku repo(https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) の `meetups/<開催回数>/<あなたのお名前>.md` へお出しください。
-
-参考: https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/137
-
-Pull Requestで不明瞭な点がありましたら、connpassのpageを御覧ください。
-やり方がわからない部分がありましたら、slackにて質問いただいても大丈夫です。
-
-皆様のご来場をお待ちしております✨
-```
-
-## イベント当日の作業
+## vベント当日の作業
 
 随時マージ権を持っている方はPRのマージ作業を行ってください。
 
 1. 10:30
-    1. 集合、会場設営の開始
-    1. 以下のreminderを設定
-        1. `/remind #general "@here もうすぐlunch時間です! ランチアンケートへの回答お願いします :pray:" at 12:55`
-        1. `/remind #general "@here checkoutまであと1hです！成果のまとめなどしていきましょう :muscle:" at 16:00`
+    1. 会場設営の開始
+    1. 以下のreminderおよびlunch先のpost
 1. 10:45
+    1. 開場
+1. 11:00
     1. 集まりが悪い場合は少し(5-10min程度) 開始を遅らせる
-    1. 会の趣旨説明と自己紹介のファシリテート
-    1. 参加者の出欠をattendance登録
-    1. lunch pollerのpost
+    1. introduction
+        1. self introduction time keep: 1-3min/person
 1. 13:00
-    1. ランチのファシリテート
+    1. ランチいくよーと声がけをする
 1. 17:00
-    1. 発表のファシリテート
-        1. time keep: 3-5min/person
-    1. KPTのファシリテート
+    1. check-out
+    1. LT
+        1. time keep: 1-5min/person
+    1. KPT
         1. 初参加の人には必ず聞くように
         1. 時間の許す限りなるべく全体から意見を設けたい
 1. 18:00
-    1. 原状復帰
-    1. 翌々回までのイベント準備
+    1. 必要に応じて原状復帰
 
-## lunch post
-
-ランチ募集
 
 ```
-/poll “ランチ案” “タンタポッカ(イタリアン)” “高瀬(懐石)” “高瀬(寿司)” “バーガーズベース” “野菜を食べるカレーcamp” “山翠楼(中華)” “シュラスコレストラン ALEGRIA shinjuku” “トーキョー シノワ 神子” “Bistro ひつじや” “オフィスにいます”
+/remind #general "@here もうすぐlunchです！ランチアンケート ( https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md ) への回答しましょう！" at 12:55
+/remind #general "@here checkoutまであと1hです！成果のまとめなどしていきましょう :muscle:" at 16:00
+/poll "厳選美味昼食アンケート" "イタリアン: タンタポッカ" "天丼: 高瀬" "寿司: 高瀬" "バーガー: クリバーガー" "カレー: 野菜を食べるカレーcamp" "中華: トーキョー シノワ 神子" "エスニック: Bistro ひつじや" "ラーメン: 麺恋処 いそじ" "オフィスにいます"
+厳選美味昼食店: https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md
 ```
 
-```
-ランチのお店の詳細
-https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md
-
-```
