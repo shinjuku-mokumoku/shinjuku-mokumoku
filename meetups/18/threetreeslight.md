@@ -30,10 +30,9 @@ Hosting
 
 ## 今日取り組むこと
 
-自サービスで以下を完全稼働させる。
-
-- service meshのIstio
-- Jaeger
+- 自サービスをIstio Readyにする
+- Istioをちゃんと可動させる
+- Jaegerでtracingしてみる
 
 ## (option) もしかしたら相談するかもしれないこと
 
@@ -41,3 +40,4 @@ Istio触ったことがある人いたらぜひお話聞かせてださい :pray
 
 ## 今日取り組んだ成果
 
+https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/18
