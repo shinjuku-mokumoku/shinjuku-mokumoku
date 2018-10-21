@@ -47,6 +47,10 @@ gitやpull requestに不安な点がありましたら[shinjuku-mokumoku slack](
   - [connpass event descritpion](connpass.md)
   - [Organizer works](ORGANIZE.md)
 
+## TODO
+
+- [ ] run `npm prepare` on circleci workflow (need commit and push)
+
 ## Other Usage
 
 Generate Presenter order
