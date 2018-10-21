@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "![](/assets/images/shinjuku-mokumoku-banner-960x180.png)",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "node ./scripts/setReminderAndPoll.js && node ./scripts/generateNextEvent.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinjuku-mokumoku/shinjuku-mokumoku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/issues"
+  },
+  "homepage": "https://github.com/shinjuku-mokumoku/shinjuku-mokumoku#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

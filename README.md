@@ -49,22 +49,30 @@ gitやpull requestに不安な点がありましたら[shinjuku-mokumoku slack](
 
 ## Other Usage
 
-提出された自己紹介markdownから発表順を決定する
+Generate Presenter order
 
 ```sh
-node scripts/presenter.js <num>
-
-OR
-
 MEETUP=<num> docker-compose run presenter
 ```
 
-次回eventのtemplateを作る
+Generate Event template and set reminder and poller
 
 ```sh
-node scripts/generate-next-event.js
+SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> \
+SLACK_CHANNEL=<YOUR_SLACK_CHANNEL> \
+docker-compose run node npm run prepare
+```
 
-OR
+Generate event template
 
-docker-compose run node node ./scripts/generate-next-event.js
+```sh
+docker-compose run node node ./scripts/generateNextEvent.js
+```
+
+Set reminder and poller
+
+```sh
+SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> \
+SLACK_CHANNEL=<YOUR_SLACK_CHANNEL> \
+docker-compose run node node ./script/setRminderAndPoll.js
 ```

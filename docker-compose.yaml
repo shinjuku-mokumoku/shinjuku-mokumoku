@@ -8,10 +8,14 @@ services:
       - 9000:9000
 
   node:
-    image: node:latest
+    build:
+      context: .
+    environment:
+      SLACK_API_TOKEN: ${SLACK_API_TOKEN}
+      SLACK_CHANNEL: ${SLACK_CHANNEL}
     volumes:
       - ./:/app
-    working_dir: /app
+      - node_modules:/app/node_modules
 
   presenter:
     image: node:latest
@@ -21,3 +25,7 @@ services:
       MEETUP: ${MEETUP}
     working_dir: /app
     command: ["node", "scripts/presenter.js", $MEETUP]
+
+volumes:
+  node_modules:
+    driver: local
