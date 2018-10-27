@@ -18,3 +18,9 @@
 
 - kube-awsの使い方
 - k8sのCI設計
+
+## 成果
+
+https://paper.dropbox.com/doc/20181027--AQTWtcw5wh8uJmAljPN~aRvXAg-tA4S3C9oePoeeZSU4f0SP
+- kubesec導入
+- k8sをCIに乗せる(途中)
