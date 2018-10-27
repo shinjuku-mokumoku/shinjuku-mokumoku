@@ -17,15 +17,6 @@ services:
       - ./:/app
       - node_modules:/app/node_modules
 
-  presenter:
-    image: node:latest
-    volumes:
-      - ./:/app
-    environment:
-      MEETUP: ${MEETUP}
-    working_dir: /app
-    command: ["node", "bin/presenter.js", $MEETUP]
-
 volumes:
   node_modules:
     driver: local

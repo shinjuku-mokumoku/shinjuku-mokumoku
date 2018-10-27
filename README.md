@@ -55,7 +55,7 @@ gitやpull requestに不安な点がありましたら[shinjuku-mokumoku slack](
 Generate Presenter order
 
 ```sh
-MEETUP=<num> docker-compose run presenter
+docker-compose run node node ./bin/presenter.js <num>
 ```
 
 Generate Event template and set reminder and poller
