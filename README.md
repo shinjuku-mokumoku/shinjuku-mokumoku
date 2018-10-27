@@ -70,7 +70,7 @@ docker-compose run node npm run prepare
 Generate event template
 
 ```sh
-docker-compose run node node ./scripts/generateNextEvent.js
+docker-compose run node node ./bin/generateNextEvent.js
 ```
 
 Set reminder and poller
@@ -78,5 +78,5 @@ Set reminder and poller
 ```sh
 SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> \
 SLACK_CHANNEL=<YOUR_SLACK_CHANNEL> \
-docker-compose run node node ./script/setRminderAndPoll.js
+docker-compose run node node ./bin/setRminderAndPoll.js
 ```

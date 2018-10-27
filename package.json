@@ -4,7 +4,7 @@
   "description": "![](/assets/images/shinjuku-mokumoku-banner-960x180.png)",
   "main": "index.js",
   "scripts": {
-    "prepare": "node ./scripts/setReminderAndPoll.js && node ./scripts/generateNextEvent.js"
+    "prepare": "node ./bin/setReminderAndPoll.js && node ./bin/generateNextEvent.js"
   },
   "repository": {
     "type": "git",

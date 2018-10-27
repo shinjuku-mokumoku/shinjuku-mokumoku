@@ -24,7 +24,7 @@ services:
     environment:
       MEETUP: ${MEETUP}
     working_dir: /app
-    command: ["node", "scripts/presenter.js", $MEETUP]
+    command: ["node", "bin/presenter.js", $MEETUP]
 
 volumes:
   node_modules:
