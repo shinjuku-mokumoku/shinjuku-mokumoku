@@ -11,7 +11,7 @@
 - 数学や統計を学び直す、論文を読む
 - OSS活動やプライベートプロダクトを集中して進めたい
 
-過去の雰囲気 : [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/meetups)
+過去の雰囲気 : [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/tree/master/meetups)
 
 もくもく中の質問などはslackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) を利用していきましょう！
 
@@ -30,6 +30,8 @@
 17:30 | 振り返り(KPT)
 17:40 | 片付け・解散
 
+遅刻される方はこちらの[Introduction資料](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku#/)の確認をお願いします。
+
 # check-in & out
 
 差し込み業務を回避するには強い意志！ということで、check-inにてやることを宣言し、check-outにて成果を発表します 💪
@@ -44,6 +46,15 @@
 > - [Github help - Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
 
 gitやpull requestに不安な点がありましたら[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ))までご質問ください。
+
+成果発表については、以下を参考にしてください。
+
+参考: https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/17#/
+
+> :clipboard: おすすめLT資料作成サイト
+>
+> - [GitPitch](https://gitpitch.com/)
+> - [Slides](https://slides.com/)
 
 # 会場
 
