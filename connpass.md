@@ -13,8 +13,7 @@
 
 過去の雰囲気 : [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/meetups)
 
-もくもく中の質問などはslackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) を利用していきましょう！
-未登録の方は方は https://shinjuku-mokumoku.herokuapp.com よりぜひ登録ください。
+もくもく中の質問などはslackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) を利用していきましょう！
 
 # タイムテーブル
 
@@ -44,7 +43,7 @@
 > - [Github help - About pull requests](https://help.github.com/articles/about-pull-requests/)
 > - [Github help - Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
 
-gitやpull requestに不安な点がありましたら[shinjuku-mokumoku slack](https://shinjuku-mokumoku.slack.com/general)までご質問ください。
+gitやpull requestに不安な点がありましたら[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ))までご質問ください。
 
 # 会場
 
@@ -72,8 +71,7 @@ Repro株式会社
 
 ![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-4.png?raw=true)
 
-迷われましたら、[slack/shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) もしくは、 `#shinjukumokumoku` hash付きでtweetください。
-slackは https://shinjuku-mokumoku.herokuapp.com より登録できます。
+迷われましたら、[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) もしくは、 `#shinjukumokumoku` hash付きでtweetください。
 
 # 留意事項
 

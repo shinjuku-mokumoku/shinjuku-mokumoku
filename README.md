@@ -1,6 +1,6 @@
-# What's Shinjuku Mokumoku Programming?
-
 ![](/assets/images/shinjuku-mokumoku-banner-960x180.png)
+
+# What's Shinjuku Mokumoku Programming?
 
 １人だと勉強をサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作ることを目的に毎週開催されているもくもく会です。
 
@@ -17,8 +17,7 @@
 
 過去の雰囲気 : [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/meetups)
 
-質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) もしくは、twitter [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku) にてご連絡ください。
-slack 未登録の方は方は https://shinjuku-mokumoku.herokuapp.com よりぜひ登録ください。
+質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) もしくは、twitter [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku) にてご連絡ください。
 
 # check-in & out
 
@@ -41,7 +40,7 @@ gitやpull requestに不安な点がありましたら[shinjuku-mokumoku slack](
   - [Introduction, Closing](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku)
   - [Boardgame](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=boardgame)
 - Community
-  - [slack](https://shinjuku-mokumoku.slack.com/) (regstration is [here](https://shinjuku-mokumoku.herokuapp.com))
+  - [slack](https://shinjuku-mokumoku.slack.com/) ([join from here](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) もしくは、twitter [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku))
   - [connpass group](https://shinjuku-moku.connpass.com/)
 - Organize
   - [connpass event descritpion](connpass.md)
