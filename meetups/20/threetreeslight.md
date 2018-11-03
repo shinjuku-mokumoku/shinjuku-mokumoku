@@ -21,6 +21,7 @@ Hosting
 - [OpenQL](https://openql.connpass.com/)
   - 11/5 量子コンピューティングのための圏論入門
 
+Speaker
 
 - 11-26 [Engineer Next Lab](https://findy.connpass.com/event/105157/)
 - 12-06 [エンジニアを採用できる組織の作り方](https://scouty.connpass.com/event/101556/preview/)
@@ -39,3 +40,4 @@ Hosting
 
 ## 今日取り組んだ成果
 
+https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/20
