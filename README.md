@@ -77,5 +77,5 @@ Set reminder and poller
 ```sh
 SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> \
 SLACK_CHANNEL=<YOUR_SLACK_CHANNEL> \
-docker-compose run node node ./bin/setRminderAndPoll.js
+docker-compose run node node ./bin/setReminderAndPoll.js
 ```
