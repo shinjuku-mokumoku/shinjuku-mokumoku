@@ -15,9 +15,12 @@ https://twitter.com/tokoroten
   - https://twitter.com/tokoroten/status/1058603553739010048
 -[ ] 某所の対談記事の原稿修正
 -[ ] プレスリリースの作成
+-[ ] 発表原稿作成
+  - https://repro-tech.connpass.com/event/104028/
 
 原稿修正がつらすぎる
 
 ## 感想
 
 コード書いてねぇ！！
+資料もできてねぇ！！！
