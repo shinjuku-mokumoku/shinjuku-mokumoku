@@ -89,3 +89,9 @@ Repro株式会社
 - どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください
 - 質問・疑問などは、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) もしくは、twitterにて `#shinjukumokumoku` 付きtweetでご連絡ください
 - 途中退出される場合は、PRに今日の成果をお出しください
+
+# アンチハラスメントポリシー
+
+shinjuku-mokumokuは参加者の方皆様がハラスメント行為を受けないような会場提供に尽力します。
+[こちらのポリシー](http://25.ruby.or.jp/coc.ja.html)を守ります。
+ご理解の程よろしくお願い致します。
