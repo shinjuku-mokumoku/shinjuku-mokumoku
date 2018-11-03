@@ -133,7 +133,7 @@ Let's mokumoku!
 
 1-5 min / person
 
-[shinjuku-mokumoku - meetups](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)
+[資料はこちら](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)
 
 ---
 
@@ -142,6 +142,8 @@ Let's mokumoku!
 1. よかったこと
 1. わるかったこと・課題感をかんじたこと
 1. これやってみたいとおもったこと
+
+[資料はこちら](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)
 
 ---
 
