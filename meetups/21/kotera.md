@@ -18,3 +18,11 @@
 - kube-awsの使い方
 - k8sのCI設計
 
+## 結果
+
+- kube-awsで
+  - nodepool作成
+  - CloudWatchにログ転送
+  - SpotFleet導入
+
+https://paper.dropbox.com/doc/shinjuku-mokumoku21--ARfaf7ZsCJV6tf4LUThvFmWNAg-UMQRyEXF7qtujjkYWWf7X
