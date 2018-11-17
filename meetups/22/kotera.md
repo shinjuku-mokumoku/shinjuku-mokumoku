@@ -18,3 +18,10 @@
 - kube-awsの使い方
 - k8sのCI設計
 
+
+## 結果
+
+- k8sにfluentd導入
+- k8sのdestination通信の仕様調査
+
+https://paper.dropbox.com/doc/--AR94o6x3Fwc3_EZj~Fmx21EoAg-gNdjWKBQf1UzyhwBN8VYU
