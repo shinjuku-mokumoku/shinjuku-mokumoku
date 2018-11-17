@@ -13,3 +13,5 @@ railsのTwitter認証
 rails  
 
 ## 今日の成果
+Twitterに連携して投稿  
+作ってみたいアプリの要件定義  
