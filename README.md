@@ -79,3 +79,13 @@ SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> \
 SLACK_CHANNEL=<YOUR_SLACK_CHANNEL> \
 docker-compose run node node ./bin/setReminderAndPoll.js
 ```
+
+## FAQ
+
+### How to get SLACK_API_TOKEN
+
+https://api.slack.com/custom-integrations/legacy-tokens
+
+### How to get SLACK_CHANNEL
+
+https://api.slack.com/methods/channels.list/test
