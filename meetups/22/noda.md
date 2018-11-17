@@ -7,3 +7,5 @@
 ## 今日取り組むこと
 - Clean Architecture の本を読みます
 
+## 今日の成果
+https://gitpitch.com/n0dam1/slide
