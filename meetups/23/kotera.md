@@ -16,3 +16,10 @@
 
 - kube-awsの使い方
 - k8sのCI設計
+
+## 結果
+
+- なぜかgithubまわりのAPI調査
+  - 社内日報ツール。
+  - PRのComents, Approved, Changes Requestが拾えない。Why?
+  - ドキュメントを読む限りは、PullRequestReviewCommentEventで拾えそう。でも取得出来ない。
