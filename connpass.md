@@ -44,6 +44,7 @@
 >
 > - [Github help - About pull requests](https://help.github.com/articles/about-pull-requests/)
 > - [Github help - Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
+> - [Github help - Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 gitやpull requestに不安な点がありましたら[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ))までご質問ください。
 
