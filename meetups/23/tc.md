@@ -9,8 +9,10 @@
 - React周りなら
 
 ## 今日やること
-
 - Programming Scala(3rd黒魔術で見つかりました)を上から読んでいく
 
 ## (option) もしかしたら相談するかもしれないこと
 - Scalaについて質問するかも
+
+## やったこと
+- Programming in Scalaのcase class/ pattern matching / sealed traitあたりを読みました。
