@@ -1,5 +1,5 @@
-var fs = require('fs');
-var meetup_no = process.argv[2];
+const fs = require('fs');
+const meetup_no = process.argv[2];
 
 console.log(`Meetup #${meetup_no}\n`)
 

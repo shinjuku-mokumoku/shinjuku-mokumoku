@@ -12,7 +12,6 @@ services:
       context: .
     environment:
       SLACK_API_TOKEN: ${SLACK_API_TOKEN}
-      SLACK_CHANNEL: ${SLACK_CHANNEL}
     volumes:
       - ./:/app
       - node_modules:/app/node_modules

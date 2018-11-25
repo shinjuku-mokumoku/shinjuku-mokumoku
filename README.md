@@ -19,21 +19,6 @@
 
 質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) もしくは、twitter [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku) にてご連絡ください。
 
-# check-in & out
-
-差し込み業務を回避するには強い意志！ということで、check-inにてやることを宣言し、check-outにて成果を発表します 💪
-
-以下を参考に、自己紹介とやることの宣言を行うPull Requestを [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku) の `meetups/<開催回数>/<あなたのお名前>.md` ([template](https://raw.githubusercontent.com/shinjuku-mokumoku/shinjuku-mokumoku/master/meetups/template.md)) へお出しください。
-
-参考: https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/137
-
-> 💡 Pull Requestとは？その出し方は？
->
-> - [Github help - About pull requests](https://help.github.com/articles/about-pull-requests/)
-> - [Github help - Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
-
-gitやpull requestに不安な点がありましたら[shinjuku-mokumoku slack](https://shinjuku-mokumoku.slack.com/general)までご質問ください。
-
 ## ToC
 
 - Pitch
@@ -44,40 +29,26 @@ gitやpull requestに不安な点がありましたら[shinjuku-mokumoku slack](
   - [connpass group](https://shinjuku-moku.connpass.com/)
 - Organize
   - [connpass event descritpion](connpass.md)
-  - [Organizer works](ORGANIZE.md)
-
-## TODO
-
-- [ ] run `npm prepare` on circleci workflow (need commit and push)
+  - [organize workflow](ORGANIZE.md)
 
 ## Other Usage
 
-Generate Presenter order
+Create event channel, reminder and poller
 
 ```sh
-docker-compose run node node ./bin/presenter.js <num>
+SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> docker-compose run nodejs ./scripts/prepare.js <num_of_event>
 ```
 
-Generate Event template and set reminder and poller
+Generate presenter order
 
 ```sh
-SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> \
-SLACK_CHANNEL=<YOUR_SLACK_CHANNEL> \
-docker-compose run node npm run prepare
+docker-compose run node ./scripts/presenter.js <num_of_event>
 ```
 
 Generate event template
 
 ```sh
-docker-compose run node node ./bin/generateNextEvent.js
-```
-
-Set reminder and poller
-
-```sh
-SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> \
-SLACK_CHANNEL=<YOUR_SLACK_CHANNEL> \
-docker-compose run node node ./bin/setReminderAndPoll.js
+docker-compose run node ./scripts/generateNextEvent.js
 ```
 
 ## FAQ
@@ -85,7 +56,3 @@ docker-compose run node node ./bin/setReminderAndPoll.js
 ### How to get SLACK_API_TOKEN
 
 https://api.slack.com/custom-integrations/legacy-tokens
-
-### How to get SLACK_CHANNEL
-
-https://api.slack.com/methods/channels.list/test

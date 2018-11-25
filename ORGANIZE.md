@@ -1,8 +1,8 @@
-# How to organize
+# Organize Workflow
 
 1. 10:30
     1. Prepare Event space
-    1. Generate Event template and set reminder and poller (See README.md)
+    1. Run prepare.js
 1. 10:45
     1. Open Space
 1. 11:00
@@ -13,7 +13,9 @@
 1. 17:00
     1. Start check-out
     1. KPT
-        1.As you always listen to the first participants
+        1. As you always listen to the first participants
+    1. commit and PR
+        1. Commit KPT
+        1. Run generateNextEvent.js and commit
     1. Create event based on `connpass.md`
         1. Set for Starting apply before 2W ago from event day
-
