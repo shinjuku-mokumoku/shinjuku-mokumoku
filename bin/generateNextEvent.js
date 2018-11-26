@@ -3,7 +3,7 @@ var meetup_path = `${__dirname}/../meetups`
 
 fs.readdir( meetup_path, (err, dirs) => {
   var meetups = dirs
-    .filter( (dir) => { return !/template/.test(dir) })
+    .filter( (dir) => { return /[0-9]+/.test(dir) })
     .map( dir => parseInt(dir) );
 
   var next_meetup_num = Math.max.apply(null, meetups) + 1;
