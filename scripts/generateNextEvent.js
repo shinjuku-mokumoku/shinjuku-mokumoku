@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require('fs');
 const meetup_path = `${__dirname}/../meetups`
 

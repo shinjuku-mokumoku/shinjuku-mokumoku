@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // Prepare for event start
 //
 // 1. Create vol-xx channel
@@ -79,7 +81,7 @@ var main = async (name) => {
   message(general_id, `今日のshinjuku mokumoku slack channelは <#${channel_id}> です！みなさん参加お願いします :sparkles:`)
 
   // Lunch
-  command(channel_id, '/poll', '"厳選美味昼食アンケート" "イタリアン: タンタポッカ" "天丼: 高瀬" "寿司: 高瀬" "バーガー: クリバーガー" "カレー: 野菜を食べるカレーcamp" "中華: トーキョー シノワ 神子" "エスニック: Bistro ひつじや" "ラーメン: 麺恋処 いそじ" "オフィスにいます"')
+  command(channel_id, '/poll', '"昼食どこらへんが好き？" "イタリアン: タンタポッカ" "天丼: 高瀬" "寿司: 高瀬" "バーガー: クリバーガー" "カレー: 野菜を食べるカレーcamp" "中華: トーキョー シノワ 神子" "エスニック: Bistro ひつじや" "ラーメン: 麺恋処 いそじ" "オフィスにいます"')
   message(channel_id, '厳選美味昼食店: \nhttps://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md')
   command(channel_id, '/remind', `<#${channel_id}> "@channel もうすぐlunchです！ランチアンケート ( https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md ) への回答しましょう！" at 12:55`)
   command(channel_id, '/remind', `<#${channel_id}> "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`)
