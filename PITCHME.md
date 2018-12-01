@@ -70,7 +70,8 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 質問などはslackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) を是非ご利用ください
 
-まだの方はconnpassのリンクからぜひ
+まだの方はconnpassのリンクから是非
+[status](https://get.slack.help/hc/ja/articles/201864558-Slack-%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)で自己紹介の設定も是非
 
 ---
 

@@ -14,6 +14,7 @@
 過去の雰囲気 : [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/tree/master/meetups)
 
 もくもく中の質問などはslackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) を利用していきましょう！
+アカウントの[status]([status](https://get.slack.help/hc/ja/articles/201864558-Slack-%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)で自己紹介の設定も是非)を設定して是非自己紹介もお願いします！
 
 # タイムテーブル
 
@@ -56,6 +57,14 @@ gitやpull requestに不安な点がありましたら[shinjuku-mokumoku](https:
 >
 > - [GitPitch](https://gitpitch.com/)
 > - [Slides](https://slides.com/)
+
+成果発表時には[Chromecast](https://store.google.com/product/chromecast)を利用しています。以下を参照してください。
+
+
+> 💻 キャスト方法
+>
+> [Cast a Chrome tab on your TV](https://support.google.com/chromecast/answer/3228332?hl=en&ref_topic=4602553)
+>
 
 # 会場
 
