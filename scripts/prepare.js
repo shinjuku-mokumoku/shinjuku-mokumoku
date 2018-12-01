@@ -51,7 +51,13 @@ var get_channel_id = (name, cursor) => {
 }
 
 var message = (channel_id, text) => {
-  var data = { token: token, channel: channel_id, text: text }
+  var data = {
+    token: token,
+    channel: channel_id,
+    text: text,
+    username: "The Art of Mokumoku Programming",
+    icon_url: 'https://avatars0.githubusercontent.com/u/39395592?s=100&v=4'
+  }
 
   return axios.post( 'https://slack.com/api/chat.postMessage', querystring.stringify(data) ).then( (response) => {
     console.log(response.data);
@@ -79,6 +85,7 @@ var main = async (name) => {
   // Event channel announce
   var general_id = await get_channel_id('general')
   message(general_id, `今日のshinjuku mokumoku slack channelは <#${channel_id}> です！みなさん参加お願いします :sparkles:`)
+  message(channel_id, `わからないことがあるときはまず以下を参照しましょう :point_up: \n\n イベントページ: https://shinjuku-moku.connpass.com/\n introduction資料: https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku# \n`)
 
   // Lunch
   command(channel_id, '/poll', '"昼食どこらへんが好き？" "イタリアン: タンタポッカ" "天丼: 高瀬" "寿司: 高瀬" "バーガー: クリバーガー" "カレー: 野菜を食べるカレーcamp" "中華: トーキョー シノワ 神子" "エスニック: Bistro ひつじや" "ラーメン: 麺恋処 いそじ" "オフィスにいます"')
