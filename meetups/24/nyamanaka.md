@@ -21,3 +21,9 @@ PostgreSQLのEXPLAINの見方に詳しい方がいたら教えて欲しいです
 
 ## 今日の成果
 
+PythonのWebフレームワークPyramidを触っていて、DBがまだなかったのでPostgreSQLに接続するあたり、migrationファイルの初期生成あたりやってました
+
+- PostgreSQLへ接続する.iniファイルの設定 ◯
+- migration ×
+
+環境周りなのでpsycopg2-binaryがAlpine Linux上でインストールできなくてハマってました
