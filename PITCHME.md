@@ -20,23 +20,6 @@ hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 
 ---
 
-## Check-In & Out
-
-差し込み業務を回避するには強い意志！
-
-check-inにてやることを宣言し、check-outにて成果を発表します 💪
-
----
-
-## 成果発表
-
-最後に以下のようなLTをします！
-
-> 💡 gitpitchを使うと簡単にLTできます
-> [GETTING STARTED ISTIO](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/17)
-
----
-
 ## 会場 Sponsers 👏
 
 ![](/assets/images/sponsers/repro-logo-colored.png)
@@ -66,32 +49,33 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## Communication
 
-困ったときには助け合う✨
-
-質問などはslackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) を是非ご利用ください
-
-まだの方はconnpassのリンクからぜひ
-
----
-
-## Time Table
-
-- 11:00 check-in
-- 11:30 もくもく
-- 13:00 有志でランチ
-- 14:00 もくもく
-- 17:00 check-out
-- 17:30 KPT
+相談や質問にはぜひ[slack](https://shinjuku-mokumoku.slack.com/) に回毎のチャネルを設けていますので、ぜひご利用ください
 
 ---
 
 ## Lunch
 
-せっかくなのでランチしましょう！
+せっかくなので行ける方はランチ一緒しましょう!
 
 [slack](https://shinjuku-mokumoku.slack.com/)にてランチアンケートを出しますので12:50までにお答えください
 
-(強制ではありません)
+---
+
+## Check-In & Out
+
+差し込み業務を回避するには強い意志！
+
+check-inにてやることを宣言し、check-outにて成果を発表します 💪
+
+---
+
+## 成果発表イメージ
+
+最後に以下のようなLTをします！
+
+> 💡 gitpitchを使うと簡単にLTできます
+> [GETTING STARTED ISTIO](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/17)
+
 
 ---
 
@@ -121,15 +105,11 @@ Let's mokumoku!
 
 ## Prepare Check-out
 
-今日の成果項を追加してPRをお願いします 🎉
-
-1-3min / person
-
-[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku)
+今日の成果項を更新し[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku)へPRをお願いします 🎉
 
 ---
 
-## Check-Out!
+## Check-Out
 
 取り組んだことの発表していきましょう 👏
 
@@ -141,11 +121,11 @@ Let's mokumoku!
 
 ## KPT
 
-1. よかったこと
-1. わるかったこと・課題感をかんじたこと
-1. これやってみたいとおもったこと
+会をより良くするためのアイディアをslackへ投稿ください 🙏
 
-[資料はこちら](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)
+1. Keep: よかったこと
+1. Problem: わるかったこと・課題感をかんじたこと
+1. Try: これやってみたいとおもったこと
 
 ---
 
@@ -154,4 +134,3 @@ Let's mokumoku!
 ## see you next time!
 
 会場の方ないしオーガナイザーがいる間は会場に残って作業続けても大丈夫です
-
