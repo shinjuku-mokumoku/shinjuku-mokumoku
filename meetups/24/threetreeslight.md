@@ -44,4 +44,4 @@ kubernetes, Istioを利用されている方、是非ランチ一緒に!
 
 ## 今日取り組んだ成果
 
-https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/24
+https://threetreeslight.com/posts/2018/12/01/how-to-ssl-access-with-istio/
