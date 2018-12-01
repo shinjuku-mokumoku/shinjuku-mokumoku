@@ -1,5 +1,5 @@
-var fs = require('fs');
-var meetup_path = `${__dirname}/../meetups`
+const fs = require('fs');
+const meetup_path = `${__dirname}/../meetups`
 
 fs.readdir( meetup_path, (err, dirs) => {
   var meetups = dirs

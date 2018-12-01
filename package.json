@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "![](/assets/images/shinjuku-mokumoku-banner-960x180.png)",
   "main": "index.js",
-  "scripts": { },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shinjuku-mokumoku/shinjuku-mokumoku.git"
