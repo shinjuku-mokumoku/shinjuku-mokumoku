@@ -19,3 +19,4 @@
         1. Run generateNextEvent.js and commit
     1. Create event based on `connpass.md`
         1. Set for Starting apply before 2W ago from event day
+        1. Set 2 questionnaires
