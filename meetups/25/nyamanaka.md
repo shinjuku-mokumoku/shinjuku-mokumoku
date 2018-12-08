@@ -20,3 +20,8 @@ pythonで自分のブログ作ろうとしているので、その構築
 pythonとかpostgresqlとか
 
 ## 今日の成果
+
+python pyramid frameworkのDB接続周り
+マイグレーションツールでDB定義作成
+slides使ってみました
+https://slides.com/livingdeadbny/deck/live#/
