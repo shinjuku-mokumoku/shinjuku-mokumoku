@@ -22,3 +22,8 @@ UI/UXteam。
 
 ## 今日の成果
 
+- reproのPull Requestのはなしの記事をまとめる
+    - esaに
+- コマンドラインAPI
+    - http://cidermitaina.hatenablog.com/
+
