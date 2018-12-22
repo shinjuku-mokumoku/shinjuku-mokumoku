@@ -13,3 +13,6 @@
 ## (option) 得意とすること・教えられること
 ・ 入門レベルのRubyとRuby on Rails
 
+## 今日の成果
+- タスク管理アプリケーションのスキーマの設計とユーザーDBを作成するところまで
+- Ruby on Rails の has_secure_password について調べていた 
