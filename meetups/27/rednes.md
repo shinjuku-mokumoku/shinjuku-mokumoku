@@ -11,7 +11,7 @@
 
 ## 今日やること
 
-- aws-cdk使ってみる（https://github.com/awslabs/aws-cdk）
+- aws-cdk使ってみる（ https://github.com/awslabs/aws-cdk ）
 - プログラマブルにCloudFormationテンプレートを生成するツール
 
 ## (option) もしかしたら相談するかもしれないこと
@@ -20,4 +20,6 @@
 
 ## 今日の成果
 
-- TODO
+- aws-cdk で AWS Fargateで動くPHPサーバーが作れた。
+- TypeScriptで書けるんで気をつけないとスパゲッティインフラになりそう。
+- UnitTestも書いてみたけど、いまいちしっくりこない。要研究。
