@@ -18,4 +18,7 @@
 
 - jsの書き方
 
+## 成果
 
+- ServiceWorkerとWorkboxのさわりを理解した
+https://paper.dropbox.com/doc/shinjuku-mokumoku27--AUJGo4L~ox0TE_61nlW3LpqYAg-lc6YyDjxPbHNSbPCx3v69
