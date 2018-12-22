@@ -1,5 +1,6 @@
 # 普段やっていること
 Azure上で動く.NET CoreのWebアプリケーション開発
+
 C#, JavaScript
 
 # 今日やること
