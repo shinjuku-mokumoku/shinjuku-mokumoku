@@ -22,3 +22,11 @@ ReproのWeb SDKの開発・保守
 n/a
 
 ## 今日の成果
+
+- とりあえずChrome Extensionの形にして、ReproのWeb SDKの存在有無と、基本的な情報をExtension側に伝えて見せることはできた
+- デモ
+
+TODO
+
+- Extensionのライフサイクルとmessage passingをもうちょい理解して、良い感じにする
+- networkをプロキシしてPOSTリクエストのbodyを抜く
