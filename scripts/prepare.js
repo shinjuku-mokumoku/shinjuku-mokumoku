@@ -92,6 +92,7 @@ var main = async (name) => {
   message(channel_id, '厳選美味昼食店: \nhttps://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md')
   command(channel_id, '/remind', `<#${channel_id}> "@channel もうすぐlunchです！ランチアンケート ( https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md ) への回答しましょう！" at 12:55`)
   command(channel_id, '/remind', `<#${channel_id}> "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`)
+  command(channel_id, '/remind', `<#${channel_id}> "@channel coffee break! 任意でcoffeeを注いだりおやつを買いに行ったりしつつ、他の方とおはなしください :coffee:" at 15:30`)
 
   // checkout
   command(channel_id, '/remind', `<#${channel_id}> "@channel checkoutまであと1hです！成果のまとめなどしていきましょう :muscle:" at 16:00`)
