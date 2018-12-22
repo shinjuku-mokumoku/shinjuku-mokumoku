@@ -36,7 +36,7 @@
 Create event channel, reminder and poller
 
 ```sh
-SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> docker-compose run nodejs ./scripts/prepare.js <num_of_event>
+SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> docker-compose run node ./scripts/prepare.js <num_of_event>
 ```
 
 Generate presenter order
