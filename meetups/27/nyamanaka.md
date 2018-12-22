@@ -20,3 +20,7 @@ python + PostgresSQL + nginxなどで構築する続き
 pythonとかpostgresqlとか
 
 ## 今日の成果
+
+Pythonのscript書いたりテスト書いたりしてました 環境変数周りに色々苦戦
+PostgreSQLのdockerイメージの仕組みを勉強
+https://slides.com/livingdeadbny/shinjuku-mokumoku-check-out-27/live#/
