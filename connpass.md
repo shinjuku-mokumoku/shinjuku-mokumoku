@@ -30,6 +30,8 @@
 11:30 | もくもく
 13:00 | 有志でランチ
 14:00 | もくもく
+15:30 | coffee break!
+15:40 | もくもく
 17:00 | check-out: 取り組んだことの発表
 17:30 | 振り返り(KPT)
 17:40 | 片付け・解散
@@ -82,6 +84,7 @@ desktopもしくはtabをプロジェクターに投影することが出来ま�
 
 - [GitPitch](https://gitpitch.com/)
 - [Slides](https://slides.com/)
+- [dropbox paper](https://www.dropbox.com/paper)
 
 ### 会場に迷っていましいました
 
