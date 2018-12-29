@@ -12,6 +12,7 @@ Organize
 - [Haskell Dojo](https://shinjukuhs.connpass.com/)
 - [Hacking HR!](https://hacking-hr.connpass.com/)
 - [Repro Tech Meetup](https://repro-tech.connpass.com/)
+  - 2019-02-05 joker氏を読んでrailsについて話します！
 - [Repro Tech Hands-on](https://repro-tech.connpass.com/)
   - 2019-01-13 reactnative hands-onやります!
 - [shinjuku mokumoku programming](https://shinjuku-mokumoku.connpass.com/)
@@ -42,4 +43,4 @@ kubernetes, Istioを利用されている方、是非ランチ一緒に!
 
 ## 今日取り組んだ成果
 
-https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/28
+https://threetreeslight.com/posts/2018/12/29/certificate-authority/
