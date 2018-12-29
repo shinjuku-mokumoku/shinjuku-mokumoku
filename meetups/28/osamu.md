@@ -16,3 +16,6 @@ Vue.jsの入門本を進める。
 javascript、Vueに関して質問させていただくかもしれません。
 
 ## 今日の成果
+コンポーネントは完了。
+ルーティングは仕掛
+https://docs.google.com/presentation/d/1dEbgYOVaLOCQtw3XZXOTOm4FgxosejSf-mHBufVYz1g/edit?usp=sharing
