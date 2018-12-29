@@ -24,3 +24,6 @@ ref. https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/0cd4f2c43a1d5ca
 n/a
 
 ## 今日の成果
+
+- [Separate storage data by origin: closes #4 ](https://github.com/edwardkenfox/repro-web-sdk-inspector/pull/5)
+- [Chrome Web Store - Web SDK Inspector](https://chrome.google.com/webstore/detail/alfdgeiidilnnmhdhjmhkgepiehigkbi/publish-review)
