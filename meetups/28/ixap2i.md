@@ -15,3 +15,4 @@ Ruby, Rails, フロント周り？
 ## 本日の成果
 ユーザー登録するアプリが出来ました
 簡単にAndroidStudioとKotlinについてまとめました
+
