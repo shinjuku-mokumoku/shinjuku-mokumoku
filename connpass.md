@@ -84,6 +84,8 @@ desktopもしくはtabをプロジェクターに投影することが出来ま�
 ### 発表資料を作るおすすめはありますか？
 
 - [GitPitch](https://gitpitch.com/)
+  - gitpitchを利用する場合は、self hosting ください
+  - e.g. https://github.com/threetreeslight/slides
 - [Slides](https://slides.com/)
 - [dropbox paper](https://www.dropbox.com/paper)
 

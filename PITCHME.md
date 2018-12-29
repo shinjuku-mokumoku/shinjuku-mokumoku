@@ -105,7 +105,8 @@ Let's mokumoku!
 
 ## Prepare Check-out
 
-今日の成果項を更新し[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku)へPRをお願いします 🎉
+- 今日の成果項を更新し[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku)へPRをお願いします 🎉
+- chrome castを使います。はじめての方は使い方はconnpassを参照し、Evet TVにて投影テストをしてみてください
 
 ---
 
@@ -119,17 +120,17 @@ Let's mokumoku!
 
 ---
 
-## KPT
+## 5min KPT
 
 会をより良くするためのアイディアをslackへ投稿ください 🙏
 
-1. Keep: よかったこと
-1. Problem: わるかったこと・課題感をかんじたこと
-1. Try: これやってみたいとおもったこと
+- Keep: よかったこと
+- Problem: わるかったこと・課題感をかんじたこと
+- Try: これやってみたいとおもったこと
 
 ---
 
-# 👋
+@size[2em](👋)
 
 ## see you next time!
 

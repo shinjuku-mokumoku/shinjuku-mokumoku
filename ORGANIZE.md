@@ -3,6 +3,7 @@
 1. 10:30
     1. Prepare Event space
     1. Run prepare.js
+    1. Set air conditioner
 1. 10:45
     1. Open Space
 1. 11:00
