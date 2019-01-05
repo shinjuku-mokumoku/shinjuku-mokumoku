@@ -21,3 +21,6 @@
 
 ## 今日の成果
 
+- RailsとVue.jsの上手い組み合わせ方を試行錯誤しました。
+
+https://paper.dropbox.com/doc/shinjuku-mokumoku29--AVCVSb_FxS7yALNK4PFH4gOFAg-eLu3kSDUOvSSGIrdVJ6EN
