@@ -51,13 +51,25 @@ var message = (channel_id, text, attachments) => {
   })
 };
 
+var shuffle = (arr) => {
+  var count = arr.length;
+
+  for (var i = arr.length - 1 ; i >= 0; i--){
+    var rand = Math.floor( Math.random() * (i+1) );
+    [arr[i], arr[rand]] = [arr[rand], arr[i]]
+  }
+
+  return arr;
+}
+
 var main = async (name) => {
   var channel_id = await get_channel_id(name)
 
   fs.readdir( `${__dirname}/../meetups/${meetup_no}`, (err, files) => {
     var speakers = files
       .filter( (file) => { return !/(README|PITCHME|template|kpt)\.(md|yaml|yml)/.test(file) })
-      .sort( (a, b) => { return 0.5 - Math.random() } )
+
+    var speakers = shuffle(speakers)
       .map( (val,idx) => `${idx}: ${val}`)
       .join('\n')
 
