@@ -84,19 +84,22 @@ var main = async (name) => {
 
   // Event channel announce
   var general_id = await get_channel_id('general')
-  message(general_id, `今日のshinjuku mokumoku slack channelは <#${channel_id}> です！みなさん参加お願いします :sparkles:`)
-  message(channel_id, `わからないことがあるときはまず以下を参照しましょう :point_up: \n\n イベントページ: https://shinjuku-moku.connpass.com/\n introduction資料: https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku# \n`)
 
   // Lunch
   command(channel_id, '/poll', '"昼食どこらへんが好き？" "イタリアン: タンタポッカ" "天丼: 高瀬" "寿司: 高瀬" "バーガー: クリバーガー" "カレー: 野菜を食べるカレーcamp" "中華: トーキョー シノワ 神子" "エスニック: Bistro ひつじや" "ラーメン: 麺恋処 いそじ" "オフィスにいます"')
   message(channel_id, '厳選美味昼食店: \nhttps://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md')
   command(channel_id, '/remind', `<#${channel_id}> "@channel もうすぐlunchです！ランチアンケート ( https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md ) への回答しましょう！" at 12:55`)
   command(channel_id, '/remind', `<#${channel_id}> "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`)
-  command(channel_id, '/remind', `<#${channel_id}> "@channel coffee break! 任意でcoffeeを注いだりおやつを買いに行ったりしつつ、他の方とおはなしください :coffee:" at 15:30`)
+  command(channel_id, '/remind', `<#${channel_id}> "@channel :coffee:**break-time**:coffee:\n任意でcoffee・ストレッチ・おやつ補充やお話などどうぞー " at 15:30`)
 
   // checkout
   command(channel_id, '/remind', `<#${channel_id}> "@channel checkoutまであと1hです！成果のまとめなどしていきましょう :muscle:" at 16:00`)
-  command(channel_id, '/remind', `<#${channel_id}> "@channel checkoutの時間です！" at 17:00`)
+  command(channel_id, '/remind', `<#${channel_id}> "@channel checkoutの10min前です！今日の成果項を更新しshinjuku-mokumokuへPRをお願いします :muscle:" at 16:50`)
+  command(channel_id, '/remind', `<#${channel_id}> "@channel checkoutの時間です :timer_clock:" at 17:00`)
+
+  // for introduction
+  message(general_id, `今日のshinjuku mokumoku slack channelは <#${channel_id}> です！みなさん参加お願いします :sparkles:`)
+  message(channel_id, `わからないことがあるときはまず以下を参照しましょう :point_up: \n\n イベントページ: https://shinjuku-moku.connpass.com/\n introduction資料: https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku# \n`)
 }
 
 main(`vol-${meetup_no}`)
