@@ -97,9 +97,9 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
-# 💪
+@size[3em](💪)
 
-Let's mokumoku!
+## Let's mokumoku!
 
 ---
 
@@ -130,7 +130,7 @@ Let's mokumoku!
 
 ---
 
-@size[2em](👋)
+@size[3em](👋)
 
 ## see you next time!
 

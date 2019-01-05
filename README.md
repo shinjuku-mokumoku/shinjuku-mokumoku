@@ -42,7 +42,7 @@ SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> docker-compose run node ./scripts/prepare
 Generate presenter order
 
 ```sh
-docker-compose run node ./scripts/presenter.js <num_of_event>
+SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> docker-compose run node ./scripts/presenter.js <num_of_event>
 ```
 
 Generate event template
