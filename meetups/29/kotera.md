@@ -1,8 +1,5 @@
 # Kotera
 
-- https://twitter.com/EdwardKenFox
-- https://github.com/edwardkenfox/
-
 ## 会社や業務で普段やっていること
 
 - RoRのレビュー
