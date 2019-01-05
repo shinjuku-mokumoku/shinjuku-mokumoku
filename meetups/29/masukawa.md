@@ -12,3 +12,4 @@ Amazon Alexaスキル開発のチュートリアルを完了する
 * 環境問題のこと
 
 # 今日の成果
+https://gitpitch.com/TakeshiMasukawa/slides/master?p=shinjuku-mokumoku/29#/6
