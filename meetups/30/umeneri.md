@@ -15,5 +15,11 @@ Vuejs, playを使用したWebサービス開発
 Play
 
 ## 今日の成果
+新しく知ったこと
 
+- playでAccessLogを取る方法(記事書いた https://qiita.com/umeneri/items/2cd606f6c7db7c6dc234)
+- scalaでのhttpclientであるWSClientの使用方法
+- WSClientを使用した場合のテスト方法
+- Json4sを使用してxmlをjsonに変更する方法
+- テストでのFuture系の各種取扱方法のメリット・デメリット
 
