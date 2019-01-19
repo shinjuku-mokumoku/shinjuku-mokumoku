@@ -10,21 +10,21 @@ ruby, php教えています
 
 - AtcoderB問題2問解く
 
+  ⚡️🤖プログラミング能力強化月間🤖⚡️
+  Atcoder1日2問とくのに挑戦中💪
+
   1問はとけた
 
   https://atcoder.jp/contests/abc106/submissions/4040734
 
-  けどもう一問が不正解…
+  けどもう一問が不正解なおらず…
 
   https://atcoder.jp/contests/abc105/submissions/4044000
 
-  Dockerは出来なかった
 
 ## 今日やること
 
 - AtcoderB問題2問解く
-
-- Dockerの勉強
 
 ## (option) もしかしたら相談するかもしれないこと
 
