@@ -22,9 +22,15 @@ ruby, php教えています
   https://atcoder.jp/contests/abc105/submissions/4044000
 
 
+- Dockerの勉強
+
+  時間がたりなかった…
+
 ## 今日やること
 
 - AtcoderB問題2問解く
+
+- Dockerの勉強
 
 ## (option) もしかしたら相談するかもしれないこと
 
