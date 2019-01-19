@@ -21,3 +21,6 @@ https://qiita.com/Yamotty/items/b0eb3d855c4266b18b39
 GAS
 
 ## 今日の成果
+
+ランダムにランチを返してくれるボットを作ってみました
+https://slides.com/livingdeadbny/shinjuku-mokumoku-check-out-27-2
