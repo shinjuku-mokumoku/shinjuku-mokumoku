@@ -74,21 +74,20 @@ slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録は�
 
 desktopもしくはtabをプロジェクターに投影することが出来ます。
 
-### Pull-Requestとはなんですか？どうしたら出せますか？
+### Pull-Requestとはなんですか？権限がなくてPushができません。どうしたらよいですか？
 
 以下をお読みください。
 
 - [Github help - About pull requests](https://help.github.com/articles/about-pull-requests/)
 - [Github help - Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
-### 発表資料を作るおすすめはありますか？
+### 発表資料を作るおすすめサービスはありますか？
 
 - [GitPitch](https://gitpitch.com/)
-  - gitpitchを利用する場合は、self hosting ください
-  - e.g. https://github.com/threetreeslight/slides
+    - gitpitchを利用する場合は、self hosting ( e.g. https://github.com/threetreeslight/slides ) ください
 - [Slides](https://slides.com/)
 - [dropbox paper](https://www.dropbox.com/paper)
 
-### 会場に迷っていましいました
+### 会場に迷っていましいました。どこで連絡をすればよいですか？
 
 [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) もしくは、 `#shinjukumokumoku` hash付きでご連絡ください
