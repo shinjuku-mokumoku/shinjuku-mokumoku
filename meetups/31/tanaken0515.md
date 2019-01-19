@@ -17,4 +17,4 @@
 - いろいろなこと(30分考えても分からないことがあれば聞きます)
 
 ## 今日の成果
-- あとで
+- https://gitpitch.com/tanaken0515/slides/master?p=shinjuku-mokumoku/31
