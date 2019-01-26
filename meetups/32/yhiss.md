@@ -8,3 +8,7 @@
 
 Kaggleのコンペやります  
 後は[PFNのイベントリアルタイムyoutube](https://connpass.com/event/115476/)を眺めてようかと思ってます。
+
+## 成果
+Kaggleは特徴量生成をメインに行った
+PFNのyoutube...見れなかったので、後で見る
