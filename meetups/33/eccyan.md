@@ -8,9 +8,9 @@ QAとヤンキー
 
 ## 今日やること
 Alloy で何かテストを行ってブログかなにかにアウトプット
-https://github.com/eccyan/alloy_learning
 
 ## (option) もしかしたら相談するかもしれないこと
 特になし
 
 ## 今日の成果
+https://github.com/eccyan/alloy_learning
