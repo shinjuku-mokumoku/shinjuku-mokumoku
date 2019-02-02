@@ -19,4 +19,11 @@
  
 - js全般
 
+## やったこと
+
+- datadogインストールした
+- datadogとCircleCI, AWS, Capistranoと連携した
+- datadogのメトリクスを眺めた
+
+
 
