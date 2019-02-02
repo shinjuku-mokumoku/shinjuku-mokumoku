@@ -112,17 +112,17 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## Check-Out
 
-取り組んだことの発表していきましょう 👏
+[取り組んだこと](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)の発表していきましょう 👏
 
-1-5 min / person
+発表 3 min + 質問 2min / person
 
-[資料はこちら](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)
+発表中の質問slackもしくはtwitterに投稿ください💪
 
 ---
 
-## 5min KPT
+## 3min KPT
 
-会をより良くするためのアイディアをslackへ投稿ください 🙏
+会をより良くするためのアイディアをdropbox paperへ投稿ください 🙏
 
 - Keep: よかったこと
 - Problem: わるかったこと・課題感をかんじたこと

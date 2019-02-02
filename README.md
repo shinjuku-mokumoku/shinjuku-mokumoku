@@ -56,3 +56,7 @@ docker-compose run node ./scripts/generateNextEvent.js
 ### How to get SLACK_API_TOKEN
 
 https://api.slack.com/custom-integrations/legacy-tokens
+
+## TODO
+
+- [ ] Create KPT dropbox template automatically

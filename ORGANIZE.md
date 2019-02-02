@@ -13,6 +13,7 @@
     1. Re-Announce and facilitate lunch
 1. 17:00
     1. Start check-out
+      1. Time keep separate on other display
     1. KPT
         1. As you always listen to the first participants
     1. commit and PR
