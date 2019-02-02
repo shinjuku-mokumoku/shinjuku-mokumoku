@@ -16,8 +16,8 @@ ReproのWeb SDKの開発・保守
 ## 今日やること
 
 - koki1023と一緒にWeb Pushのやつ作る
-- 以前中途半端に作ったWebアプリ仕上げる
-- Rust触る
+- ~~以前中途半端に作ったWebアプリ仕上げる~~
+- ~~Rust触る~~
 
 ## (option) もしかしたら相談するかもしれないこと
 
@@ -25,3 +25,5 @@ n/a
 
 ## 今日の成果
 
+- ReproのPush Check Webというものを完全に理解した
+- AWS Workspacesを初体験した
