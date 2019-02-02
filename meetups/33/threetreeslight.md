@@ -43,4 +43,12 @@ kubernetes, Istioを利用されている方、是非ランチ一緒に!
 
 ## 今日取り組んだ成果
 
-https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/33
+とにかくcadvisorのmetricを改めて理解する
+
+- https://github.com/google/cadvisor/blob/master/docs/storage/prometheus.md
+
+自分にあった感じに整備する
+
+- https://grafana.threetreeslight.com/d/s2-7HQ_mk/cluster-node-container-overview?refresh=10s&panelId=19&orgId=1
+
+
