@@ -14,3 +14,4 @@
 
 ## 今日の成果
 
+[One-class SVM](https://colab.research.google.com/drive/1SadNgavAfd83QAJc1DOSXSG_P5XUXbjM)
