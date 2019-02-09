@@ -14,4 +14,8 @@ Gatsby(JS製静的サイトジェネレーター)を使ってブログを作っ�
 それについて記事を書きます。
 
 
+
 ## 今日の成果
+記事出しました。（いまデプロイ中なので間に合わないかも...）
+
+[GatsbyでRelated Content(関連記事)を表示する / Hugoの関連記事機能をGatsbyに移植した](http://takumon.com/gatsby-related-posts-like-hugo)
