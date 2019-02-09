@@ -47,4 +47,4 @@ kubernetes, Istioを利用されている方、是非ランチ一緒に!
 
 ## 今日取り組んだ成果
 
-
+https://threetreeslight.com/posts/2019/02/09/how-to-measure-host-cpu-utilization/
