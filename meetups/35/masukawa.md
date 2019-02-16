@@ -12,3 +12,7 @@ MCP AZ-203のお勉強
 * 環境問題のこと
 
 # 今日の成果
+* MCPの出題範囲を整理した
+* Kubernetesの基本概念の理解
+* AKSのチュートリアルやった
+https://gitpitch.com/TakeshiMasukawa/slides/master?p=shinjuku-mokumoku/35#/
