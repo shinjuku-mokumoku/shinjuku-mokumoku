@@ -18,3 +18,9 @@
 ## (option) もしかしたら相談するかもしれないこと
  
 - js全般
+
+## 成果
+
+- metabase調査した
+- Redashの運用見直し
+- Redash on Herokuへチャレンジした
