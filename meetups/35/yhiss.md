@@ -8,3 +8,8 @@
 
 Kaggleのコンペやります
 あとはKDD2018の論文か基調講演読みます(中身はまだ決めてない)
+
+## 成果
+Kaggleは前処理少し頑張った
+読み物は時系列データの評価方法についての記事  
+(How (not) to use Machine Learning for time series forecasting: Avoiding the pitfalls)
