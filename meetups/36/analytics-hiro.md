@@ -22,3 +22,10 @@ GCP関連：普段は、GCPのVMに環境構築して作業しているので
 
 
 ## 今日の成果
+
+- 各パラメータの名称の違いなどを一覧でまとめることができた。
+- xgboostのscale_pos_weightなど初めて知った
+- 上記３つのパラメータの最適化に関するベンチマーク論文
+（Benchmarking and Optimization of Gradient Boosting Decision Tree Algorithms）
+が面白かった
+
