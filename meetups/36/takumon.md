@@ -25,3 +25,5 @@ Vue.js AppSync DynamoDB Lambdaの管理アプリを作っています。
   * DynamoDBのテーブル設計
 
 ## 今日の成果
+* 複数件テーブルにまたがったCRUD(サーバ＆クライアント)
+* 複数件CRUD(サーバ＆クライアント)
