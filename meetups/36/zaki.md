@@ -27,3 +27,9 @@ UdemyでRuby on Railsの学習を進めます。コースは[こちら](https://
     * Railsの基本的なMVCのモデルしかかじったことがないので、実践的な設計思想とか教えていただけると助かります！
 
 ## 今日の成果
+
+`Materialize`の導入とその記事を書いていました。
+記事の進捗は70%な感じのため、宿題です！
+
+- GitHub: [rails-material-design](https://github.com/zakizaki-ri9/rails-material-design)
+- ブログ（下書き）: [【Ruby on Rails】Materializeを導入する](https://kic-yuuki.hatenablog.com/draft/IwKeFU6lWnB8jGESGIqE2wd_Oh8)
