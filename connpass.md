@@ -1,12 +1,22 @@
+---
+- title: Shinjukuもくもくプログラミング #<num>
+- Registration
+  - 行きます: 10
+  - 行けるかも: 3
+---
+
 # ガンガンコードを書く・学ぶ
 
 １人だと勉強をサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作ることを目的に毎週開催されているもくもく会です。
 
-参加するプログラマーはそれぞれ**取り組むテーマを宣言し、その成果を発表** をします。
+参加するプログラマーはそれぞれ**取り組むテーマを宣言し、その成果を発表** ([過去例](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/tree/master/meetups))をします。
 
-参考：[過去の自己紹介及び成果発表](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/tree/master/meetups)
+### 取り組み例
 
-相談事などはぜひ[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ))をご利用ください
+- 書籍や論文を読む
+- 新しいミドルウェアについて調べる
+- 趣味のサービスを作る
+- 技術書典やLTなどの登壇資料の執筆
 
 # check-in : 自己紹介と今日取り組むことの発表
 
@@ -28,11 +38,9 @@
 11:30 | もくもく
 13:00 | 有志でランチ
 14:00 | もくもく
-15:30 | coffee break!
-15:40 | もくもく
 17:00 | check-out: 取り組んだことの発表
-17:30 | 振り返り(KPT)
-17:40 | 片付け・解散
+17:50 | 振り返り(KPT)
+18:00 | 片付け・解散
 
 # 会場
 

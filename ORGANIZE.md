@@ -16,9 +16,10 @@
       1. Time keep separate on other display
     1. KPT
         1. As you always listen to the first participants
+1. After Event
     1. commit and PR
         1. Commit KPT
         1. Run generateNextEvent.js and commit
     1. Create event based on `connpass.md`
-        1. Set for Starting apply before 2W ago from event day
-        1. Set 2 questionnaires
+        1. Create event after 4 weeks
+        1. Set questionnaires
