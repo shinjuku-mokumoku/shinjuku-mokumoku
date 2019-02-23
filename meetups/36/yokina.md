@@ -13,3 +13,5 @@
 
 ##　やったこと
 
+https://qiita.com/TakahikoKawasaki/items/8f0e422c7edd2d220e06#5-json-web-key-jwk
+JWS,JWEまで理解した
