@@ -15,3 +15,4 @@ Kaggleのコンペやります
 ## 今日の成果
 kaggleは変数選択→特徴量を多少増やしたとこまで
 Catboostは中身大体理解した
+https://github.com/yhiss/LT/blob/master/20190302_LT.md
