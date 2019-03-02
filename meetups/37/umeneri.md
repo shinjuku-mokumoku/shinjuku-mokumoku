@@ -15,3 +15,13 @@ HR系会社にてscalaを用いたサーバーサイド、インフラの開発�
 * herokuへのdocker containerデプロイ方法
 
 ## 今日取り組んだ成果
+修正したアプリ：
+[BukumaRanking](https://secret-garden-51863.herokuapp.com/ranking/annually)
+
+- 既存vue-cliで作ったプロジェクトにtypescriptを追加
+- エラーが大量に出たのですべて直してコンパイルが通るようにした。
+
+- visual studio codeを初めて使ってみた。typescriptの型エラーがすぐ確認できるし、エラー修正も提案してくれるので大変便利だった。
+
+
+
