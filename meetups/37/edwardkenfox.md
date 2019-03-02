@@ -22,3 +22,8 @@ ReproのWeb SDKの開発・保守
 n/a
 
 ## 今日の成果
+
+- デモ
+- Base64にline feedあり・なし、というのがあることを知った
+  - (ruby) Base64.strict_encode64
+- メディアファイルのエンコーディング全然わからん
