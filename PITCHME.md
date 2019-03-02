@@ -71,7 +71,7 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## 成果発表イメージ
 
-最後に以下のようなLTをします！
+最後に以下のような **3min LT** を行います！
 
 > 💡 gitpitchを使うと簡単にLTできます
 > [GETTING STARTED ISTIO](https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/17)
