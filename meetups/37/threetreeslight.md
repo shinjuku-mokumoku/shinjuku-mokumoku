@@ -32,8 +32,8 @@ Speaker
 
 ## 今日取り組むこと
 
-HackingHR!コミュニティ用blogをgatsbyでつくる
-特にcontents部分はcontentfulを使うか検討
+- HackingHR!コミュニティ用blogをgatsbyでつくる。
+- contents部分はcontentfulを使うか検討
 
 ## (option) もしかしたら相談するかもしれないこと
 
@@ -41,4 +41,7 @@ kubernetes, Istioを利用されている方、是非ランチ一緒に!
 
 ## 今日取り組んだ成果
 
+[Gatsby Tutorial -part five](https://www.gatsbyjs.org/tutorial/part-five/) まで進んだ。
+
+[Tagged templatesSection](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#Tagged_templates) というのを知ってテンションアゲ
 
