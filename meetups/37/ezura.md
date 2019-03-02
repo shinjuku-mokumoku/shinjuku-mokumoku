@@ -11,3 +11,9 @@ iOS アプリ開発
 https://github.com/ezura/MVVMC-template
 
 ## 今日の成果
+コマンドラインツールの機能追加  
+https://github.com/ezura/MVVMC-template
+
+* Parse command line options
+* Add command line options
+* Improve existing features
