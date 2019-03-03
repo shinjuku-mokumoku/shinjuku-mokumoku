@@ -12,8 +12,8 @@ RUN apk add --no-cache --virtual build-dependencies curl tar \
   && entrykit --symlink
 
 WORKDIR /app
-VOLUME /app/node_modules
+VOLUME /app/functions/node_modules
 
 ENTRYPOINT [ \
-  "prehook", "npm install", "--" \
+  "prehook", "npm --prefix functions i", "--" \
   ]
