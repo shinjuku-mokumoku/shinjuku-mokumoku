@@ -1,0 +1,37 @@
+{
+  "name": "shinjuku-mokumoku",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "8"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "serve": "firebase serve --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinjuku-mokumoku/shinjuku-mokumoku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/issues"
+  },
+  "homepage": "https://github.com/shinjuku-mokumoku/shinjuku-mokumoku#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "firebase-admin": "~7.0.0",
+    "firebase-functions": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "private": true
+}

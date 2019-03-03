@@ -2,6 +2,7 @@
   "name": "app",
   "version": "1.0.0",
   "description": "![](/assets/images/shinjuku-mokumoku-banner-960x180.png)",
+  "engines": { "node": "8" },
   "main": "index.js",
   "scripts": {},
   "repository": {
