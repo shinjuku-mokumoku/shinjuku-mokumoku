@@ -36,7 +36,15 @@
 Create event channel, reminder and poller
 
 ```sh
-SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> docker-compose run node ./scripts/prepare.js <num_of_event>
+# on slack
+/mokumoku_init <num>
+```
+
+Get channel id
+
+```sh
+# on slack
+/get_channel_id <channel_name>
 ```
 
 Generate presenter order
@@ -51,12 +59,60 @@ Generate event template
 docker-compose run node ./scripts/generateNextEvent.js
 ```
 
-## FAQ
+# Getting Started
 
-### How to get SLACK_API_TOKEN
+requirements
 
-https://api.slack.com/custom-integrations/legacy-tokens
+- node 8
+- firebase account
+- slack token
 
-## TODO
+[install firebase cli and login](https://firebase.google.com/docs/cli/)
 
-- [ ] Create KPT dropbox template automatically
+```sh
+npm install -g firebase-tools
+firebase login
+# Generated authenticate in $HOME/.config/gcloud
+```
+
+```sh
+cd functions
+npm i
+```
+
+if you don't have slack api token
+
+- https://api.slack.com/custom-integrations/legacy-tokens
+
+Run firebase function locally
+
+```sh
+cd <project_root>/functions
+npx run serve
+```
+
+Show firebase function logs
+
+```sh
+cd <project_root>
+firebase functions:log --only <mokumoku_init|get_channel_id>
+```
+
+# Deploy
+
+[if you haven't set some config, you should set config by blow command](https://firebase.google.com/docs/functions/config-env)
+
+```sh
+export SLACK_SLASH_TOKEN_PREPARE=<your_slack_slash_token>
+export SLACK_API_TOKEN=<your_slack_api_token>
+
+cd <project_root>
+firebase functions:config:set slack.slash_token_prepare=$SLACK_SLASH_TOKEN_PREPARE slack.api_token=$SLACK_API_TOKEN
+firebase functions:config:get
+# show setted configs
+```
+
+```sh
+cd <project_root>
+firebase deploy --only functions
+```
