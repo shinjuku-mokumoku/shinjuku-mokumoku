@@ -18,3 +18,4 @@ Kubernetesちょっと分かる人になる
 DockerおよびKubernetes（特にAKS(Azure KubernetesService)）について
 
 ## 今日の成果
+https://gitpitch.com/96salix/gitpitch/master?grs=github&t=moon
