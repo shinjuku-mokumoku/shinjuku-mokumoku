@@ -7,3 +7,4 @@
 JavaでWebアプリを習作する
 
 ## 今日の成果
+SpringBootでWeb APIを実装(30%くらい)
