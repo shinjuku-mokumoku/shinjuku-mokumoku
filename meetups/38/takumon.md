@@ -28,3 +28,6 @@ Vue.js AppSync DynamoDB Lambdaの管理アプリを作っています。
   * DynamoDBのテーブル設計
 
 ## 今日の成果
+* パスワード変更画面の実装
+* ログイン周りi18n対応
+* ソースコードレビュー
