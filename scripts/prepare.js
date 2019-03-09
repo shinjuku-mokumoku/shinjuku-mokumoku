@@ -86,7 +86,7 @@ var main = async (name) => {
   var general_id = await get_channel_id('general')
 
   // Lunch
-  command(channel_id, '/poll', '"昼食どこらへんが好き？" "イタリアン: タンタポッカ" "イタリアン: ボガマリ・クチーナ・マリナーラ" "天丼: 高瀬" "寿司: 高瀬" "バーガー: クリバーガー" "カレー: 野菜を食べるカレーcamp" "中華: トーキョー シノワ 神子" "エスニック: Bistro ひつじや" "和食: おひつ膳" "UberEatsで一緒に頼む" "オフィスにいます"')
+  command(channel_id, '/poll', '"昼食どこらへんが好き？" "イタリアン: タンタポッカ" "天丼: 高瀬" "寿司: 高瀬" "バーガー: クリバーガー" "カレー: 野菜を食べるカレーcamp" "中華: トーキョー シノワ 神子" "エスニック: Bistro ひつじや" "和食: おひつ膳" "UberEatsで一緒に頼む" "オフィスにいます"')
   message(channel_id, '厳選美味昼食店: \nhttps://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md')
   command(channel_id, '/remind', `<#${channel_id}> "@channel もうすぐlunchです！ランチアンケート ( https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md ) への回答しましょう！" at 12:55`)
   command(channel_id, '/remind', `<#${channel_id}> "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`)
