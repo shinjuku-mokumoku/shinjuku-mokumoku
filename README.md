@@ -104,10 +104,15 @@ firebase functions:log --only <mokumoku_init|get_channel_id>
 
 ```sh
 export SLACK_SLASH_TOKEN_PREPARE=<your_slack_slash_token>
+export SLACK_SLASH_TOKEN_PRESENTER=<your_slack_slash_token>
 export SLACK_API_TOKEN=<your_slack_api_token>
 
 cd <project_root>
-firebase functions:config:set slack.slash_token_prepare=$SLACK_SLASH_TOKEN_PREPARE slack.api_token=$SLACK_API_TOKEN
+firebase functions:config:set \
+slack.slash_token_prepare=$SLACK_SLASH_TOKEN_PREPARE \
+slack.slash_token_presenter=$SLACK_SLASH_TOKEN_PRESENTER \
+slack.api_token=$SLACK_API_TOKEN
+
 firebase functions:config:get
 # show setted configs
 ```
