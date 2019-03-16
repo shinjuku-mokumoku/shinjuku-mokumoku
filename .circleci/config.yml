@@ -1,0 +1,59 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:8
+
+    steps:
+      - checkout
+
+      - restore_cache:
+          keys:
+            - functions_npm_modules-{{ checksum "functions/package.json" }}
+            # fallback to using the latest cache if no exact match is found
+            - functions_npm_modules-
+      - run: npm --prefix "functions" install
+      - save_cache:
+          paths:
+            - functions/node_modules
+          key: functions_npm_modules-{{ checksum "functions/package.json" }}
+
+      - run: npm --prefix "functions" run lint
+
+  deploy:
+    docker:
+      - image: circleci/node:8
+
+    steps:
+      - checkout
+
+      - restore_cache:
+          keys:
+            - functions_npm_modules-{{ checksum "functions/package.json" }}
+            # fallback to using the latest cache if no exact match is found
+            - functions_npm_modules-
+      - run: npm --prefix "functions" install
+      - save_cache:
+          paths:
+            - functions/node_modules
+          key: functions_npm_modules-{{ checksum "functions/package.json" }}
+
+      - run:
+          name: Deploy Master to Firebase
+          command: npm --prefix "functions" run deploy
+
+workflows:
+  version: 2
+  build-and-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
