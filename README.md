@@ -31,13 +31,13 @@
   - [connpass event descritpion](connpass.md)
   - [organize workflow](ORGANIZE.md)
 
-## Other Usage
+## Commands
 
 Create event channel, reminder and poller
 
 ```sh
 # on slack
-/mokumoku_init <num>
+/prepare <num>
 ```
 
 Get channel id
@@ -50,7 +50,8 @@ Get channel id
 Generate presenter order
 
 ```sh
-SLACK_API_TOKEN=<YOUR_SLACK_API_TOKEN> docker-compose run node ./scripts/presenter.js <num_of_event>
+# on slack
+/presenter <num>
 ```
 
 Generate event template
@@ -59,7 +60,14 @@ Generate event template
 docker-compose run node ./scripts/generateNextEvent.js
 ```
 
-# Getting Started
+# Development Slash command
+
+## TODO
+
+- [ ] Migarte nextEventGenerate script to cloudfunction
+- [ ] Run deploy only functions file changes
+
+## Getting Started
 
 requirements
 
@@ -67,7 +75,7 @@ requirements
 - firebase account
 - slack token
 
-[install firebase cli and login](https://firebase.google.com/docs/cli/)
+[Install firebase cli and login](https://firebase.google.com/docs/cli/)
 
 ```sh
 npm install -g firebase-tools
@@ -75,30 +83,31 @@ firebase login
 # Generated authenticate in $HOME/.config/gcloud
 ```
 
+Install packages
+
 ```sh
-cd functions
-npm i
+npm --prefix "functions" i
 ```
 
-if you don't have slack api token
+if you don't have slack api token, get api token from below:
 
 - https://api.slack.com/custom-integrations/legacy-tokens
+
+## Debug function
 
 Run firebase function locally
 
 ```sh
-cd <project_root>/functions
-npx run serve
+npx --prefix "functions" run serve
 ```
 
 Show firebase function logs
 
 ```sh
-cd <project_root>
-firebase functions:log --only <mokumoku_init|get_channel_id>
+npm --prefix "functions" logs -- --only <mokumoku_init|get_channel_id>
 ```
 
-# Deploy
+## Set config
 
 [if you haven't set some config, you should set config by blow command](https://firebase.google.com/docs/functions/config-env)
 
@@ -115,9 +124,4 @@ slack.api_token=$SLACK_API_TOKEN
 
 firebase functions:config:get
 # show setted configs
-```
-
-```sh
-cd <project_root>
-firebase deploy --only functions
 ```
