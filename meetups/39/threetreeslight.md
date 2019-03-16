@@ -40,3 +40,4 @@ kubernetes, Istioを利用されている方、是非ランチ一緒に!
 
 ## 今日取り組んだ成果
 
+https://gitpitch.com/threetreeslight/slides/master?p=shinjuku-mokumoku/39
