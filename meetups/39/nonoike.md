@@ -12,3 +12,7 @@
 ## (option) もしかしたら相談するかもしれないこと
 
 ## 今日の成果
+- [PythonとJavaScriptではじめるデータビジュアライゼーション](https://www.oreilly.co.jp/books/9784873118086/)学習
+  - スクレイピングの実装
+  - numpy, pandas, matplot
+- [Kotlin Koans](https://play.kotlinlang.org/koans/overview)
