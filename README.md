@@ -60,40 +60,40 @@ Generate event template
 docker-compose run node ./scripts/generateNextEvent.js
 ```
 
-# Development Slash command
+# Development
 
-## TODO
+# TODO
 
-- [ ] Migarte nextEventGenerate script to cloudfunction
-- [ ] Run deploy only functions file changes
+- [ ] Run deploy when the PR has file changes in functions dir
+- [ ] Generate connpass event with headlesschrome on weekly by circleci
 
-## Getting Started
-
-requirements
-
-- node 8
-- firebase account
-- slack token
+### Getting Started for slash commands
 
 [Install firebase cli and login](https://firebase.google.com/docs/cli/)
 
 ```sh
 npm install -g firebase-tools
 firebase login
-# Generated authenticate in $HOME/.config/gcloud
+# Check exits $HOME/.config/gcloud file
 ```
 
-Install packages
-
-```sh
-npm --prefix "functions" i
-```
-
-if you don't have slack api token, get api token from below:
+If you don't have slack api token, get api token from below and export these:
 
 - https://api.slack.com/custom-integrations/legacy-tokens
 
-## Debug function
+```sh
+export SLACK_API_TOKEN=your_api_token
+export SLACK_SLASH_TOKEN_PREPARE=your_slash_command_token_for_prepare
+export SLACK_SLASH_TOKEN_PRESENTER=your_slash_command_token_for_prepare
+```
+
+Run docker container
+
+```sh
+docker-compose run functions sh
+```
+
+### Debug
 
 Run firebase function locally
 
@@ -107,7 +107,7 @@ Show firebase function logs
 npm --prefix "functions" logs -- --only <mokumoku_init|get_channel_id>
 ```
 
-## Set config
+### Set config for deploy
 
 [if you haven't set some config, you should set config by blow command](https://firebase.google.com/docs/functions/config-env)
 
@@ -124,4 +124,21 @@ slack.api_token=$SLACK_API_TOKEN
 
 firebase functions:config:get
 # show setted configs
+```
+
+## Getting Started for scripts
+
+If you don't have slack api token, get api token from below and export as environment variables:
+
+- https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line
+  - allow access for `repo/public repo` only
+
+```sh
+export GITHUB_API_TOKEN=you_personal_github_token
+```
+
+Run container with sh
+
+```sh
+docker-compose run functions sh
 ```

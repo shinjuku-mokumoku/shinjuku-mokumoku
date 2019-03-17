@@ -1,8 +1,8 @@
 FROM node:8-alpine
 
-# install entrykit
+# Install entrykit
 ENV ENTRYKIT_VERSION 0.4.0
-RUN apk add --no-cache --virtual build-dependencies curl tar \
+RUN apk add --no-cache --virtual build-dependencies curl tar git \
   && curl -SLo entrykit_${ENTRYKIT_VERSION}_Linux_x86_64.tgz https://github.com/progrium/entrykit/releases/download/v${ENTRYKIT_VERSION}/entrykit_${ENTRYKIT_VERSION}_Linux_x86_64.tgz \
   && tar xvzf entrykit_${ENTRYKIT_VERSION}_Linux_x86_64.tgz \
   && rm entrykit_${ENTRYKIT_VERSION}_Linux_x86_64.tgz \
@@ -15,5 +15,5 @@ WORKDIR /app
 VOLUME /app/functions/node_modules
 
 ENTRYPOINT [ \
-  "prehook", "npm --prefix functions i", "--" \
+  "prehook", "npm --prefix scripts i", "--" \
   ]
