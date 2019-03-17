@@ -32,7 +32,7 @@ NextEventGenerator.createNextEventDir = () => {
 
 NextEventGenerator.createPullRequest = () => {
   // const nextEventNum = NextEventGenerator.createNextEventDir();
-  const nextEventNum = 45;
+  const nextEventNum = 42;
 
   const branch = `vol-${nextEventNum}`;
   const repoName = 'shinjuku-mokumoku';
@@ -40,6 +40,7 @@ NextEventGenerator.createPullRequest = () => {
   const repoUrl = `https://${NextEventGenerator.githubAccessToken}@github.com/${repoName}/${repoName}`;
 
   // execSync(`git checkout -b ${branch}`);
+  execSync(`git add ../meetups/${nextEventNum}`);
   execSync(`GIT_AUTHOR_NAME=${repoName} GIT_AUTHOR_EMAIL=${email} GIT_COMMITTER_NAME=${repoName} GIT_COMMITTER_EMAIL=${email} git commit -am "Create ${branch}"`);
   execSync(`git push ${repoUrl} ${branch}`);
   // execSync(`hub pull-request -m "Create ${branch}"`);
