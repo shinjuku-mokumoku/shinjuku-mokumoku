@@ -66,6 +66,75 @@ docker-compose run node ./scripts/generateNextEvent.js
 
 - [ ] Migarte nextEventGenerate script to cloudfunction
 - [ ] Run deploy only functions file changes
+- [ ] Generate connpass event via circleci
+
+## Getting Started
+
+requirements
+
+- node 8
+- firebase account
+- slack token
+- github api token
+
+[Install firebase cli and login](https://firebase.google.com/docs/cli/)
+
+```sh
+npm install -g firebase-tools
+firebase login
+# Generated authenticate in $HOME/.config/gcloud
+```
+
+Install packages
+
+```sh
+npm --prefix "functions" i
+```
+
+if you don't have slack api token, get api token from below:
+
+- https://api.slack.com/custom-integrations/legacy-tokens
+
+## Debug function
+
+Run firebase function locally
+
+```sh
+npx --prefix "functions" run serve
+```
+
+Show firebase function logs
+
+```sh
+npm --prefix "functions" logs -- --only <mokumoku_init|get_channel_id>
+```
+
+## Set config
+
+[if you haven't set some config, you should set config by blow command](https://firebase.google.com/docs/functions/config-env)
+
+```sh
+export SLACK_SLASH_TOKEN_PREPARE=<your_slack_slash_token>
+export SLACK_SLASH_TOKEN_PRESENTER=<your_slack_slash_token>
+export SLACK_API_TOKEN=<your_slack_api_token>
+
+cd <project_root>
+firebase functions:config:set \
+slack.slash_token_prepare=$SLACK_SLASH_TOKEN_PREPARE \
+slack.slash_token_presenter=$SLACK_SLASH_TOKEN_PRESENTER \
+slack.api_token=$SLACK_API_TOKEN
+
+firebase functions:config:get
+# show setted configs
+```
+
+# Development Slash command
+
+## TODO
+
+- [ ] Migarte nextEventGenerate script to cloudfunction
+- [ ] Run deploy only functions file changes
+- [ ] Generate connpass event via circleci
 
 ## Getting Started
 
