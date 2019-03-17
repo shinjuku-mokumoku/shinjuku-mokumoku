@@ -75,7 +75,7 @@ jobs:
           key: scripts_npm_modules-{{ checksum "scritps/package.json" }}
       - run:
           name: Generate next event dir
-          command: npm --prefix scripts run event
+          command: npm --prefix scripts --slient run event
 
 workflows:
   version: 2

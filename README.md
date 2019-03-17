@@ -66,6 +66,8 @@ docker-compose run node ./scripts/generateNextEvent.js
 
 - [ ] Run deploy when the PR has file changes in functions dir
 - [ ] Generate connpass event with headlesschrome on weekly by circleci
+- [ ] Replace git operation from systemcall to GitHub api
+- [ ] Use gith hub oauth token insted of personal access token to create github api
 
 ### Getting Started for slash commands
 
