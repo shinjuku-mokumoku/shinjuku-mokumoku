@@ -7,10 +7,10 @@ jobs:
   build:
     docker:
       - image: circleci/node:8
-
     steps:
       - checkout
 
+      # lint functions
       - restore_cache:
           keys:
             - functions_npm_modules-{{ checksum "functions/package.json" }}
@@ -21,16 +21,29 @@ jobs:
           paths:
             - functions/node_modules
           key: functions_npm_modules-{{ checksum "functions/package.json" }}
-
       - run: npm --prefix "functions" run lint
+
+      # lint scripts
+      - restore_cache:
+          keys:
+            - scripts_npm_modules-{{ checksum "scripts/package.json" }}
+            # fallback to using the latest cache if no exact match is found
+            - scripts_npm_modules-
+      - run: npm --prefix scripts i
+      - save_cache:
+          paths:
+            - scripts/node_modules
+          key: scripts_npm_modules-{{ checksum "scritps/package.json" }}
+      - run:
+          name: Generate next event dir
+          command: npm --prefix scripts run lint
+
 
   deploy:
     docker:
       - image: circleci/node:8
-
     steps:
       - checkout
-
       - restore_cache:
           keys:
             - functions_npm_modules-{{ checksum "functions/package.json" }}
@@ -41,10 +54,28 @@ jobs:
           paths:
             - functions/node_modules
           key: functions_npm_modules-{{ checksum "functions/package.json" }}
-
       - run:
           name: Deploy Master to Firebase
           command: npm --prefix "functions" run deploy
+
+  event:
+    docker:
+      - image: circleci/node:8
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - scripts_npm_modules-{{ checksum "scripts/package.json" }}
+            # fallback to using the latest cache if no exact match is found
+            - scripts_npm_modules-
+      - run: npm --prefix scripts i
+      - save_cache:
+          paths:
+            - scripts/node_modules
+          key: scripts_npm_modules-{{ checksum "scritps/package.json" }}
+      - run:
+          name: Generate next event dir
+          command: npm --prefix scripts run event
 
 workflows:
   version: 2
@@ -57,3 +88,14 @@ workflows:
           filters:
             branches:
               only: master
+  nightly:
+    triggers:
+      - schedule:
+          # Run evey friday
+          cron: "0 0 * * 5"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - event

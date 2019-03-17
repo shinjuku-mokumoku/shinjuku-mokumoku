@@ -9,7 +9,7 @@ services:
 
   functions:
     build:
-      context: .
+      context: ./functions
     environment:
       SLACK_API_TOKEN: ${SLACK_API_TOKEN}
       SLACK_SLASH_TOKEN_PREPARE: ${SLACK_SLASH_TOKEN_PREPARE}
@@ -20,17 +20,17 @@ services:
       - $HOME/.config/gcloud:/root/.config/gcloud:ro
       - functions_node_modules:/app/functions/node_modules
 
-  node:
+  scripts:
     build:
-      context: .
+      context: ./scripts
     environment:
-      SLACK_API_TOKEN: ${SLACK_API_TOKEN}
+      GITHUB_API_TOKEN: ${GITHUB_API_TOKEN}
     volumes:
       - ./:/app
-      - node_modules:/app/node_modules
+      - scripts_node_modules:/app/scripts/node_modules
 
 volumes:
-  node_modules:
+  scripts_node_modules:
     driver: local
   functions_node_modules:
     driver: local
