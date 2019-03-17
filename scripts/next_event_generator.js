@@ -60,12 +60,15 @@ NextEventGenerator.createPullRequest = () => {
     },
     data,
   }).then((response) => {
-    logger.info(response.data);
+    logger.debug(response.data);
+    return response.data.html_url
   }).catch((err) => {
     logger.error(err);
-  });
+  }).then
+  
+  ;
 };
 
 NextEventGenerator.setup(process.env.GITHUB_API_TOKEN);
 // console.log(NextEventGenerator.createNextEventDir())
-NextEventGenerator.createPullRequest();
+console.log(NextEventGenerator.createPullRequest());
