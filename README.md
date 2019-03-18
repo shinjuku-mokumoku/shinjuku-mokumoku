@@ -62,14 +62,14 @@ docker-compose run node ./scripts/generateNextEvent.js
 
 # Development
 
-# TODO
+## TODO
 
 - [ ] Run deploy when the PR has file changes in functions dir
 - [ ] Generate connpass event with headlesschrome on weekly by circleci
 - [ ] Replace git operation from systemcall to GitHub api
 - [ ] Use gith hub oauth token insted of personal access token to create github api
 
-### Getting Started for slash commands
+## Getting Started for slash commands
 
 [Install firebase cli and login](https://firebase.google.com/docs/cli/)
 
@@ -100,13 +100,13 @@ docker-compose run functions sh
 Run firebase function locally
 
 ```sh
-npx --prefix "functions" run serve
+npx --prefix functions run serve
 ```
 
 Show firebase function logs
 
 ```sh
-npm --prefix "functions" logs -- --only <mokumoku_init|get_channel_id>
+npm --prefix functions logs -- --only <function_name>
 ```
 
 ### Set config for deploy
@@ -142,5 +142,5 @@ export GITHUB_API_TOKEN=you_personal_github_token
 Run container with sh
 
 ```sh
-docker-compose run functions sh
+docker-compose run scripts sh
 ```
