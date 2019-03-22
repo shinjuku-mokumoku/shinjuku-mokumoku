@@ -33,7 +33,7 @@ jobs:
       - save_cache:
           paths:
             - scripts/node_modules
-          key: scripts_npm_modules-{{ checksum "scritps/package.json" }}
+          key: scripts_npm_modules-{{ checksum "scripts/package.json" }}
       - run:
           name: Generate next event dir
           command: npm --prefix scripts run lint
@@ -72,7 +72,7 @@ jobs:
       - save_cache:
           paths:
             - scripts/node_modules
-          key: scripts_npm_modules-{{ checksum "scritps/package.json" }}
+          key: scripts_npm_modules-{{ checksum "scripts/package.json" }}
       - run:
           name: Generate next event dir
           command: npm --prefix scripts --slient run event
