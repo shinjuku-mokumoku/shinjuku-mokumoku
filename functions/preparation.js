@@ -22,7 +22,7 @@ Preparation.start = async (slackToken, name) => {
   const generalId = await Slack.get_channel_id('general');
 
   // Lunch
-  Slack.command(channelId, '/poll', '"昼食どこらへんが好き？" "イタリアン: タンタポッカ" "イタリアン: ボガマリ・クチーナ・マリナーラ" "天丼: 高瀬" "寿司: 高瀬" "バーガー: クリバーガー" "カレー: 野菜を食べるカレーcamp" "中華: トーキョー シノワ 神子" "エスニック: Bistro ひつじや" "和食: おひつ膳" "オフィスにいます"');
+  Slack.command(channelId, '/poll', '"昼食どこらへんが好き？" "イタリアン: タンタボッカ" "イタリアン: ボガマリ・クチーナ・マリナーラ" "天丼: 高瀬" "寿司: 高瀬" "バーガー: クリバーガー" "カレー: 野菜を食べるカレーcamp" "中華: トーキョー シノワ 神子" "エスニック: Bistro ひつじや" "和食: おひつ膳" "オフィスにいます"');
   Slack.message(channelId, '厳選美味昼食店: \nhttps://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md');
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel もうすぐlunchです！ランチアンケート ( https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md ) への回答しましょう！" at 12:55`);
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`);
