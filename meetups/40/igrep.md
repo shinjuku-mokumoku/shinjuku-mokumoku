@@ -18,3 +18,6 @@ Kotlinで、Androidとブラウザーで動く簡単なサービスを作った�
 多分なし。
 
 ## 今日の成果
+
+- [READMEを書いた](https://github.com/igrep/keep-me-contributing-kt/blob/master/README.md)
+- Qiitaの記事を途中まで書いた。後はハマりどころを全部埋めてスクリーンショットを加えるだけ。
