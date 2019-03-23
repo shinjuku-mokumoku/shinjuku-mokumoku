@@ -18,3 +18,9 @@
 ## (option) もしかしたら相談するかもしれないこと
  
 - js全般
+
+## 成果
+
+- Angular7が少し分かった
+
+https://paper.dropbox.com/doc/Angular7Heroku2019--AZ3FTfgrhmHf4fIQyeXBLcxwAQ-SHVTPbc2QZl08lHzCUaIr
