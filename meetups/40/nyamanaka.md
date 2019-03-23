@@ -20,3 +20,7 @@ SSOログインを調べようと思います。
 
 ## 今日の成果
 
+ブログ記事途中
+https://nyamanaka.com/articles/75
+スライド
+https://slides.com/livingdeadbny/shinjuku-40#/
