@@ -8,6 +8,7 @@
 ## 今日やること
 Vue.js AppSync DynamoDB Lambdaの管理アプリを作っています。
 
+* XXX台数変更ダイアログ
 * XXX紐づけダイアログ
 * Vuetifyのselectタグについて記事書く
 
@@ -24,3 +25,5 @@ Vue.js AppSync DynamoDB Lambdaの管理アプリを作っています。
   * DynamoDBのテーブル設計
 
 ## 今日の成果
+* XXX台数変更ダイアログ
+* XXX紐づけダイアログ　もうちょい
