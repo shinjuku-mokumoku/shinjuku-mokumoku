@@ -10,7 +10,7 @@
     "serve": "firebase serve --only functions",
     "shell": "firebase functions:shell",
     "start": "npm run shell",
-    "deploy": "firebase deploy --only functions -f --token=$FIREBASE_DEPLOY_TOKEN",
+    "deploy": "node deploy_functions.js",
     "logs": "firebase functions:log"
   },
   "repository": {
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/shinjuku-mokumoku/shinjuku-mokumoku#readme",
   "dependencies": {
+    "@octokit/rest": "^16.20.0",
     "axios": "^0.18.0",
     "firebase-admin": "~7.0.0",
     "firebase-functions": "^2.2.0"
