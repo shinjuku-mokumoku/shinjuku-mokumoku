@@ -14,6 +14,8 @@ RUN apk add --no-cache --virtual build-dependencies curl tar \
 WORKDIR /app
 VOLUME /app/functions/node_modules
 
+RUN npm install -g npm
+
 ENTRYPOINT [ \
   "prehook", "npm --prefix functions i", "--" \
   ]
