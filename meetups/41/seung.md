@@ -13,3 +13,11 @@ Credentials を収納する Server を作る
 ## (option) もしかしたら相談するかもしれないこと
 
 ## 今日の成果
+
+-   最初のサーバ段階構築
+-   １ Password の仕組みについて調査
+    -   Encryption をどうするか
+    -   どんな Protocol 利用？
+    -   DB structure
+-   暗号化について勉強
+-   ...
