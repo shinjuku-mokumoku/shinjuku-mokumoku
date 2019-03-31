@@ -15,3 +15,5 @@ Java、Spring、Spring Boot とか。
 ## (option) もしかしたら相談するかもしれないこと
 
 ## 今日の成果
+
+* IntelliJ IDEAハンズオンはひととおり読み終わり、書いてあったことはひととおり試せた。
