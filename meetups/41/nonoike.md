@@ -11,3 +11,4 @@
 ## (option) もしかしたら相談するかもしれないこと
 
 ## 今日の成果
+- [scala写経・復習](https://www.nnn.ed.nico/pages/programming/)
