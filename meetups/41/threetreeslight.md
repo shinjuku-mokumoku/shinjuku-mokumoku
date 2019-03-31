@@ -43,3 +43,4 @@ kubernetes, Istioを利用されている方、是非ランチ一緒に!
 
 ## 今日取り組んだ成果
 
+https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/637
