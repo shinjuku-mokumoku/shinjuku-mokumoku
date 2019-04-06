@@ -7,6 +7,7 @@ reproで働いています。
 UI/UXteam。
 
 ## 今日やること
+
 - [the-super-tiny-compiler](https://github.com/cidermitaina/the-super-tiny-compiler/pull/1)のreview後修正
   - 先輩がreviewしてくれたので修正
 - webを支える技術
@@ -20,3 +21,10 @@ UI/UXteam。
 
 
 ## 今日の成果
+
+- [the-super-tiny-compiler](https://github.com/cidermitaina/the-super-tiny-compiler/pull/1)
+- webを支える技術
+  - まとめ
+    - esaにまとめた
+  - 実際のwebサービスの設計を理解してみる
+    - github esaにまとめた
