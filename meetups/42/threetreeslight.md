@@ -13,7 +13,7 @@ Organize
 - [Haskell Dojo](https://shinjukuhs.connpass.com/)
 - [Hacking HR!](https://hacking-hr.connpass.com/)
 - [Repro Tech Meetup](https://repro-tech.connpass.com/)
-  - 2019-05-12 Native SDK開発のツラミ会を開きます。都合アレばぜひ :sungrass:
+  - 2019-04-04 AI・機械学習をテーマに豪華ゲスト陣で開催します😎
 - [Repro Tech Hands-on](https://repro-tech.connpass.com/)
 - [shinjuku mokumoku programming](https://shinjuku-mokumoku.connpass.com/)
 - [shinjuku.rb](https://shinjukurb.connpass.com/)
@@ -34,13 +34,14 @@ Speaker
 
 ## 今日取り組むこと
 
-shinjuku-mokumoku eventをpuppeteerを使って自動生成する
+shinjuku-mokumoku eventをpuppeteerを使った自動生成
+
+一通り組んだので、page object patternにrefactoringする
 
 ## (option) もしかしたら相談するかもしれないこと
 
-puppeteer得意な人いたら相談したい！
-kubernetes, Istioを利用されている方、是非ランチ一緒に!
+- puppeteer得意な人いたら相談したい！
+- kubernetes, Istioを利用されている方、是非ランチ一緒に!
 
 ## 今日取り組んだ成果
 
-https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/637
