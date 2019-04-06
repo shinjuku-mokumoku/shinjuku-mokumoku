@@ -1,4 +1,4 @@
-# <your_handle>
+# kawasumi
 
 ## 会社や業務で普段やっていること
 - フロントエンドエンジニア
@@ -13,5 +13,8 @@ Nuxt Typescript
 Typescript
 
 ## 今日の成果
-
+tocca というアプリを作りました
+- firebaseでGoogle認証
+- はじめてTypeScriptに挑戦
+- 追加、削除機能追加
 
