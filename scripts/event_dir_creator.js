@@ -67,8 +67,8 @@ EventDirCreator.createPullRequestWithNum = (num) => {
 
 EventDirCreator.createNextEvent = () => {
   const nextEventNum = EventDirCreator.getNextEventNum();
-  EventDirCreator.createEventDir(nextEventNum);
-  EventDirCreator.createPullRequest(nextEventNum);
+  EventDirCreator.createDirWithNum(nextEventNum);
+  EventDirCreator.createPullRequestWithNum(nextEventNum);
 };
 
 exports.EventDirCreator = EventDirCreator;

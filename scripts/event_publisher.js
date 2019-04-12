@@ -10,8 +10,8 @@ EventDirCreator.setup(process.env.GITHUB_API_TOKEN);
 
 const nextEventNum = EventDirCreator.getNextEventNum();
 
-EventDirCreator.createEventDir(nextEventNum);
-EventDirCreator.createPullRequest(nextEventNum);
+EventDirCreator.createDirWithNum(nextEventNum);
+EventDirCreator.createPullRequestWithNum(nextEventNum);
 
 const connpassEventSettings = {
   group: 'shinjuku-moku',
