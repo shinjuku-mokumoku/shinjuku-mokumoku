@@ -24,3 +24,7 @@ JavaのSIerです。
   * DynamoDBのテーブル設計
 
 ## 今日の成果
+* [x] ブログ書く(Amplify AppSync Cognito)
+* [ ] Vue.js AppSync DynamoDB Lambdaの管理アプリ
+  * [x] プルリクレビュー
+  * [ ] その他issue(lint:fix) 途中
