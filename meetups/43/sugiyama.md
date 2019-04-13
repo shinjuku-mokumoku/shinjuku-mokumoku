@@ -22,4 +22,4 @@
 
 ## 今日の成果
 
-- Kubeflowを動かしたい人生だった
+- [Kubeflowを動かしたい人生だった](https://speakerdeck.com/ryuichirou/kubeflowwodong-kasitairen-sheng-datuta)
