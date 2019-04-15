@@ -52,6 +52,7 @@ Repro株式会社
 
 # 留意事項
 
+- 会場からの大量リクエスト(アタック)と解釈される可能性があるスクレイピング・クローリングコードの実行は止めてください。
 - 本イベントは[アンチハラスメントポリシー](http://25.ruby.or.jp/coc.ja.html)に守ります点、ご協力ください
 - どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください
 - 質問・疑問などは、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) もしくは、twitterにて `#shinjukumokumoku` 付きtweetでご連絡ください
