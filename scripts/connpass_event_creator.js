@@ -65,11 +65,32 @@ ConnpassEventCreator.create = async (settings) => {
 
   // Set
   await page.type(`${timeAreaSelector} input[name="start_date"]`, settings.startDate);
+  // Unforcus from input form to close datepitcker
+  await page.click(`${timeAreaSelector} th`);
+
   await page.type(`${timeAreaSelector} input[name="start_time"]`, settings.startTime);
-  // await page.click(`${timeAreaSelector} input[name="end_date"]`, { clickCount: 3 })
-  // await page.keyboard.press('Backspace')
-  // await page.type(`${timeAreaSelector} input[name="end_date"]`, settings.endDate)
+
+  // wait for fill end date automatically
+  await page.waitFor(500);
+
+  // focus input form
+  await page.click(`${timeAreaSelector} input[name="end_date"]`);
+  // delete exist value
+  await page.$eval(`${timeAreaSelector} input[name="end_date"]`, el => el.setSelectionRange(0, el.value.length));
+  await page.keyboard.press('Backspace');
+  // input data
+  await page.type(`${timeAreaSelector} input[name="end_date"]`, settings.endDate);
+  // Unforcus from input form to close datepitcker
+  await page.click(`${timeAreaSelector} th`);
+
+  // focus input form
+  await page.click(`${timeAreaSelector} input[name="end_time"]`);
+  // delete exist value
+  await page.$eval(`${timeAreaSelector} input[name="end_time"]`, el => el.setSelectionRange(0, el.value.length));
+  await page.keyboard.press('Backspace');
+  // input data
   await page.type(`${timeAreaSelector} input[name="end_time"]`, settings.endTime);
+
   // submit
   await page.click(`${timeAreaSelector} button[type="submit"]`);
 
