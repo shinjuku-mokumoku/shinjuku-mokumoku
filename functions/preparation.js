@@ -36,7 +36,6 @@ Preparation.start = async (slackToken, name) => {
   Slack.message(generalId, `今日のshinjuku mokumoku slack channelは <#${channelId}> です！みなさん参加お願いします :sparkles:`);
   Slack.message(channelId, 'わからないことがあるときはまず以下を参照しましょう :point_up: \n\n イベントページ: https://shinjuku-moku.connpass.com/\n introduction資料: https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku# \n');
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel 会場からの大量リクエスト(アタック)と解釈される可能性があるスクレイピング・クローリングコードの実行は止めてください。 :bow:" at 11:00`);
-
 };
 
 exports.Preparation = Preparation;
