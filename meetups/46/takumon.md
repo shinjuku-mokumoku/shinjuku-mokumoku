@@ -26,3 +26,6 @@
   * DynamoDBのテーブル設計
 
 ## 今日の成果
+
+* [React + kuromoji.js + D3-CloudでWordCloudをブラウザに描画](https://takumon.com/wordcloud-with-kuromoji-d3cloud-react)
+* [Node.js + kuromoji.js + D3-CloudでWordCloudの画像を出力](https://takumon.com/wordcloud-with-kuromoji-d3cloud-nodejs)
