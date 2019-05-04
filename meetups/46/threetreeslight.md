@@ -44,3 +44,6 @@ Speaker
 
 ## 今日取り組んだ成果
 
+- [fix puppteer-orb](https://github.com/threetreeslight/puppeteer-orb/commit/28a3041f6fbcfb4b7a86ff987028427a228c943c)
+- [fix mokumoku event creation](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/729)
+- ATS全体のDB設計, model validation構築, seed投入
