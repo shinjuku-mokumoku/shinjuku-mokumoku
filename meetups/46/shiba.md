@@ -4,11 +4,8 @@ shiba
 ## 会社や業務で普段やっていること
 新宿でWeb広告用のプラットフォームつくっています
 
-## (option) 相談乗れるかもしれないこと
-
 ## 今日やること
-Elixirの勉強
-
-## (option) もしかしたら相談するかもしれないこと
+Elixirの勉強とか
 
 ## 今日の成果
+https://slides.com/ikuhoshibata/deck/speaker#/
