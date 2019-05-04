@@ -144,7 +144,7 @@ ConnpassEventCreator.create = async (settings) => {
   await page.click('.popup button[type="submit"]');
   // TODO: sometime timeout for navitagion. It depend on content already loaded or not?
   // await page.waitForNavigation({ waitUntil: 'domcontentloaded' });
-  await page.waitFor(2000);
+  await page.waitFor(3000);
 
   // --------------------------------------------------
   // Fill Event: Host and Presenter

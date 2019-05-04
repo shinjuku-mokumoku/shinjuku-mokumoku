@@ -13,13 +13,14 @@ const nextEventNum = EventDirCreator.getNextEventNum();
 EventDirCreator.createDirWithNum(nextEventNum);
 EventDirCreator.createPullRequestWithNum(nextEventNum);
 
+const eventDate = moment().day('Saturday').add(21, 'd').format('YYYY/MM/DD');
 const connpassEventSettings = {
   group: 'shinjuku-moku',
   title: `Shinjuku Mokumoku Programming #${nextEventNum}`,
   subTitle: 'The Art of Mokumoku Programming',
-  startDate: moment().day('Saturday').add(21, 'd').format('YYYY/MM/DD'),
+  startDate: eventDate,
   startTime: '11:00',
-  endDate: moment().day('Saturday').add(21, 'd').format('YYYY/MM/DD'),
+  endDate: eventDate,
   endTime: '18:00',
   participation: [
     {
