@@ -13,3 +13,10 @@
 
 
 ## 今日の成果
+・チャットアプリを作るチュートリアルを進めた(全然完成できてない)
+
+参考文献
+https://qiita.com/ToshioAkaneya/items/aa1211d73c2d38134e63
+
+
+・認証をfirebaseで行おうとしている途中
