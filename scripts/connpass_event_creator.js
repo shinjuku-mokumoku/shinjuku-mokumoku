@@ -82,6 +82,8 @@ ConnpassEventCreator.create = async (settings) => {
   await page.type(`${timeAreaSelector} input[name="end_date"]`, settings.endDate);
   // Unforcus from input form to close datepitcker
   await page.click(`${timeAreaSelector} th`);
+  // Wait to close datepicker animation. Datepicker overwrap submit button.
+  await page.waitFor(500);
 
   // focus input form
   await page.click(`${timeAreaSelector} input[name="end_time"]`);
@@ -144,7 +146,8 @@ ConnpassEventCreator.create = async (settings) => {
   await page.click('.popup button[type="submit"]');
   // TODO: sometime timeout for navitagion. It depend on content already loaded or not?
   // await page.waitForNavigation({ waitUntil: 'domcontentloaded' });
-  await page.waitFor(2000);
+  // Circleci network latency a little big. So, it wait to upload.
+  await page.waitFor(5000);
 
   // --------------------------------------------------
   // Fill Event: Host and Presenter
@@ -159,7 +162,7 @@ ConnpassEventCreator.create = async (settings) => {
   await page.type(`${hostAreaSelector} input`, settings.host);
   await page.click(`${hostAreaSelector} button`);
 
-  // 2019-03-31: Connpass Group Organizer already added
+  // 2019-03-31: Connpass Group Organizer add automatically
   // // Organizer
   // for (const organizer of settings.organizers) {
   //   await page.click('#OwnersArea .NewOwnerField');
