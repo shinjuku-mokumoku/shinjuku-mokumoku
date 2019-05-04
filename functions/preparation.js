@@ -27,6 +27,9 @@ Preparation.start = async (slackToken, name) => {
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel もうすぐlunchです！ランチアンケート ( https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md ) への回答しましょう！" at 12:55`);
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`);
 
+  // check
+  Slack.command(channelId, '/remind', `<#${channelId}> "暑い、寒いなどありますか？ :eyes: \nお声がけくださーい :raising_hand: " at 15:00`);
+
   // checkout
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel checkoutまであと1hです！成果のまとめなどしていきましょう :muscle:" at 16:00`);
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel checkoutの10min前です！\n今日の成果項を更新しshinjuku-mokumokuへPRをお願いします :muscle:\n\n発表ではchrome castを使います。chrome castの使い方はconnpassにありますので、はじめての方はEvent TV を対象にキャスト練習ください🙏" at 16:50`);
