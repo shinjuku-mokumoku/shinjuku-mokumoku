@@ -26,5 +26,7 @@
 
 ## 今日の成果
 
-- TBD
+- 【勉強会】「Otemachi.swift #03」まとめ  
+https://medium.com/@theuhoooi/otemachi-swift-03-166ae776b32a
 
+書評は書けませんでした。。
