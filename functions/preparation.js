@@ -10,13 +10,14 @@ const { Slack } = require('./slack.js');
 
 const Preparation = {};
 
-Preparation.start = async (slackToken, name) => {
+Preparation.start = async (slackToken, num) => {
   Slack.setup(slackToken);
+  const currentChannelName = `vol-${num}`;
 
-  logger.info(`channel name is ${name}`);
+  logger.info(`channel name is ${currentChannelName}`);
 
-  await Slack.create_channel(name);
-  const channelId = await Slack.get_channel_id(name);
+  await Slack.create_channel(currentChannelName);
+  const channelId = await Slack.get_channel_id(currentChannelName);
 
   // Event channel announce
   const generalId = await Slack.get_channel_id('general');
@@ -27,7 +28,7 @@ Preparation.start = async (slackToken, name) => {
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel もうすぐlunchです！ランチアンケート ( https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md ) への回答しましょう！" at 12:55`);
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`);
 
-  // check
+  // check templature
   Slack.command(channelId, '/remind', `<#${channelId}> "暑い、寒いなどありますか？ :eyes: \nお声がけくださーい :raising_hand: " at 15:00`);
 
   // checkout
@@ -39,6 +40,10 @@ Preparation.start = async (slackToken, name) => {
   Slack.message(generalId, `今日のshinjuku mokumoku slack channelは <#${channelId}> です！みなさん参加お願いします :sparkles:`);
   Slack.message(channelId, 'わからないことがあるときはまず以下を参照しましょう :point_up: \n\n イベントページ: https://shinjuku-moku.connpass.com/\n introduction資料: https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku# \n');
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel 会場からの大量リクエスト(アタック)と解釈される可能性があるスクレイピング・クローリングコードの実行は止めてください。 :bow:" at 11:00`);
+
+  // Archive 3 times ago channel
+  const oldChannelId = await Slack.get_channel_id(`vol-${num - 3}`);
+  Slack.archive(oldChannelId)
 };
 
 exports.Preparation = Preparation;
