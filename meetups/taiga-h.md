@@ -4,7 +4,7 @@
 データ分析や機械学習のPoCなど
 
 ## (option) 相談乗れるかもしれないこと
-SQLとPythonの簡単な内容
+分析SQLとPythonの簡単な内容
 
 ## 今日やること
 -- 書籍『ゼロから作るDeep Learning』を読む。
