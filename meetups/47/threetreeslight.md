@@ -43,3 +43,8 @@ Speaker
 
 ## 今日取り組んだ成果
 
+- 進捗だめです :innocent:
+- いい感じの入力と表示dashboardがほしいだけなので、とりあえずmaterializecssにしておいた
+- 来月にはfrontをreact + typescript によるSPAに置き換えたい
+
+
