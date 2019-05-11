@@ -20,3 +20,6 @@
 - フロント周りは修行が足りず詰まることが多いので、フロント得意な方がいたら相談したい
 
 ## 今日の成果
+
+- TOP画面がいい感じになりました
+- まとめ(https://docs.google.com/presentation/d/1zd_fXdsPyD0UYTroMqoAMYmzCp3TV-OtCl8S9kcksQw/edit#slide=id.g575bbbd055_0_173)
