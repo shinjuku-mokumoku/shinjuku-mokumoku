@@ -1,4 +1,4 @@
-# Sugiyama
+# mizumoto
 
 ## 会社や業務で普段やっていること
 
