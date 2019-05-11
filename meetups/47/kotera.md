@@ -20,3 +20,8 @@
 ## (option) もしかしたら相談するかもしれないこと
  
 - サーバレス全般
+
+## 成果
+
+- DockerでFirebaseの開発環境を整えた
+- Friebaseの[チュートリアル](https://codelabs.developers.google.com/codelabs/firebase-web)を途中までできた
