@@ -114,7 +114,7 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 [取り組んだこと](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)の発表していきましょう 👏
 
-発表 3 min + 質問 2min / person
+発表 1.5-3 min + 質問 0-2min / person
 
 発表中の質問slackもしくはtwitterに投稿ください💪
 
