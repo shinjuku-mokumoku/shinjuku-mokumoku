@@ -28,7 +28,7 @@ exports.prepare = functions.https.onRequest((req, res) => {
     return res.status(400).send(msg);
   }
 
-  Preparation.start(functions.config().slack.api_token, `vol-${num}`);
+  Preparation.start(functions.config().slack.api_token, num);
   return res.status(200).send('OK. Start to prepare about Shinjuku Mokumoku');
 });
 

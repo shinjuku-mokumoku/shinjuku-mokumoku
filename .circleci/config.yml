@@ -2,10 +2,10 @@
 #
 # Check https://circleci.com/docs/2.0/language-javascript/ for more details
 #
-version: 2
+version: 2.1
 
 orbs:
-  puppeteer: threetreeslight/puppeteer@0.0.1
+  puppeteer: threetreeslight/puppeteer@0.1.2
 
 jobs:
   build:
@@ -83,10 +83,13 @@ jobs:
           command: npm --prefix scripts --slient run event
 
 workflows:
-  version: 2
+  version: 2.1
   build-and-deploy:
     jobs:
-      - build
+      - build:
+          filters:
+            branches:
+              only: /^(?!run-event)$/
       - deploy:
           requires:
             - build
@@ -104,3 +107,10 @@ workflows:
                 - master
     jobs:
       - event
+
+  run-event:
+    jobs:
+      - event:
+          filters:
+            branches:
+              only: run-event
