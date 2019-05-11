@@ -13,3 +13,5 @@
 ## (option) もしかしたら相談するかもしれないこと
 
 ## 今日の成果
+ - 書籍『ゼロから作るDeep Learning』の６章から８章（最終章）を読んだ。
+ - kaggleの「TMDB Box Office Prediction」コンペティションのkernelをいくつか読んだ。
