@@ -8,8 +8,8 @@
 ## 今日やること
 - slack botの作成
 
-
 ## (option) もしかしたら相談するかもしれないこと
 - AWS全般
 
 ## 今日の成果
+- slack botをAWS lambdaに設定
