@@ -13,3 +13,6 @@ python のことなら・・・
 Db2 のデーターベースドライバー https://github.com/nakagami/pydrda の不具合修正
 
 ## 今日の成果
+
+python データーベースドライバーと Db2
+https://gist.github.com/nakagami/386cdeabeea5d6caedf55c8718287567
