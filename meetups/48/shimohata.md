@@ -13,3 +13,8 @@ Railsでサーバーサイドエンジニアをしています。
 ## (option) もしかしたら相談するかもしれないこと
 
 ## 今日の成果
+
+ - このチュートリアルが完了
+   https://fluttercrashcourse.com/lessons/navigation-tap-events
+
+ - LTの資料は作れず
