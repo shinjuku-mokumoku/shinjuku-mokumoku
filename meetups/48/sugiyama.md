@@ -22,4 +22,6 @@
 
 ## 今日の成果
 
+- [Untitled5.ipynb](https://gist.github.com/AseiSugiyama/4219c4b61cda2d76f4dc6ddd39bb5af0)
+- [Add how to select image by AseiSugiyama · Pull Request #19 · RubyData/docker-stacks](https://github.com/RubyData/docker-stacks/pull/19#issuecomment-493650130)
 - [AseiSugiyama/NZMATH-Python3: fork from https://sourceforge.net/projects/nzmath/](https://github.com/AseiSugiyama/NZMATH-Python3)
