@@ -9,3 +9,4 @@ linuxコマンド勉強、GCP, dialogflow client 調査、python勉強
 ## (option) もしかしたら相談するかもしれないこと
 python
 ## 今日の成果
+https://gitpitch.com/komatsuma/presentation#/
