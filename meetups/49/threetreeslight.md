@@ -50,3 +50,8 @@ Speaker
 ![](https://files.slack.com/files-tmb/T02E021K5-FJJ8Q0FJP-10fbb417f0/img_20190521_224826_1024.jpg) | ![](https://files.slack.com/files-tmb/T02E021K5-FK02Z4FSL-4ca2db7de4/image_720.png)
 
 ActiveRecordおよび複合主キー、サロゲートキーとナチュラルキーで心をもんもんとしました :innocent:
+
+- DDDだいじ!check 制約最高!
+- railsでの複合主キーはつらい
+- サロゲートキー、採番問題や他のidへの依存が強く出るのでなるべくnatural keyを使いたいが、そうもいかないところはやはり多いと再認識
+
