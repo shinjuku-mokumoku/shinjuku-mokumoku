@@ -28,3 +28,9 @@
   * DynamoDBのテーブル設計
 
 ## 今日の成果
+* Netlifyでお問い合わせフォーム作成
+    * Netlifyの同期的なフォーム作成
+    * React使ったフォーム作成
+    * React + Formikを使ったフォーム作成
+    * Netlifyの非同期なフォーム作成(axios使用)
+         
