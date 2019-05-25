@@ -18,3 +18,5 @@ iOS, Android, React Native, PythonのPyramid, node.js, webrtc
 流行りの技術を教えて欲しいです
 
 ## 今日の成果
+
+https://slides.com/livingdeadbny/deck-5#/
