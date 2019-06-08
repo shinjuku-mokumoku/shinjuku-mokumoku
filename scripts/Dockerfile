@@ -15,5 +15,6 @@ WORKDIR /app
 VOLUME /app/functions/node_modules
 
 ENTRYPOINT [ \
+  "prehook", "npm --prefix scripts audit fix", "--", \
   "prehook", "npm --prefix scripts i", "--" \
   ]
