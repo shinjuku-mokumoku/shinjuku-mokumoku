@@ -42,4 +42,11 @@ kubernetes, Istio好きです！そこらへん好きな方、是非ランチ一
 
 ## 今日取り組んだ成果
 
+ATS & Talent Mangement sytemにおける
+
+- [x] talnetに関連する
+  - [x] communications
+  - [x] communicated_members
+  - [ ] offer
+- [ ] deploy
 
