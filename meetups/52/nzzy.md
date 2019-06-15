@@ -17,3 +17,11 @@ https://connpass.com/user/nzzy/
 - OSSのソース読みが得意な方いらっしゃいましたらお話したいです。
 
 ## 今日の成果
+- gitpichの使い方を覚える
+        -めっちゃ便利だと思った。MarkDown作って、github.comで公開するだけでさら>っとプレゼン作れる。
+- [Practical Binary Analysis](https://www.amazon.co.jp/gp/product/B07BPKWJVT)を>第6章まで読む。だいたいkindleで220ページぐらい読んだ？
+        - ELFの.got/.plt/.got.pltの仕組みがあらためてわかる。
+        - GOTによるDynamicLinkingがセキュリティの要請からも必要であることがわか>った。
+        - DisassemblyについてDynamic DisassemblyとかRecursive Disassemblyという>のがあり、その利点がわかった。
+- ELFのdebigging symbol tableを読み下しできるライブラリの写経をした。
+- ptraceで/bin/lsのsystem callトレースして、Writeシステムコールにフックするサンプルを書いた。
