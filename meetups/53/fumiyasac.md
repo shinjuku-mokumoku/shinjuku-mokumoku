@@ -21,4 +21,12 @@ __【作業】__
 
 + デザイン周りを久々に行った感じがあります。
 
+こちらに出展します！（D-10）
+
 https://gishohaku.firebaseapp.com/
+
+__【最近のトピック】__
+
++ https://github.com/fumiyasac/YPImagePicker の魔改造(Done)
++ https://github.com/fumiyasac/JBDatePicker の魔改造（次のTask）
+
