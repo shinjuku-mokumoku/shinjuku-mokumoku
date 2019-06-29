@@ -14,4 +14,8 @@
 ## 今日やること
 
 1. [「ベイズ推論による機械学習入門」輪読会 #4](https://reading-circle-beginners.connpass.com/event/136714/) の発表資料作成
-2. [TFX ユーザーガイドの翻訳](https://github.com/AseiSugiyama/docs/blob/translate-ja-tfx-user-guide/site/ja/tfx/index.md) の続き
+
+## 今日の成果
+
+1. 発表資料の概要
+2. 論文[[1505.05424] Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424)を読んだ
