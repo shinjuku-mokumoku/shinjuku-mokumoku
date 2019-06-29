@@ -24,6 +24,7 @@ Preparation.start = async (slackToken, num) => {
 
   // for introduction
   Slack.message(generalId, `今日のshinjuku mokumoku slack channelは <#${channelId}> です！みなさん参加お願いします :sparkles:`);
+  Slack.message(channelId, 'wifi: \nhttps://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=wifi/repro');
   Slack.command(channelId, '/remind', `<#${channelId}> \n
 "@channel わからないことがあるときはまず以下を参照しましょう :point_up: \n
 \n
