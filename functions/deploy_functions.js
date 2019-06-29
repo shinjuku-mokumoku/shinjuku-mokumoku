@@ -45,3 +45,5 @@ const deploy = async () => {
 };
 
 deploy();
+
+echo "foo"

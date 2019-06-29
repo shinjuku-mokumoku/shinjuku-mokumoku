@@ -87,9 +87,9 @@ workflows:
   build-and-deploy:
     jobs:
       - build:
-          filters:
-            branches:
-              only: /^(?!run-event)$/
+          # filters:
+          #     branches:
+          #       only: /^(?!run-event)$/
       - deploy:
           requires:
             - build
