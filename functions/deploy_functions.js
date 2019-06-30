@@ -28,7 +28,7 @@ const hasFunctionDiff = async () => {
   const num = await pullRequestNum();
   logger.debug(num);
 
-  const res = await octokit.pulls.listFiles({ owner, repo, number: num });
+  const res = await octokit.pulls.listFiles({ owner, repo, pull_number: num });
   const functionFileNames = res.data.map(files => files.filename).filter(name => /functions/.test(name));
   logger.debug(functionFileNames);
 
