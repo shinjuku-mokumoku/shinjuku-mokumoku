@@ -1,5 +1,7 @@
 ![](/assets/images/shinjuku-mokumoku-banner-960x180.png)
 
+[![CircleCI](https://circleci.com/gh/shinjuku-mokumoku/shinjuku-mokumoku.svg?style=svg)](https://circleci.com/gh/shinjuku-mokumoku/shinjuku-mokumoku)
+
 # What's Shinjuku Mokumoku Programming?
 
 １人だと勉強をサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作ることを目的に毎週開催されているもくもく会です。
