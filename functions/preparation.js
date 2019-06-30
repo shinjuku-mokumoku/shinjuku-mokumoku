@@ -66,7 +66,7 @@ chrome castの使い方はconnpassにありますので、はじめての方はE
 
   // Archive 3 times ago channel
   const oldChannelId = await Slack.get_channel_id(`vol-${num - 3}`);
-  Slack.archive(oldChannelId)
+  Slack.archive(oldChannelId);
 };
 
 exports.Preparation = Preparation;
