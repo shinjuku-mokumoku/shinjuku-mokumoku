@@ -31,7 +31,6 @@
   - [connpass group](https://shinjuku-moku.connpass.com/)
 - Organize
   - [connpass event descritpion](connpass.md)
-  - [organize workflow](ORGANIZE.md)
 - Wifi
   - [Repro](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=wifi/repro)
 
