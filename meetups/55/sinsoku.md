@@ -17,3 +17,10 @@
 
 
 ## 今日の成果
+
+* ECSでテストを実行できた
+  * しかし、DBには繋がらない
+  * unixソケットが使われてしまう...
+* Dockerでのテストはちょっと難しそう
+
+https://www.slideshare.net/sinsoku/rails-testing-on-fargate
