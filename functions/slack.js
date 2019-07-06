@@ -77,4 +77,17 @@ Slack.command = (channelId, command, text) => {
   });
 };
 
+Slack.archive = (channelId) => {
+  const data = {
+    token: Slack.token,
+    channel: channelId,
+  };
+
+  return axios.post('https://slack.com/api/channels.archive', querystring.stringify(data)).then((response) => {
+    logger.info(response.data);
+  }).catch((err) => {
+    logger.error(err);
+  });
+};
+
 exports.Slack = Slack;
