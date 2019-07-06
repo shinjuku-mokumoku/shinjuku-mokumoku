@@ -44,6 +44,16 @@ bigenner | プログラミング初心者が質問して助けを求めるchanne
 17:00 | check-out: 取り組んだことの発表・会の振り返り
 17:30 | 片付け・解散
 
+# ランチ
+
+13時頃に外で食べに行く人は4,5人ずつ集まっていこうと思います。
+
+13時〜14時は鍵閉めてしまっている可能性があるので気をつけてください。
+
+もし来てしまったら[shinjuku-mokumoku/meetup](https://github.com/shinjuku-mokumoku/meetup)までご連絡ください
+
+なるべく早く戻ります。
+
 # check-in & out
 
 ## check-in: 自己紹介と今日取り組むことの発表

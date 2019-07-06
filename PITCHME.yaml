@@ -1,0 +1,17 @@
+# Layout
+transition : none
+
+# Look-and-Feel
+theme: beige
+theme-override: /assets/css/PITCHME.css
+
+code-line-numbers : true
+mathjax : TeX-MML-AM_HTMLorMML-full
+charts : true
+
+# Analytics
+gatoken: UA-30683463-3
+# Twitter
+title: "Shinjuku Mokumoku Programming"
+description: "１人だと勉強をサボりそうなオーガナイザーが **強制的にプログラミングする** ための時間を作る"
+thumbnail: thumbnail.png
