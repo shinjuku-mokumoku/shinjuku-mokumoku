@@ -7,3 +7,5 @@
 * MS系の技術（VB6などの超レガシィ無理っす）
 ## 今日やること
 * DockerでのJenkinsの構築
+## 今日の成果
+* https://github.com/tanakaInfotech-dev/RailsCI_Prac
