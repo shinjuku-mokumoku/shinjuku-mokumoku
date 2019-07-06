@@ -42,3 +42,5 @@ Speaker
 kubernetes, Istio好きです！そこらへん好きな方、是非ランチ一緒に!
 
 ## 今日取り組んだ成果
+
+あと talent, communiation機能を直せば organization昨日の実装が終わる :scream_cat:
