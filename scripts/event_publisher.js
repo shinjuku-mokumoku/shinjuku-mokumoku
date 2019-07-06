@@ -72,6 +72,9 @@ const connpassEventSettings = {
   const channelId = await Slack.get_channel_id('planning');
   Slack.message(channelId, `3w later event is below:\n ${eventUrl}`);
 
+  const generalChannelId = await Slack.get_channel_id('general');
+  Slack.command(channelId, '/remind', `<#${generalChannelId}> "${nextEventNum} on ${eventDate} が公開されましたー！\n${eventUrl}" at 20:00`);
+
   // Archive 3 times ago channel
   const oldChannelId = await Slack.get_channel_id(`vol-${nextEventNum - 3}`);
   Slack.archive(oldChannelId);
