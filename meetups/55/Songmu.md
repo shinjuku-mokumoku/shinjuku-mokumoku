@@ -19,3 +19,5 @@
 - Go Conference 2019 Fukuokaの資料作成
 
 ## 今日の成果
+
+- https://github.com/Songmu/kibelasync
