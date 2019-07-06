@@ -63,10 +63,6 @@ https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.
 chrome castの使い方はconnpassにありますので、はじめての方はEvent TV を対象にキャスト練習ください🙏
 " at 16:50`);
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel checkoutの時間です :timer_clock:" at 17:00`);
-
-  // Archive 3 times ago channel
-  const oldChannelId = await Slack.get_channel_id(`vol-${num - 3}`);
-  Slack.archive(oldChannelId);
 };
 
 exports.Preparation = Preparation;
