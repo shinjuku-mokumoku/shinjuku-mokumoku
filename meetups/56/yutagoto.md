@@ -15,3 +15,9 @@
 - 時間があまるはずなので、Railsアプリを経由してWalletを作るモックサービスを作る
 
 ## 成果
+
+- https://esa-pages.io/p/sharing/10836/posts/236/c1a1608ccde0276b383d.html
+- 自作Wallet作れた
+- Railsを通してWallet作れなかった
+  - https://github.com/frozon/passbook を読んでたりした
+  - https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/PassKit_PG/PassPersonalization.html を読んでたりした
