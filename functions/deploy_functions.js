@@ -26,11 +26,11 @@ const pullRequestNum = async () => {
 
 const hasFunctionDiff = async () => {
   const num = await pullRequestNum();
-  logger.debug(num);
+  logger.debug(`Pull Request is https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pulls/${num}`);
 
   const res = await octokit.pulls.listFiles({ owner, repo, pull_number: num });
   const functionFileNames = res.data.map(files => files.filename).filter(name => /functions/.test(name));
-  logger.debug(functionFileNames);
+  logger.debug(`Change Files: ${functionFileNames.join(",")}`);
 
   return functionFileNames.length > 0;
 };
@@ -38,7 +38,7 @@ const hasFunctionDiff = async () => {
 const deploy = async () => {
   if (await hasFunctionDiff()) {
     logger.info('deploy functions');
-    execSync(`firebase deploy --only functions -f --token=${process.env.GITHUB_API_TOKEN}`);
+    execSync(`firebase deploy --only functions -f --token=${process.env.FIREBASE_API_TOKEN}`);
   } else {
     logger.info('Skipped Deploy. It does not included functions/* file diff');
   }
