@@ -1,5 +1,7 @@
 # Kotera
 
+[![Image from Gyazo](https://i.gyazo.com/thumb/200/e5614e6622220402c57ea315178d6b1b.png)](https://gyazo.com/e5614e6622220402c57ea315178d6b1b)
+
 ## 会社や業務で普段やっていること
 
 - RoRのレビュー
@@ -19,3 +21,8 @@
  
 - heroku buildpackの仕様
 
+## 成果
+
+- 途中までできた。
+  - gem`mkmf`, gcc, makeの勉強になった。
+  - 
