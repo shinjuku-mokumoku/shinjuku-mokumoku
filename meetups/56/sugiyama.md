@@ -12,6 +12,7 @@
 ## 今日やること
 
 1. [みんなのPython勉強会#48 - connpass](https://startpython.connpass.com/event/124253/) の発表資料作成
+2. TFX のドキュメントの翻訳
+3. SHAP のライブラリの検証
 
 ## 今日の成果
-
