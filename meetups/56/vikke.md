@@ -21,3 +21,6 @@ BitCoin / AltCoin のhot wallet開発 / 運用
 ## (option) もしかしたら相談するかもしれないこと
 
 ## 今日の成果
+
+https://gitpitch.com/vikke/sugoi_haskell
+
