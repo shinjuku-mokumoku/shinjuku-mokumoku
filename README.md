@@ -33,6 +33,8 @@
   - [connpass event descritpion](connpass.md)
 - Wifi
   - [Repro](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=wifi/repro)
+- Projects
+  - [firebase](https://console.firebase.google.com/project/shinjuku-mokumoku/)
 
 ## Commands
 
@@ -67,9 +69,7 @@ docker-compose run node ./scripts/generateNextEvent.js
 
 ## TODO
 
-- [ ] Run deploy when the PR has file changes in functions dir
-- [ ] Generate connpass event with headlesschrome on weekly by circleci
-- [ ] Replace git operation from systemcall to GitHub api
+- [ ] Replace creating pull-reqeust operation from systemcall to GitHub api
 - [ ] Use gith hub oauth token insted of personal access token to create github api
 
 ## Getting Started for slash commands
@@ -112,7 +112,9 @@ Show firebase function logs
 npm --prefix functions logs -- --only <function_name>
 ```
 
-### Set config for deploy
+### Deploy
+
+Set config for deploy
 
 [if you haven't set some config, you should set config by blow command](https://firebase.google.com/docs/functions/config-env)
 
@@ -129,6 +131,14 @@ slack.api_token=$SLACK_API_TOKEN
 
 firebase functions:config:get
 # show setted configs
+```
+
+manually deploy
+
+- always deploy automatically by circleci
+
+```sh
+cd functions && firebase deploy --only functions
 ```
 
 ## Getting Started for scripts
