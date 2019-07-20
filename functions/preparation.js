@@ -60,7 +60,7 @@ https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.
 @channel checkoutの10min前です！\n
 今日の成果項を更新しshinjuku-mokumokuへPRをお願いします :muscle:\n\n
 発表ではchrome castを使います。
-chrome castの使い方はconnpassにありますので、はじめての方はEvent TV を対象にキャスト練習ください🙏
+chrome castの使い方はconnpassにありますので、はじめての方は 4F EventSpace ChromeCast を対象にキャスト練習ください🙏
 " at 16:50`);
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel checkoutの時間です :timer_clock:" at 17:00`);
 };
