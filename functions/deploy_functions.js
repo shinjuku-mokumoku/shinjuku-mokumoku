@@ -30,7 +30,7 @@ const hasFunctionDiff = async () => {
 
   const res = await octokit.pulls.listFiles({ owner, repo, pull_number: num });
   const functionFileNames = res.data.map(files => files.filename).filter(name => /functions/.test(name));
-  logger.debug(`Change Files: ${functionFileNames.join(",")}`);
+  logger.debug(`Change Files: ${functionFileNames.join(',')}`);
 
   return functionFileNames.length > 0;
 };
