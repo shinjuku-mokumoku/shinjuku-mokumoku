@@ -14,9 +14,9 @@ hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 
 ## ~~サボりそうな~~<br>オーガナイザーたち
 
-[koki](https://twitter.com/kkoki_1023) | [ほし](https://twitter.com/cidermitaina) | [Yhiss](https://twitter.com/Yhiss) | [aretoky](https://github.com/aretoky) | [ttl](https://twitter.com/)
-:---: | :---: | :---: | :---: | :---:
-![](https://avatars1.githubusercontent.com/u/28473371?s=100&v=4) | ![](https://avatars1.githubusercontent.com/u/23610884?s=100&v=4)  | ![](https://avatars2.githubusercontent.com/u/39427270?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4)
+[龍一郎](https://twitter.com/K_Ryuichirou) | [koki](https://twitter.com/kkoki_1023) | [ほし](https://twitter.com/cidermitaina) | [Yhiss](https://twitter.com/Yhiss) | [aretoky](https://github.com/aretoky) | [ttl](https://twitter.com/)
+:---: | :---: | :---: | :---: | :---: | :---:
+![](https://avatars3.githubusercontent.com/u/30427632?s=100&v=4) | ![](https://avatars1.githubusercontent.com/u/28473371?s=100&v=4) | ![](https://avatars1.githubusercontent.com/u/23610884?s=100&v=4)  | ![](https://avatars2.githubusercontent.com/u/39427270?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) 
 
 ---
 
@@ -28,8 +28,8 @@ hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 
 ## Facilities
 
-- WiFiあります。SSID/PWは前に書いてあります
-- 喫煙所は9Fにあります
+- WiFiあります。SSID/PWは後ろに書いてあります
+- 喫煙所はないです。外でお願いします
 - 水・コーヒー、自由に飲んで頂いて結構です
 - 飲食可能です。フロアに自販機はありませんが、1Fにコンビニやマクドナルドがあります
 - 電源あります。足りない場合はお声がけください
@@ -97,6 +97,14 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ---
 
+## 必要に応じて席替え
+
+似たようなテーマ、言語の人で近く座ったり席替えするのはありですね！
+
+必要そうですか？ @emoji[eyes]
+
+---
+
 @size[3em](💪)
 
 ## Let's mokumoku!
@@ -106,7 +114,7 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 ## Prepare Check-out
 
 - 今日の成果項を更新し[shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku)へPRをお願いします 🎉
-- chrome castを使います。はじめての方は使い方はconnpassを参照し、Evet TVにて投影テストをしてみてください
+- chrome castを使います。はじめての方は使い方はconnpassを参照し、4F EventSpace ChromeCast にて投影テストをしてみてください
 
 ---
 

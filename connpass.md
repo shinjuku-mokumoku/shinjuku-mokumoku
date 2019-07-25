@@ -42,10 +42,6 @@ Repro株式会社
 - JR線「新宿駅」南口から徒歩10分
 - JR線・都営地下鉄大江戸線「代々木駅」北口から徒歩1分
 
-こちらの建物の**4F**です
-
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-1.png?raw=true)
-
 エレベーターから降りて**右**に進み、会場にお入りください
 
 ![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-4.png?raw=true)
