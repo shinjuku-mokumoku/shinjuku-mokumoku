@@ -1,7 +1,7 @@
 # wifi
 
 ## SSID: `Repro4Guest`
-## PW: `R3pI2o-20!9`
+## PW: `Ripuro2019H2!`
 
 # hashtag
 
