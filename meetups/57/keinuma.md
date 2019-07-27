@@ -20,3 +20,6 @@
 - Atomic Designの実践知
 
 ## 成果
+- Atomic Designの原文を読む(1章)
+  - http://atomicdesign.bradfrost.com/
+- 背景と課題をまとめる
