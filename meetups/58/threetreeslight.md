@@ -34,7 +34,11 @@ Speaker
 
 プライベートで作っていいるATS & タレマネの構築を粛々と
 
-- [ ] Infra構築とdeploy自動化まわり
+- [ ] Infra構築
+- [ ] terraform化
+- [ ] terraform dockerize
+- [ ] CI環境整える
+- [ ] deploy自動化
 - [ ] Structured Interview 機能の実装
 
 ## (option) もしかしたら相談するかもしれないこと
@@ -43,4 +47,10 @@ kubernetes, Istio好きです！そこらへん好きな方、是非ランチ一
 
 ## 今日取り組んだ成果
 
+- [x] Infra構築
+- [x] terraform化
+- [x] terraform dockerize
+- [x] CI環境整える
+- [ ] deploy自動化
+- [ ] Structured Interview 機能の実装
 
