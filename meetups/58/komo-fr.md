@@ -22,3 +22,11 @@
 - NLP初心者なので相談するかも
 
 ## 今日の成果
+- もくもくと前処理をしていた
+    - やった
+        - 不要なタグの削除
+    - やってない
+        - ストップワードの設定
+        - 活用形の正規化
+- 今日のメモ
+    - https://scrapbox.io/komofr/Event:_Shinjuku_Mokumoku_Programming_%2358
