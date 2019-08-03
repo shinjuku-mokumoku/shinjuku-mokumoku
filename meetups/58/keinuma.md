@@ -20,3 +20,5 @@
 - Atomic Designの実践したお話
 
 ## 成果
+- Atomic Design by Brad Frostの2章と3章途中
+- 軽くスライドまとめた
