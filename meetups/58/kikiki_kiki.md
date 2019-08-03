@@ -21,8 +21,8 @@
 
 ## 今日やること
 
-NPM, Rreact のテストのBlogを仕上げる
-時間があれば React hooks の勉強
+- [ ] NPM, Rreact のテストのBlogを仕上げる
+- [ ] 時間があれば React hooks の勉強
 
 ## (option) もしかしたら相談するかもしれないこと
 
@@ -30,4 +30,7 @@ NPM, Rreact のテストのBlogを仕上げる
 
 ## 今日の成果
 
-wifi 認証画面が表示されないときの解決方法
+wifi 認証画面が表示されないときの解決方法 ![done](https://img.shields.io/badge/-DONE-green)   
+[Mac wifiの認証画面が表示されない。にハマる](https://chaika.hatenablog.com/entry/2019/08/03/160000)
+
+NPM で初めてパッケージを公開したメモblog ![in progress](https://img.shields.io/badge/-in%20progress-yellow)
