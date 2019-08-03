@@ -56,6 +56,12 @@ Repro株式会社
 
 # FAQ
 
+### Reproでwifi認証ダイアログがでないときは？
+
+以下のブログを参照に解決するか確認ください
+
+[かもめも - Mac wifiの認証画面が表示されない。にハマる](https://chaika.hatenablog.com/entry/2019/08/03/160000)
+
 ### 相談・質問したいです。どうしたらよいですか？
 
 slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) にて回ごとにチャネルが設けられます。
