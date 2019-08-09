@@ -17,5 +17,5 @@
 
 ## 今日の成果
 
-- 発表資料
+- [機械学習図鑑の眺め方](https://speakerdeck.com/asei/ji-jie-xue-xi-tu-jian-falsetiao-mefang?slide=2)
 - TensorFlow Extended User Manual
