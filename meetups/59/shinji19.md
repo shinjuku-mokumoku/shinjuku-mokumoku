@@ -35,5 +35,15 @@
 
 ## 今日の成果
 
-- vscode extension
-  - https://github.com/atsushieno/vscode-language-review
+- ccxt技術検証
+  - 環境構築手順整理
+  - 取引所取得
+  - エラーハンドリング
+  - 通貨ペア取得
+  - 通貨ペア価格の取得
+- 執筆
+  - 環境整備
+    - Re:VIEW
+    - vscode-language-review
+    - https://github.com/atsushieno/vscode-language-review/blob/master/README.md
+  - 構成決め
