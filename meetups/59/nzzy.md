@@ -20,3 +20,5 @@ https://connpass.com/user/nzzy/
 - OSSのソース読みが得意な方いらっしゃいましたらお話したいです。
 
 ## 今日の成果
+- こちらに書きました。
+[59thの成果](https://gitpitch.com/nozzy123nozzy/for-gitpitch/nozzy-spike?p=shinjuku-mokumoku/59/)
