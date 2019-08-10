@@ -20,6 +20,6 @@
 - Atomic Designの実践知
 
 ## 成果
-- Atomic Designの原文を読む(4章)
-  - http://atomicdesign.bradfrost.com/
-- デザイナーとエンジニアの協業についてまとめる
+- お仕事をしてました。。
+  - 昨日デプロイした機能の修正
+  - GAの修正
