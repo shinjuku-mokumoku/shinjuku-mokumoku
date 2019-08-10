@@ -34,3 +34,6 @@
 - Re:VIEW（書籍制作ソフト）の使い方
 
 ## 今日の成果
+
+- vscode extension
+  - https://github.com/atsushieno/vscode-language-review
