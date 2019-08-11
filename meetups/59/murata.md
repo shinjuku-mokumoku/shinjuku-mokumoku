@@ -18,6 +18,60 @@
 ## (option) もしかしたら相談するかもしれないこと
 
 ## 今日の成果
+
+- 【2019-08-11 追記】
+- ローカルでsorbet language serverを起動して、vim上でsorbetに怒ってもらうところまでいけたので追記いたします。
+![sorbet](https://user-images.githubusercontent.com/8390912/62829244-5280ba00-bc34-11e9-9ad6-760c8eae67f3.gif)
+- 手順
+```
+$ # 下準備
+$ mkdir work && cd work
+$ bundle init
+$ nvim Gemfile
+```
+```
+# Gemfile
+
+source "https://rubygems.org"
+gem "sorbet", :group => :development
+gem "sorbet-runtime"
+```
+```
+$ bundle install --path vendor/bundle
+$ bundle exec srb init
+$ bundle binstubs sorbet
+$ bin/srb tc -e 'puts "It works."'
+No errors! Great job.
+$ nvim /path/to/vimrc
+```
+```
+" .vimrc / init.vim
+
+" 追加（vim-plug利用時の例。aleなど入ってると競合するので注意）
+Plug 'prabirshrestha/async.vim'
+Plug 'prabirshrestha/vim-lsp'
+Plug 'prabirshrestha/asyncomplete.vim'
+Plug 'prabirshrestha/asyncomplete-lsp.vim'
+
+" 追加
+let g:lsp_diagnostics_enabled = 1
+if executable('bin/srb')
+    au User lsp_setup call lsp#register_server({
+        \ 'name': 'sorbet',
+        \ 'cmd': {server_info->[&shell, &shellcmdflag, 'bin/srb tc --disable-watchman --lsp ./**/*.*']},
+        \ 'initialization_options': {"diagnostics": "true"},
+        \ 'whitelist': ['ruby'],
+        \ })
+endif
+```
+```
+$ nvim main.rb foo/bar.rb hoge/fuga/piyo.rb
+```
+- 【2019-08-11 追記ここまで】
+
+- （以降は2019-08-10のもくもく作業内容）
+    - （sorbetのビルドが必要とか、ファイル1つしか監視できないとか書いてありますが、これらの記述は誤りです :bow: :bow: :bow: ）
+
 # vscodeに再入門しようとしたがsorbetと戯れていて一日が終わった
 
 # vimに不満はない
