@@ -34,9 +34,11 @@ Speaker
 
 プライベートで作っていいるATS & タレマネの構築を粛々と
 
-- [ ] Implement Imagebuild
-- [ ] Implement auto migration
+- [ ] Implement Imagebuild process
+- [ ] switch rds to aurora
+- [ ] Implement auto migration task process
 - [ ] Implement deploy
+- [ ] Implement encrypt/decript keys
 - [ ] Structured Interview 機能の実装
 
 うーん、kubectl使いたいし、ECSからEKSに切り替えようかな・・・
@@ -47,10 +49,10 @@ kubernetes, Istio好きです！そこらへん好きな方、是非ランチ一
 
 ## 今日取り組んだ成果
 
-- [x] Infra構築
-- [x] terraform化
-- [x] terraform dockerize
-- [x] CI環境整える
-- [ ] deploy自動化
+- [x] :tada: Implement Imagebuild process
+- [ ] [WIP] Implement auto migration task process
+- [ ] Implement deploy
+- [ ] Implement encrypt/decript keys
 - [ ] Structured Interview 機能の実装
+
 
