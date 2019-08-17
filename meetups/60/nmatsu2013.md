@@ -11,5 +11,6 @@
 - Ruby On Rails でORCA-API（スライドで紹介します）を指定してレスポンス表示(Ruby経験３日前)
 - 初参加です。よろしくおねがいします。
 
-
-
+### 今日取り組んだ成果
+- Ruby On Rails でORCA-APIを呼び出せるようになった
+- ActionTextでPost用XMLを指定できるようにした
