@@ -15,3 +15,9 @@
 ## 今日やること
 
 - CloudRunでrailsをデプロイ出来るようにする
+
+## やったこと
+
+- Rails6インストール
+- Dockerfile設定
+- GCPの環境設定
