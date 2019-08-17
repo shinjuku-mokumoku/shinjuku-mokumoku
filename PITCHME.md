@@ -30,8 +30,8 @@ hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 
 - WiFiあります。SSID/PWは後ろに書いてあります
 - 喫煙所はないです。外でお願いします
-- 水・コーヒー、自由に飲んで頂いて結構です
-- 飲食可能です。フロアに自販機はありませんが、1Fにコンビニやマクドナルドがあります
+- トイレは会場入口近くにあります
+- 飲食自由です。また、水・コーヒー、自由に飲んで頂いて結構です
 - 電源あります。足りない場合はお声がけください
 - ホワイトボードを利用して頂いて結構です
 - 寒い、暑いと感じられた際は一声おかけください
@@ -58,6 +58,12 @@ hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 せっかくなので行ける方はランチ一緒しましょう!
 
 [slack](https://shinjuku-mokumoku.slack.com/)にてランチアンケートを出しますので12:50までにお答えください
+
+---
+
+### 席は自由!
+
+似たようなテーマ、言語の人で近く座ったりすると話しやすくなるのでおすすめです！
 
 ---
 
@@ -94,14 +100,6 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 1-3min / person
 
 [shinjuku-mokumoku - meetups](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/meetups)
-
----
-
-## 必要に応じて席替え
-
-似たようなテーマ、言語の人で近く座ったり席替えするのはありですね！
-
-必要そうですか？ @emoji[eyes]
 
 ---
 
