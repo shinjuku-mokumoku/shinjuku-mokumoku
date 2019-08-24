@@ -20,3 +20,6 @@
 * Haskellについて
 
 ## 今日の成果
+
+https://gitpitch.com/vikke/sugoi_haskell のタプル(P.31)以降
+
