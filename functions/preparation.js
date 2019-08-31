@@ -39,7 +39,7 @@ introduction資料: https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku#\n
 " at 11:30`);
 
   // Lunch
-  Slack.command(channelId, '/poll', '"昼食どこらへんが好き？(種別: 店名(目安金額))" "イタリアン: タンタボッカ(1100円)" "イタリアン: ボガマリ・クチーナ・マリナーラ(1100円)" "天丼: 高瀬(1500円)" "寿司: 高瀬(1300円)" "バーガー: クリバーガー(1300円)" "カレー: 野菜を食べるカレーcamp(1000円)" "中華: 代々木餃子(800円)" "エスニック: Bistro ひつじや(800円)" "和食: おひつ膳(1200円)" "オフィスにいます"');
+  Slack.command(channelId, '/poll', '"昼食どこらへんが好き？(種別: 店名(目安金額))" "イタリアン: タンタボッカ(1100円)" "天丼: 高瀬(1500円)" "寿司: 高瀬(1300円)" "インドカレー: アヒリヤ(1000円)" "カレー: 野菜を食べるカレーcamp(1000円)" "中華: 代々木餃子(800円)" "和食: おひつ膳(1200円)" "肉: 炭火焼神戸牛いく田(1000円)" "オフィスにいます"');
   Slack.message(channelId, 'ランチリスト: \nhttps://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md');
   Slack.command(channelId, '/remind', `<#${channelId}> "
 @channel もうすぐlunchです。ランチアンケートへの回答しましょう！\n\n
