@@ -7,3 +7,9 @@ LCA
 
 ## 今日取り組むこと
 Udemy（Python）
+
+## 今日の成果
+タプル型
+enumerate
+zip
+
