@@ -46,3 +46,12 @@ kubernetes, Istio好きです！そこらへん好きな方、是非ランチ一
 
 ## 今日取り組んだ成果
 
+:sob::sob::sob:
+
+- [ ] WIP 午前中はどうしても終わらせておきたい連絡や業務 :sob:
+- [ ] WIP Implement auto migration task process by ecs_deploy
+- [ ] Implement deploy by ecs_deploy
+- [ ] Implement encrypt/decript keys
+- [ ] Structured Interview 機能の実装
+
+
