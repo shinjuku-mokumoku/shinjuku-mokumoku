@@ -43,6 +43,10 @@ jobs:
           name: Generate next event dir
           command: npm --prefix scripts run lint
 
+      - run:
+          name: Validate self introduction file extension and fromat
+          command: npm --prefix scripts run validate_self_intro
+
   deploy:
     docker:
       - image: circleci/node:8
