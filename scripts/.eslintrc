@@ -1,5 +1,8 @@
 {
-  "extends": "airbnb-base",
+  "extends": [
+    "airbnb-base",
+    "plugin:prettier/recommended"
+  ],
   "rules": {
       "no-restricted-syntax": ["error", "ForInStatement", "LabeledStatement", "WithStatement"]
   }
