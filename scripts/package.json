@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "![](/assets/images/shinjuku-mokumoku-banner-960x180.png)",
   "engines": {
-    "node": "8"
+    "node": "10"
   },
   "scripts": {
     "lint": "eslint .",
@@ -29,7 +29,10 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.2.0",
-    "eslint-plugin-import": "^2.18.2"
+    "eslint-config-prettier": "^6.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
   },
   "private": true
 }

@@ -8,24 +8,11 @@ orbs:
   puppeteer: threetreeslight/puppeteer@0.1.2
 
 jobs:
-  build:
+  build-scripts:
     docker:
-      - image: circleci/node:8
+      - image: circleci/node:10
     steps:
       - checkout
-
-      # lint functions
-      - restore_cache:
-          keys:
-            - functions_npm_modules-{{ checksum "functions/package.json" }}
-            # fallback to using the latest cache if no exact match is found
-            - functions_npm_modules-
-      - run: npm --prefix "functions" install
-      - save_cache:
-          paths:
-            - functions/node_modules
-          key: functions_npm_modules-{{ checksum "functions/package.json" }}
-      - run: npm --prefix "functions" run lint
 
       # lint scripts
       - restore_cache:
@@ -47,7 +34,26 @@ jobs:
           name: Validate self introduction file extension and fromat
           command: npm --prefix scripts run validate_self_intro
 
-  deploy:
+  build-functions:
+    docker:
+      - image: circleci/node:8
+    steps:
+      - checkout
+
+      # lint functions
+      - restore_cache:
+          keys:
+            - functions_npm_modules-{{ checksum "functions/package.json" }}
+            # fallback to using the latest cache if no exact match is found
+            - functions_npm_modules-
+      - run: npm --prefix "functions" install
+      - save_cache:
+          paths:
+            - functions/node_modules
+          key: functions_npm_modules-{{ checksum "functions/package.json" }}
+      - run: npm --prefix "functions" run lint
+
+  deploy-functions:
     docker:
       - image: circleci/node:8
     steps:
@@ -68,7 +74,7 @@ jobs:
 
   event:
     docker:
-      - image: circleci/node:8
+      - image: circleci/node:10
     steps:
       - checkout
       - puppeteer/install
@@ -90,10 +96,11 @@ workflows:
   version: 2.1
   build-and-deploy:
     jobs:
-      - build
-      - deploy:
+      - build-scripts
+      - build-functions
+      - deploy-functions:
           requires:
-            - build
+            - build-functions
           filters:
             branches:
               only: master
