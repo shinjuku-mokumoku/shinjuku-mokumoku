@@ -96,7 +96,10 @@ const connpassEventSettings = {
   Slack.command(
     channelId,
     "/remind",
-    `<#${generalChannelId}> "${nextEventNum} on ${eventDate} が公開されましたー！\n${eventUrl}" at 20:00`
+    `<#${generalChannelId}> "${nextEventNum} on ${eventDate} が公開されましたー！\n${eventUrl.replace(
+      "/edit",
+      ""
+    )}" at 20:00`
   );
 
   // Archive 3 times ago channel
