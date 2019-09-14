@@ -11,3 +11,7 @@
   − `git fetch` / `git merge`
   - pycharm でのコンフリクト解消
 − django のアカウント周りの実装法の調査
+
+## 今日やったこと
+- 資料作成
+- django のアカウント周りの実装中
