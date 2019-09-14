@@ -17,3 +17,10 @@
 - CloudRunでrailsをデプロイ出来るようにする
 
 
+## 今日やったこと
+
+- Railsのデプロイ改善
+  - asset precompileをproductionサーバで実行するのではなく、localhostで実行するように変更
+    - デプロイ中productionサーバに負荷が上がらないように
+- CloudRunの日本語と英語まじりのチュートリアル
+  - https://cloud.google.com/run/docs/setup
