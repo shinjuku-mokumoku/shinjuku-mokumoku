@@ -17,3 +17,15 @@ https://connpass.com/user/nzzy/
 - OSSのソース読みが得意な方いらっしゃいましたらお話したいです。
 
 ## 今日の成果
+- 締切9/18(水）なのに、資料が半分(想定）ぐらいまでしか書けなかった...。
+- Ethereum Remix しゅごい...
+     - ブラウザで開くだけで、
+       - Ethereum solidity/Ganache/truffle/{geth/parity}相当が全部セットアップ済で提供
+　　　 - 無料で使える
+       - VS Code並のアシスト
+　　　 - コントラクトのセキュリティ診断までしてくれる
+       - デプロイがブラウザのEthereumウォレットと連動。
+         また、ganache相当のシミュレータが最初から搭載なので、そこでデバッグとかも可能
+       - import先が、github.comのURLを直接指定するだけで、import可能。
+       - OSSらしい。また、ローカルマシンのディレクトリツリーとremix側をremixdというデーモンで同期可能。
+       - コントラクトのデバッグが可能。 
