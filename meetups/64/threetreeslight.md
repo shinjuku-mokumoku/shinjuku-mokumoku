@@ -40,3 +40,23 @@ Speaker
 kubernetes, Istio好きです！そこらへん好きな方、是非ランチ一緒に!
 
 ## 今日取り組んだ成果
+
+- [ ] WIP: SF -> Redashで経営管理用のdashboardを作る
+
+Redashすごい
+
+- Redashは叩いたQuery Resultをsqliteにcacheする機能がある
+- SF連携があるのでSOQL普通に叩ける。ただ、
+  - API limitationがある
+  - 表現力が乏しいので、集計処理にはいまいち
+- そのため
+  - Salesforce objectをobject単位でquery発行し、query resultとしてcache
+  - query cacheを利用して集計処理を行うことで
+    - salesforceのapi limitationに引っかからない
+    - sqliteの表現能力を使った集計クエリを書ける
+
+これは幸せ。prestoとまではいわないけど、dbまたいだqueryが打てるのはやっぱすごい
+
+
+
+
