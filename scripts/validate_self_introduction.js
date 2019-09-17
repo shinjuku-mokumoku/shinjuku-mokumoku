@@ -90,7 +90,7 @@ const isValidFormatFile = async (prNumber, filePath) => {
 const isValid = async () => {
   const num = await pullRequestNum();
   const fileNames = await meetupFiles(num);
-  if (fileNames.length == 0) {
+  if (fileNames.length === 0) {
     logger.debug("This PR does not include self introduction file.");
     process.exit(0);
   }
