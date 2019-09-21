@@ -36,7 +36,8 @@ const hasFunctionDiff = async () => {
 };
 
 const deploy = async () => {
-  if (await hasFunctionDiff()) {
+  const hasFunction = await hasFunctionDiff();
+  if (hasFunction) {
     logger.info('deploy functions');
     execSync(`firebase deploy --only functions -f --token=${process.env.FIREBASE_API_TOKEN}`);
   } else {
