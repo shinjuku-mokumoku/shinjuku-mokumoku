@@ -5,7 +5,7 @@
 - Python と GCP
 - 統計と機械学習周り
 
-## (option) 相談乗れるかもしれないこと
+## 相談乗れるかもしれないこと
 
 - 機械学習 (scikit learn とか、LightGBM とか)
 
@@ -13,6 +13,10 @@
 
 1. TensorFlow Docs のレビュー
 2. TensorFlow Extended Sample Code のメンテナンス
+
+## 相談するかもしれないこと
+
+(None)
 
 ## 今日の成果
 
