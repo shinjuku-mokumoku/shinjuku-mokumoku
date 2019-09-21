@@ -32,7 +32,12 @@ Speaker
 
 ## 今日取り組むこと
 
-- [ ] shinjuku.rbの準備
+- shinjuku-mokumoku
+  - [ ] self introduction format errorをgithub prにcommentする
+  - [ ] functionsのapplyがうまく動いていないっぽいので直す
+- shinjuku.rb
+  - [ ] イベントのconnpass準備
+  - [ ] machine準備
 - [ ] WIP Implement auto migration task process by ecs_deploy
 - [ ] WIP Implement deploy by ecs_deploy
 - [ ] Implement encrypt/decript keys
