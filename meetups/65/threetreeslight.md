@@ -50,3 +50,17 @@ kubernetes, Istio好きです！そこらへん好きな方、是非ランチ一
 
 ## 今日の成果
 
+- [x] 会社の連絡雑務
+- shinjuku-mokumoku
+  - [ ] WIP / self introduction format errorをgithub prにcommentする
+  - [ ] functionsのapplyがうまく動いていないっぽいので直す
+  - [ ] channelのauto archiveがうまく動いていないっぽいので直す
+- shinjuku.rb
+  - [x] イベントのconnpass準備
+  - [x] machine準備
+- [ ] WIP Implement auto migration task process by ecs_deploy
+- [ ] WIP Implement deploy by ecs_deploy
+- [ ] Implement encrypt/decript keys
+- [ ] Structured Interview 機能の実装
+
+
