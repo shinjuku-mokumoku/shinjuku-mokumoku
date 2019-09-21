@@ -4,7 +4,7 @@
 
 ## 会社や業務で普段やっていること
 
-VP of PeopleOps at [Repro](https://repro.io)
+VP of People at [Repro](https://repro.io)
 
 そこそこコード書けるイベントオーガナイザーおじさん :innocent:
 
@@ -26,11 +26,11 @@ Speaker
 
 - none
 
-## (option) 教えてもいいよという領域
+## 相談乗れるかもしれないこと
 
 サービスアーキテクチャ、ビックデータ処理、rubyを中心としたアプリケーションで少し相談乗れるかもしれません。
 
-## 今日取り組むこと
+## 今日やること
 
 - [ ] 会社の連絡雑務
 - shinjuku-mokumoku
@@ -44,9 +44,9 @@ Speaker
 - [ ] Implement encrypt/decript keys
 - [ ] Structured Interview 機能の実装
 
-## (option) もしかしたら相談するかもしれないこと
+## 相談するかもしれないこと
 
 kubernetes, Istio好きです！そこらへん好きな方、是非ランチ一緒に!
 
-## 今日取り組んだ成果
+## 今日の成果
 
