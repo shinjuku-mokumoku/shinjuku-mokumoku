@@ -32,6 +32,7 @@ Speaker
 
 ## 今日取り組むこと
 
+- [ ] 会社の連絡雑務
 - shinjuku-mokumoku
   - [ ] self introduction format errorをgithub prにcommentする
   - [ ] functionsのapplyがうまく動いていないっぽいので直す
