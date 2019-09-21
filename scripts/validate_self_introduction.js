@@ -1,6 +1,7 @@
 const Octokit = require("@octokit/rest");
 
-const octokit = new Octokit();
+const octokit = new Octokit({ auth: process.env.GITHUB_API_TOKEN });
+
 const logger = console;
 
 const owner = "shinjuku-mokumoku";
@@ -19,8 +20,8 @@ const pullRequestNum = async () => {
     per_page: 1,
     page: 1
   });
-
   const num = pulls.data[0].number;
+
   logger.debug(`PR Number: ${num}`);
 
   return num;
@@ -89,6 +90,10 @@ const isValidFormatFile = async (prNumber, filePath) => {
 
 const isValid = async () => {
   const num = await pullRequestNum();
+  if (num === undefined) {
+    logger.debug("This commit does not included any kind of Pull-Request.");
+    process.exit(0);
+  }
   const fileNames = await meetupFiles(num);
   if (fileNames.length === 0) {
     logger.debug("This PR does not include self introduction file.");
@@ -98,18 +103,37 @@ const isValid = async () => {
 
   logger.debug(`validFilePath: ${filePath}`);
 
+  // Validate extension and format
+  let errorMessage;
   if (!filePath) {
-    logger.debug("Invalid file extension");
-    process.exit(1);
+    errorMessage = "Invalid file extension";
+  } else {
+    const isValidFormat = await isValidFormatFile(num, filePath);
+    if (!isValidFormat) {
+      errorMessage = "Format is Invalid. Please use meetups/template.md";
+    }
   }
 
-  const isValidFormat = await isValidFormatFile(num, filePath);
-  if (!isValidFormat) {
-    logger.error("Format is Invalid. Please use meetups/template.md");
-    process.exit(1);
+  if (!errorMessage) {
+    process.exit(0);
   }
 
-  process.exit(0);
+  logger.error(errorMessage);
+
+  const opts = {
+    owner,
+    repo,
+    pull_number: num,
+    body: errorMessage,
+    event: "REQUEST_CHANGES"
+  };
+  const resReview = await octokit.pulls.createReview(opts);
+
+  if (resReview.errors) {
+    logger.debug(resReview.errors.join(","));
+  }
+
+  process.exit(1);
 };
 
 isValid();
