@@ -104,5 +104,5 @@ const connpassEventSettings = {
 
   // Archive 3 times ago channel
   const oldChannelId = await Slack.get_channel_id(`vol-${nextEventNum - 3}`);
-  Slack.archive(oldChannelId);
+  await Slack.archive(oldChannelId);
 })();
