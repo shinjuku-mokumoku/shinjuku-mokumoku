@@ -15,3 +15,5 @@
 2. TensorFlow Extended Sample Code のメンテナンス
 
 ## 今日の成果
+
+- [JA: add site/ja/tutorials/customization/custom_training.ipynb by masa-ita · Pull Request #1003](https://github.com/tensorflow/docs/pull/1003#pullrequestreview-291448150) のレビュー
