@@ -9,7 +9,7 @@
 ## 今日やること
 
 * IBM Quantum Challenge Learning Phase 2 (量子検索アルゴリズム)の勉強と実装
-* Z-algorithmの勉強と実装
+* Z-algorithmの勉強と実装 -> AtCoder Beginner Contest 141-E を通す
 * 統計検定2級の勉強
 
 ## 相談するかもしれないこと
