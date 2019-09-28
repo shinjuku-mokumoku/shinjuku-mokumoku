@@ -31,6 +31,7 @@
 
 * IBMQ Challenge Learning Phase 2
 * 実装はできたけど正当性が理解できていないので実装した後本を読んでました
+* Nielsen, Chuang section 6.1.1 - 6.1.3のはじめくらいまで読んでエクササイズを解いた
 
 ### 次回にむけて
 
