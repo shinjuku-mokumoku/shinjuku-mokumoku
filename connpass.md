@@ -64,7 +64,7 @@ Repro株式会社
 
 ### 相談・質問したいです。どうしたらよいですか？
 
-slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) にて回ごとにチャネルが設けられます。
+slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI)) にて回ごとにチャネルが設けられます。
 
 そちらで気軽に質問もしくはお声がけください。
 
@@ -92,4 +92,4 @@ desktopもしくはtabをプロジェクターに投影することが出来ま�
 
 ### 会場に迷っていましいました。どこで連絡をすればよいですか？
 
-[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) もしくは、 `#shinjukumokumoku` hash付きでご連絡ください
+[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI)) もしくは、 `#shinjukumokumoku` hash付きでご連絡ください
