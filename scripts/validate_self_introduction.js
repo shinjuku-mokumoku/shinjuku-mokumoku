@@ -7,26 +7,6 @@ const logger = console;
 const owner = "shinjuku-mokumoku";
 const repo = "shinjuku-mokumoku";
 
-const pullRequestNum = async () => {
-  if (process.env.CIRCLE_PR_NUMBER) {
-    return process.env.CIRCLE_PR_NUMBER;
-  }
-
-  const pulls = await octokit.pulls.list({
-    owner,
-    repo,
-    state: "all",
-    head: `${owner}:${process.env.CIRCLE_BRANCH}`,
-    per_page: 1,
-    page: 1
-  });
-  const num = pulls.data[0].number;
-
-  logger.debug(`PR Number: ${num}`);
-
-  return num;
-};
-
 const meetupFiles = async num => {
   logger.debug(
     `Pull Request is https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/pull/${num}`
@@ -89,7 +69,7 @@ const isValidFormatFile = async (prNumber, filePath) => {
 };
 
 const isValid = async () => {
-  const num = await pullRequestNum();
+  const num = process.env.CIRCLE_PR_NUMBER;
   if (num === undefined) {
     logger.debug("This commit does not included any kind of Pull-Request.");
     process.exit(0);
