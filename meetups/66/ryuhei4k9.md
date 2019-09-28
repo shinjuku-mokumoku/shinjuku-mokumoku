@@ -15,4 +15,5 @@
 - vue / nuxt
 
 ## 今日の成果
-
+以下にまとめた
+https://gitpitch.com/ryuhei4k9/slides/master?p=shinjuku-mokumoku-66
