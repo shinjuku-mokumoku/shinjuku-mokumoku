@@ -32,14 +32,14 @@ Speaker
 
 ## 今日やること
 
-- [ ] 会社の経費精算
+- [x] 会社の経費精算
 - corp.platform
-  - [ ] terraform version migrate to 0.12.9
-  - [ ] apply terraform on circleci
+  - [x] terraform version migrate to 0.12.9
+  - [x] apply terraform on circleci
 - peoplore
+  - [ ] auto db migrate on deploy with ecs
   - [ ] terraform version migrate to 0.12.9
   - [ ] apply terraform on circleci
-  - [ ] auto db migrate on deploy with ecs
 
 ## 相談するかもしれないこと
 
@@ -47,4 +47,7 @@ kubernetes, Istio好きです！そこらへん好きな方、是非ランチ一
 
 ## 今日の成果
 
+概ね良好だ。
+
+terraformのtfstateを移す作業はなんどやっても慎重になるなぁ・・・
 
