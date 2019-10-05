@@ -11,4 +11,9 @@ Ohara_yosuke
 ## 相談するかもしれないこと
 Pythonについて
 ## 今日の成果
-
+ - プログラミングコンテスト(https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/1/ALDS1_1_A)
+  - 本を読んでやり方理解(入力・出力形式)
+  - 挿入ソート実装
+   - 最初for文だけで実装しようとするが断念しwhile文で実装し提出完了
+  - バブルソートも提出完了
+  - 選択ソートを実装中
