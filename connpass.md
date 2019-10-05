@@ -65,7 +65,7 @@ Repro株式会社
 ### 相談・質問したいです。どうしたらよいですか？
 
 slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI)) にて回ごとにチャネルが設けられます。
-
+https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI
 そちらで気軽に質問もしくはお声がけください。
 
 [slack status](https://get.slack.help/hc/ja/articles/201864558)に教えても良いことを入れるのをおすすめしています
@@ -82,6 +82,12 @@ desktopもしくはtabをプロジェクターに投影することが出来ま�
 
 - [Github help - About pull requests](https://help.github.com/articles/about-pull-requests/)
 - [Github help - Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+
+### GithubのRepositoryにて本家への追従方法がわかりません。どうしたらよいですか？
+
+以下を参照ください。
+
+[Attrasian Git Tutorials - Git Forks and Upstreams: How-to and a cool tip](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
 
 ### 発表資料を作るおすすめサービスはありますか？
 
