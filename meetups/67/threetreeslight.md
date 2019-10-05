@@ -44,4 +44,10 @@ kubernetes, Istio好きです！そこらへん好きな方、是非ランチ一
 
 ## 今日の成果
 
+- [x] prepare for vuefes
+- [ ] WIP :sob: aws cto nightの登壇資料作成
+- [ ] aws cto night用 音楽セット作成
+- peoplore
+  - [ ] swtich app server to unicorn
+  - [ ] adjust app and web server resource
 
