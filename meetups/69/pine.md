@@ -26,3 +26,10 @@
 - 絵文字ジェネレーター
   - 依存ライブラリの更新
     - https://github.com/emoji-gen/web-main/pull/75
+  - Docker イメージのビルドコケているの修正
+    - OSS 版 (FREE) で `docker_layer_caching` が効かなくなったらしい :innocent:
+    - https://github.com/emoji-gen/docker-node-py23/commit/ea6770e6067ceeaeae2884efef36888f70742969
+  - ColorPicker のデザインを変更した
+    - https://github.com/emoji-gen/web-main/pull/76
+  - よかったら GitHub へスターつけてください！
+    - https://github.com/emoji-gen/web-main
