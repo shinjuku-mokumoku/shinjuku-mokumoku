@@ -17,5 +17,11 @@
 - xcode全般
 
 ## 今日の成果
-- 
-- 
+- SwiftUIをいじるつもりだったがデータバインディングのCombineフレームワークでハマる
+- わかったこと
+    - Combineのデータ発行はPublisher, Subjectsなどがある
+    - publisherはCombineだけではなく、基本APIであるFoundationのURLSessionなどでもつくられている
+    - 基本的に発行側はOutputとFailure、購読側はInputとFailureというプロパティを持っている
+- 自作中iOSアプリ開発
+    1. ログイン機能 -> X
+    2. 新規会員登録機能 ->X
