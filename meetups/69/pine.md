@@ -20,9 +20,9 @@
 
 ## 今日の成果
 
-- profile-website
-  - Spring Boot のバージョン上げた
-    - https://github.com/pine/profile-website/pull/6
+- Spring Boot のバージョン上げた
+  - https://github.com/pine/profile-website/pull/6
+  - https://github.com/pine/izetta/commit/523ae9a439a143fb6b4a177b5ed999204fd8ac32
 - 絵文字ジェネレーター
   - 依存ライブラリの更新
     - https://github.com/emoji-gen/web-main/pull/75
