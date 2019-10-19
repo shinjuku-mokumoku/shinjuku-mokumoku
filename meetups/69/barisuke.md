@@ -9,3 +9,4 @@ twitter @bari_seino
 ## 相談するかもしれないこと
 git周り（チーム開発に慣れてないので相談するかもしれないです。。）
 ## 今日の成果
+https://gitpitch.com/barisuke/in-60-seconds#/4
