@@ -17,4 +17,5 @@
     * Golangで便利なツール
 
 ## 今日の成果
-* TBD
+* Golangたくさんかけた。
+* CodePipelineが動いたぞ！
