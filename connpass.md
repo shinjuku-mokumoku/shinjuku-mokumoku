@@ -26,7 +26,7 @@
 
 時間  | 内容
 ---   | ---
-10:45 | 開場
+10:55 | 開場
 11:00 | check-in: 自己紹介と今日取り組むことの発表
 11:30 | もくもく
 13:00 | 有志でランチ
@@ -42,11 +42,7 @@ Repro株式会社
 - JR線「新宿駅」南口から徒歩10分
 - JR線・都営地下鉄大江戸線「代々木駅」北口から徒歩1分
 
-こちらの建物の6Fです
-
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-1.png?raw=true)
-
-エレベーターから降りて**左**に進み、会場にお入りください
+エレベーターから降りて**右**に進み、会場にお入りください
 
 ![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-4.png?raw=true)
 
@@ -60,10 +56,16 @@ Repro株式会社
 
 # FAQ
 
+### Reproでwifi認証ダイアログがでないときは？
+
+以下のブログを参照に解決するか確認ください
+
+[かもめも - Mac wifiの認証画面が表示されない。にハマる](https://chaika.hatenablog.com/entry/2019/08/03/160000)
+
 ### 相談・質問したいです。どうしたらよいですか？
 
-slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) にて回ごとにチャネルが設けられます。
-
+slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI)) にて回ごとにチャネルが設けられます。
+https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI
 そちらで気軽に質問もしくはお声がけください。
 
 [slack status](https://get.slack.help/hc/ja/articles/201864558)に教えても良いことを入れるのをおすすめしています
@@ -81,6 +83,12 @@ desktopもしくはtabをプロジェクターに投影することが出来ま�
 - [Github help - About pull requests](https://help.github.com/articles/about-pull-requests/)
 - [Github help - Creating a pull request from a fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
+### GithubのRepositoryにて本家への追従方法がわかりません。どうしたらよいですか？
+
+以下を参照ください。
+
+[Attrasian Git Tutorials - Git Forks and Upstreams: How-to and a cool tip](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
+
 ### 発表資料を作るおすすめサービスはありますか？
 
 - [GitPitch](https://gitpitch.com/)
@@ -90,4 +98,4 @@ desktopもしくはtabをプロジェクターに投影することが出来ま�
 
 ### 会場に迷っていましいました。どこで連絡をすればよいですか？
 
-[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) もしくは、 `#shinjukumokumoku` hash付きでご連絡ください
+[shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI)) もしくは、 `#shinjukumokumoku` hash付きでご連絡ください

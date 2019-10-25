@@ -17,5 +17,6 @@ VOLUME /app/functions/node_modules
 RUN npm install -g npm
 
 ENTRYPOINT [ \
+  "prehook", "npm --prefix functions audit fix", "--", \
   "prehook", "npm --prefix functions i", "--" \
   ]

@@ -1,5 +1,7 @@
 ![](/assets/images/shinjuku-mokumoku-banner-960x180.png)
 
+[![CircleCI](https://circleci.com/gh/shinjuku-mokumoku/shinjuku-mokumoku.svg?style=svg)](https://circleci.com/gh/shinjuku-mokumoku/shinjuku-mokumoku)
+
 # What's Shinjuku Mokumoku Programming?
 
 １人だと勉強をサボりそうなオーガナイザーが **~~強制的に~~ ストイックにプログラミングする** ための時間を作ることを目的に毎週開催されているもくもく会です。
@@ -15,7 +17,7 @@
 
 また、自身にプレッシャーを与えるためにもcheck-inにてやることを宣言し、check-outにて成果を発表します！
 
-過去の雰囲気 : [shinjuku-mokumoku](https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/meetups)
+過去の雰囲気 : [shinjuku-mokumoku](meetups)
 
 質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) もしくは、twitter [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku) にてご連絡ください。
 
@@ -29,7 +31,10 @@
   - [connpass group](https://shinjuku-moku.connpass.com/)
 - Organize
   - [connpass event descritpion](connpass.md)
-  - [organize workflow](ORGANIZE.md)
+- Wifi
+  - [Repro](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=wifi/repro)
+- Projects
+  - [firebase](https://console.firebase.google.com/project/shinjuku-mokumoku/)
 
 ## Commands
 
@@ -64,9 +69,7 @@ docker-compose run node ./scripts/generateNextEvent.js
 
 ## TODO
 
-- [ ] Run deploy when the PR has file changes in functions dir
-- [ ] Generate connpass event with headlesschrome on weekly by circleci
-- [ ] Replace git operation from systemcall to GitHub api
+- [ ] Replace creating pull-reqeust operation from systemcall to GitHub api
 - [ ] Use gith hub oauth token insted of personal access token to create github api
 
 ## Getting Started for slash commands
@@ -109,7 +112,9 @@ Show firebase function logs
 npm --prefix functions logs -- --only <function_name>
 ```
 
-### Set config for deploy
+### Deploy
+
+Set config for deploy
 
 [if you haven't set some config, you should set config by blow command](https://firebase.google.com/docs/functions/config-env)
 
@@ -126,6 +131,14 @@ slack.api_token=$SLACK_API_TOKEN
 
 firebase functions:config:get
 # show setted configs
+```
+
+manually deploy
+
+- always deploy automatically by circleci
+
+```sh
+cd functions && firebase deploy --only functions
 ```
 
 ## Getting Started for scripts

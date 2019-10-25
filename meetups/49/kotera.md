@@ -23,3 +23,9 @@
 ## (option) もしかしたら相談するかもしれないこと
  
 - vue.js
+
+## 成果
+
+- firebase development on docker環境が壊れたので修正していました
+- 業務の割り込みが入りました。。
+- firebase + slackbotのサンプルは少し動かしてみました

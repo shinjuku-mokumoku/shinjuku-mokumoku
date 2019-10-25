@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM node:10-alpine
 
 # Install entrykit
 ENV ENTRYKIT_VERSION 0.4.0
@@ -15,5 +15,6 @@ WORKDIR /app
 VOLUME /app/functions/node_modules
 
 ENTRYPOINT [ \
+  "prehook", "npm --prefix scripts audit fix", "--", \
   "prehook", "npm --prefix scripts i", "--" \
   ]
