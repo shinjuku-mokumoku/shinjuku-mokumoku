@@ -15,7 +15,9 @@
 ## 今日やること
 
 Instagram風SNSアプリケーションの開発。
-AWS Amplifyを使用し、CognitoからJWTが取得できたので、それをバックエンドに渡し、認証を完成させる。
+
+- AWS Amplifyを使用し、CognitoからJWTが取得できたので、それをバックエンドに渡し、認証を完成させる。
+- Staging環境の構築
 
 ## 相談するかもしれないこと
 
