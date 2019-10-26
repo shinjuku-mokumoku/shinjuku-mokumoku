@@ -19,3 +19,9 @@
 (None)
 
 ## 今日の成果
+
+- TensorFlow Docs Review
+  1. https://github.com/tensorflow/docs/pull/1106 LGTM
+  2. https://github.com/tensorflow/docs/pull/1122 make some comments
+- Keras Tutorial
+  1. https://www.tensorflow.org/tutorials/keras/regression
