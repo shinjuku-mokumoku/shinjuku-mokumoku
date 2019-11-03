@@ -22,7 +22,7 @@
 # タイムテーブル
 
 - 遅刻される方は[Introduction](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku#/)を確認ください。
-- 途中退出される場合は、今日の成果をPull-Requestでお出しください
+- 途中退出される場合は随時発表する時間をとりますので、slackなどでorganizerへお声がけください。
 
 時間  | 内容
 ---   | ---
