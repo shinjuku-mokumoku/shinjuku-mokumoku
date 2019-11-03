@@ -76,6 +76,11 @@ https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTF
 
 desktopもしくはtabをプロジェクターに投影することが出来ます。
 
+desktop castがMac OS catalinaでうまく動かない場合は以下をお試しください。
+
+- [Google chromecast community - Failed to cast, Please Try again message When i cast my desktop with my Mac OS catalina](https://support.google.com/chromecast/thread/17170269)
+- Turn on `Privacy and Security > ScreenSharing > Chrome` setting
+
 ### Pull-Requestとはなんですか？権限がなくてPushができません。どうしたらよいですか？
 
 以下をお読みください。
