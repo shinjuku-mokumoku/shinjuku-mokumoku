@@ -19,3 +19,6 @@
 (None)
 
 ## 今日の成果
+
+- https://github.com/tensorflow/docs/pull/1174#pullrequestreview-314542307
+- https://www.kaggle.com/c/tensorflow2-question-answering/overview のカーネルをいくつか読んだ
