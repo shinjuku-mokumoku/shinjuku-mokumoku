@@ -65,7 +65,6 @@ Repro株式会社
 ### 相談・質問したいです。どうしたらよいですか？
 
 slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI)) にて回ごとにチャネルが設けられます。
-https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI
 そちらで気軽に質問もしくはお声がけください。
 
 [slack status](https://get.slack.help/hc/ja/articles/201864558)に教えても良いことを入れるのをおすすめしています
