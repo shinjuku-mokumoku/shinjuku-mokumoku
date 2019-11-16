@@ -29,3 +29,4 @@
 
 ## 今日の成果
 https://github.com/sankyo-toshio/slides/blob/master/shinjuku-mokumoku/73/PITCHME.md
+https://gitpitch.com/sankyo-toshio/slides/master?p=shinjuku-mokumoku/73
