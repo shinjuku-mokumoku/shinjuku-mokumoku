@@ -19,3 +19,4 @@
 
 ## 今日の成果
 
+- [DevFest2019 | GDG Tokyo](https://tokyo.gdgjapan.org/devfest2019) で話す内容を考えた
