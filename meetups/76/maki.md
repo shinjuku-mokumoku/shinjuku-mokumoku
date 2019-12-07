@@ -14,3 +14,7 @@ JavaScriptの参考書を終わらせる
 JavaScript・副業の始め方
 
 ## 今日の成果
+・フロントのバリデーションチェック  
+・getElementById(‘id’)→$('#id')  
+・Ajaxによる非同期通信  
+・GoogleMapAPIを利用してGoogleMapの表示
