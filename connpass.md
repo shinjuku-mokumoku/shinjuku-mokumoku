@@ -22,7 +22,7 @@
 # タイムテーブル
 
 - 遅刻される方は[Introduction](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku#/)を確認ください。
-- 途中退出される場合は、今日の成果をPull-Requestでお出しください
+- 途中退出される場合は随時発表する時間をとりますので、slackなどでorganizerへお声がけください。
 
 時間  | 内容
 ---   | ---
@@ -65,7 +65,6 @@ Repro株式会社
 ### 相談・質問したいです。どうしたらよいですか？
 
 slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI)) にて回ごとにチャネルが設けられます。
-https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI
 そちらで気軽に質問もしくはお声がけください。
 
 [slack status](https://get.slack.help/hc/ja/articles/201864558)に教えても良いことを入れるのをおすすめしています
@@ -75,6 +74,11 @@ https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTF
 [Cast a Chrome tab on your TV](https://support.google.com/chromecast/answer/3228332?hl=en&ref_topic=4602553) をお読みください。
 
 desktopもしくはtabをプロジェクターに投影することが出来ます。
+
+desktop castがMac OS catalinaでうまく動かない場合は以下をお試しください。
+
+- [Google chromecast community - Failed to cast, Please Try again message When i cast my desktop with my Mac OS catalina](https://support.google.com/chromecast/thread/17170269)
+- Turn on `Privacy and Security > ScreenSharing > Chrome` setting
 
 ### Pull-Requestとはなんですか？権限がなくてPushができません。どうしたらよいですか？
 
