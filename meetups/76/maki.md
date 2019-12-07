@@ -15,5 +15,6 @@ JavaScript・副業の始め方
 
 ## 今日の成果
 ・フロントのバリデーションチェック  
-・非同期通信  
-・JQueryのライブラリ
+・getElementById(‘id’)→$('#id')  
+・Ajaxによる非同期通信  
+・GoogleMapAPIを利用してGoogleMapの表示
