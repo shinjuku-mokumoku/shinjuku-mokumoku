@@ -17,3 +17,7 @@ angualrでtodoアプリの実装
 - angularとかfirebase
 
 ## 今日の成果
+Angularのチュートリアルを見ながらTODOアプリを作っていました。
+* typescriptのクラスの型指定
+* MVC設計を意識すること
+* HTTPサービスやる前で終了してしまいましたが、ここからfirebaseとの通信をしてみたい
