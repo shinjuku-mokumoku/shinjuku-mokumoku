@@ -28,7 +28,7 @@ hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 
 ## Facilities
 
-- WiFiあります。SSID/PWは後ろに書いてあります
+- WiFiあります。SSID/PWはSlackを見てください。
 - 喫煙所はないです。外でお願いします
 - トイレは会場入口近くにあります
 - 飲食自由です。また、水・コーヒー、自由に飲んで頂いて結構です
