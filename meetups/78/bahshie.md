@@ -12,4 +12,5 @@ Rails Tutorial 9章
 Rails Tutorialについて
 
 ## 今日の成果
-
+プルリクエストの出し方が分かった。
+Rails Tutorialがほんのり進んだ。
