@@ -19,3 +19,10 @@
 ## (option) もしかしたら相談するかもしれないこと
  
 
+## やったこと
+
+- Docker
+  - buildpacksの詳細調査
+    - これが僕らが探し求めていたものでは感
+  - `--ssh`オプション
+    - docker-composeにはまだ来てない。。`docker-compose build --ssh default`したい！

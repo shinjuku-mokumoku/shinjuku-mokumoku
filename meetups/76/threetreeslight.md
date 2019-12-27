@@ -35,3 +35,13 @@ kubernetes好きです！そこらへん好きな方、是非ランチ一緒に!
 
 ## 今日の成果
 
+- [ ] WIP: 連絡返してないひとに連絡かえす
+- [ ] WIP: AWS re:inventのevent公開と宣伝準備
+- [ ] WIP: interview記事のチェック 2本
+- [ ] CREのイベント登壇資料作成と宣伝
+- [ ] 引っ越すための家を探さなきゃ
+- [ ] tigrcの設定直して気持ちよくなる
+- [ ] peoploreのnginx設定の調整
+- [ ] blog systemのmiddleware群を更新したい
+
+

@@ -44,7 +44,7 @@ Repro株式会社
 
 エレベーターから降りて**右**に進み、会場にお入りください
 
-![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-4.png?raw=true)
+![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro/repro-event-2019-12-21.jpg?raw=true)
 
 # 留意事項
 

@@ -29,4 +29,5 @@ Instagram風SNSアプリケーションの開発。
 ## 今日の成果
 
 
+https://gitpitch.com/kaibadash/gitpitch/shinjukumokumoku76?p=shinjukumokumoku/76#/
 
