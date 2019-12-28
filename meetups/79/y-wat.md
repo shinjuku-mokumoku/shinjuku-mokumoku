@@ -20,3 +20,11 @@ GCPのサービスアカウント管理ってどうしてます????
 相談じゃないけど近い領域をやってる友人を増やしたい
 
 ## 今日の成果
+午前: 英語
+lesson 23,24,25,26
+https://www.amazon.co.jp/Essential-Words-TOEFL-Steven-Matthiesen/dp/1438008872
+
+午後: 開発続き
+cloud functions -> cloud tasks -> cloud run でバッチ的な環境を動かした。サービスアカウント対応は調査できてない。
+botの開発続き
+今: vscodeの(?)pylintの設定(?)で嵌ってる
