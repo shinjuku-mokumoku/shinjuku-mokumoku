@@ -36,3 +36,16 @@ kubernetes好きです！そこらへん好きな方、是非ランチ一緒に!
 
 ## 今日の成果
 
+- [x] 自分の経費精算まとめ
+- [x] メンバーの経費承認
+- [x] メンバーの勤怠承認
+- [ ] WIP: 昨日のイベントで知り合った人に連絡かえす
+- [ ] WIP: 連絡滞った人に連絡かえす
+- [ ] findyのinterview記事のチェック
+- [x] 社内の企画系のreview
+- [x] job interview
+- [ ] shinjuku-mokumokuのイベント自動化scriptのfirebase sdk更新
+- [ ] blog運用に使っているIstioとk8sまわりのmiddleware群の更新
+- [ ] peoploreのインフラ調整
+
+
