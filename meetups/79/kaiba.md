@@ -27,5 +27,5 @@
 
 ## 今日の成果
 
-https://gitpitch.com/kaibadash/gitpitch/shinjukumokumoku76?p=shinjukumokumoku/79#/
+https://gitpitch.com/kaibadash/gitpitch/master?p=shinjukumokumoku/79#/
 
