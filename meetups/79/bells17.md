@@ -1,6 +1,4 @@
-# <your_handle>
-
-@bells17
+# @bells17
 
 ## 会社や業務で普段やっていること
 
@@ -21,3 +19,7 @@
 - Linux周りのことについて
 
 ## 今日の成果
+
+- Kubernetes Engineの開発にあたって必要そうな機能や開発ステップなどを考えてみる
+- AWSの実装を参考にCluster APIのInfrastructure Providerの実装方法について学ぶ
+  - https://github.com/kubernetes-sigs/cluster-api-provider-aws
