@@ -1,6 +1,7 @@
 # @kuzu7shiki
 
 ## 会社や業務で普段やっていること
+今現在は学生ですが、
 来年度からセキュリティエンジニアになるつもりなので、
 CTFなどを通してセキュリティの勉強をしています。
 
@@ -10,10 +11,10 @@ CTFなどを通してセキュリティの勉強をしています。
 
 ## 今日やること
 - 来週に行われる[学会](https://ccnc2020.ieee-ccnc.org/)に向けて資料作成
-- Rustのチュートリアル [これ](https://doc.rust-jp.rs/book/second-edition/)
+- Rustのチュートリアル [Link](https://doc.rust-jp.rs/book/second-edition/)
 
 ## 相談するかもしれないこと
-英語スライドの作り方
-Rust
+- 英語スライドの作り方
+- Rust
 
 ## 今日の成果
