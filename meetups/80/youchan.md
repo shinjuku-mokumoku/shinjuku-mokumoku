@@ -21,4 +21,20 @@ Async gemつかってるよという人がいたら教えてください。
 
 ## 今日の成果
 
+* OpalのRewriterを使ってASTの書き換えができるようになった。
+  * c.f. https://blog.youchan.org/2020-01-02
 
+例えば、こんな感じ
+
+```ruby
+class AsyncRewriter < Base
+  def on_block(node)
+    recvr, args, body = node.children
+
+    return super unless recvr == s(:send, nil, :Async)
+
+    body = s(:send, nil, :puts, s(:str, "Async call")) 
+    node.updated(:block, [recvr, args, body])
+  end
+end
+```
