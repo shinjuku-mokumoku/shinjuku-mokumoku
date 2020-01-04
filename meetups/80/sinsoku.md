@@ -19,4 +19,5 @@
 
 ## 今日の成果
 
-
+- [rails/rails#38145](https://github.com/rails/rails/pull/38145)のレビュー対応
+  - だいたい英語との戦い
