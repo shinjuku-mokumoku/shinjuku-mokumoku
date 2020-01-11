@@ -38,13 +38,4 @@ kubernetes好きです！最近触れていないので、そこらへん好き�
 
 ## 今日の成果
 
-- [x] job inteviewした内容の記録
-- [x] 会社のReplyとタスクの整理諸々
-- [ ] WIP: findyのinterview記事のチェック
-- shinjuku-mokumoku
-  - [ ] イベント自動化scriptのfirebase sdk更新
-  - [ ] 自動チャネル削除が動いていないっぽいので、そのスクリプト修正
-- [ ] peoplore(railsで作っているATS)のインフラ設定
-- [ ] blog運用に使っているIstioとk8sまわりのmiddleware群の更新
-
 
