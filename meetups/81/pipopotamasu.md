@@ -18,3 +18,5 @@ AWS
 SPAのアーキテクチャのE2Eテストの運用に知見持っている人がいたら相談したいです。
 
 ## 今日の成果
+### カルーセルをReact hooksとvue composition api両方で作って比較をする
+vue composition apiを使用したカルーセルを作成(もともとReact版はできていた)。
