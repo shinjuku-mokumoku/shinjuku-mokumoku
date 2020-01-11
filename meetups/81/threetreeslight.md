@@ -42,6 +42,7 @@ kubernetes好きです！最近触れていないので、そこらへん好き�
 - shinjuku-mokumoku
   - [ ] イベント自動化scriptのfirebase sdk更新
   - [ ] 自動チャネル削除が動いていないっぽいので、そのスクリプト修正
+  - [ ] CIとおったらmeetups配下は自動マージにする
 - [ ] peoplore(railsで作っているATS)のインフラ設定
 - [ ] blog運用に使っているIstioとk8sまわりのmiddleware群の更新
 
