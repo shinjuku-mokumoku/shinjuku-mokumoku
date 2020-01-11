@@ -16,4 +16,5 @@
 - 知り合い増やしたいです。連絡先交換歓迎(linkedin or facebook)
 
 ## 今日の成果
-- なにか書く
+- 午前: 英語、GCP試験勉強
+- 午後: bot(python)の管理画面開発。cloud runでnuxtを走らせることにした。nuxtワカラナイ。
