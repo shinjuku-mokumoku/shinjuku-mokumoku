@@ -19,7 +19,7 @@
 
 過去の雰囲気 : [shinjuku-mokumoku](meetups)
 
-質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) もしくは、twitter [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku) にてご連絡ください。
+質問などありましたら、slackの [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) にてご連絡ください。
 
 ## ToC
 
@@ -27,7 +27,7 @@
   - [Introduction, Closing](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku)
   - [Boardgame](https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=boardgame)
 - Community
-  - [slack](https://shinjuku-mokumoku.slack.com/) ([join from here](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTQ4OTI2NDEzNTcyNjMzZGE1MDM1M2FmN2IyMTUzNzkxOTI4NzUxYjAxMmQzMDIxYWIwNzg2M2JiZDYwYjU3OTQ)) もしくは、twitter [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku))
+  - [slack](https://shinjuku-mokumoku.slack.com/) ([join from here](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI))
   - [connpass group](https://shinjuku-moku.connpass.com/)
 - Organize
   - [connpass event descritpion](connpass.md)
