@@ -102,4 +102,12 @@ desktop castがMac OS catalinaでうまく動かない場合は以下をお試�
 
 ### 会場に迷っていましいました。どこで連絡をすればよいですか？
 
+ビルは以下です。
+
+![](https://github.com/shinjuku-mokumoku/meetup/blob/master/assets/images/sponsers/repro-access-1.png?raw=true)
+
+もしくはslackでお声がけください :pray:
+
 [shinjuku-mokumoku](https://shinjuku-mokumoku.slack.com/) ([登録はこちら](https://join.slack.com/t/shinjuku-mokumoku/shared_invite/enQtNDY1NzY4NzE2NzU0LTFhMmZmYzlkYWZkYTFmMTYxODQwNjEyYWFhMGM4ZmJhOGVjZDAyOTdiZTI4ZTExYmIxMzhlNGRkNzk4YjRkZmI)) もしくは、 `#shinjukumokumoku` hash付きでご連絡ください
+
+
