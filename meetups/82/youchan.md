@@ -21,4 +21,6 @@ FirebaseでWebアプリ作れる人がいたら話を聞きたいです。
 
 ## 今日の成果
 
-TBW
+* Firebaseでnuxt.jsのページをホストできた
+    * https://github.com/babel/babel/pull/11006 <= これに見事に嵌りました。
+* 「Pragmatic Opal」は追加章のもくじはできた
