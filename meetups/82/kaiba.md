@@ -25,6 +25,10 @@
 
 - Node、GraphQL
 
+## 今日行きたいランチ
+
+- 寿司
+
 ## 今日の成果
 
 https://gitpitch.com/kaibadash/gitpitch/master?p=shinjukumokumoku/82#/
