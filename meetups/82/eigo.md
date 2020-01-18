@@ -28,7 +28,7 @@
   * PHP 7.2
   * Laravel 5.8
 * PHPフレームワーク Laravel入門で勉強
-  * artisanコマンド
+  * artisan
   * MVCを一通り
   * Pagination
   * Login
@@ -42,3 +42,7 @@
   * HTML,CSS
   * Laravel 6.0
   * Nginx
+
+### Go
+* Dockerで開発環境の構築
+* Hello, World!
