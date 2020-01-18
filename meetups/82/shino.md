@@ -27,3 +27,13 @@ Golangの勉強をします。
 * Go 1.6(AtCoderの現行バージョン)をローカルインストールする方法
 
 ## 今日の成果
+
+* [x] ABC150 C - Count Order GolangでAC
+* The Go Programming Language
+  * [x] Problem 1-4 uniqに似たプログラム 
+  * [x] Problem 1-5 gifアニメの生成(1) color.RGBA
+  * [x] Problem 1-6 gifアニメの生成(2)
+  * [x] Problem 1-7 io.Copy(io.Writer, io.Reader)でos.Stdout <- http.Response.Body
+  * [x] Problem 1-8 strings.HasPrefix
+  * [x] Problem 1-9 http.Response.Status
+  * [x] Problem 1-10 os.Create(filename string) (*os.File, error)
