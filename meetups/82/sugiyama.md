@@ -19,4 +19,4 @@
 
 ## 今日の成果
 
-- 10 分話す分を作った
+https://colab.research.google.com/drive/1249pNTire-vtwL0fG0Q-6D1DUoVORJDc
