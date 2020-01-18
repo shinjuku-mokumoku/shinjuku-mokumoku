@@ -14,3 +14,5 @@ firebaseとの連携
 vueの文法
 
 ## 今日の成果
+codesandbox上でvueとfirebaseの連携ができました。
+次はvueのチュートリアルを勉強した方がいいことがわかりました。
