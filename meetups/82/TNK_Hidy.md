@@ -9,4 +9,5 @@
 ## AWS(特にLambda)
 
 ## 今日の成果
-
+DynamodbのローカルインストールとFlaskのアプリケーション作成まで終わった
+pipenv installでFlask-Scriptのインストールでエラーになるところで終了
