@@ -18,3 +18,5 @@
 - ポケモンについて
 
 ## 今日の成果
+
+- [AseiSugiyama/PokemonAnalytics](https://github.com/AseiSugiyama/PokemonAnalytics)
