@@ -17,3 +17,8 @@ BQのqueryとにらめっこする仕事をしています
 リングフィットの運動ログ
 
 ## 今日の成果
+
+- やるやらりすと作成
+- daily/weekly dashboard作成
+- 誤認識データの把握
+- CloudFunctionsのdoc理解
