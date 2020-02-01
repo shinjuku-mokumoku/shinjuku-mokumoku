@@ -19,3 +19,11 @@
 - GCP
 
 ## 今日の成果
+
+- [ ] https://tfug-tokyo.connpass.com/event/159242/ の予習
+  - [x] https://github.com/tensorflow/tensorrt/blob/master/tftrt/examples/image-classification/Colab-TF-TRT-inference-from-Keras-saved-model.ipynb
+  - [ ] [tensorflow/tensorrt: TensorFlow/TensorRT integration](https://github.com/tensorflow/tensorrt) のコードを読む
+- [x] https://github.com/tensorflow/docs-l10n/pull/5 のレビュー
+- [ ] https://github.com/tensorflow/docs-l10n/pull/4 のレビュー
+  - [x] https://www.tensorflow.org/tutorials/text/transformer の理解
+  - [ ] https://arxiv.org/pdf/1706.03762.pdf の理解
