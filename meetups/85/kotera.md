@@ -18,3 +18,11 @@
 
 ## (option) もしかしたら相談するかもしれないこと
  
+## やったこと
+
+- ESLint環境の構築
+  - configが多分厳しいせいでもあるが、エラー頻発しすぎる。
+  - FileWatch使って自動化したが、エディタと競合したので、command+SでESlintが走るようにした
+- bulma, buefyの仕様理解。特にレイアウト。
+  - flexbox。
+  - slimやpugに慣れていて、生のhtmlのprettier流の書き方だとネスト構造が追いにくい。
