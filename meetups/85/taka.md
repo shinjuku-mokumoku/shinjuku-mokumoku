@@ -14,3 +14,5 @@ Terraform CI/CD環境をつくる
 git pitchの使用方法。
 
 ## 今日の成果
+・Code Pipe Lineを使ってcicd環境が構築出来た
+https://dev.classmethod.jp/cloud/aws/simple-terraform-cicd-pipeline-with-aws-codepipeline/
