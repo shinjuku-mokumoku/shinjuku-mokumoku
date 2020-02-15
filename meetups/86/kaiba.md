@@ -17,8 +17,9 @@
 
 ## 今日やること
 
-- AM Elasticsearch のお仕事。テストしていく。
+- AM Elasticsearch のお仕事。テストしていく
 - PM Contentful(React, Gatsby, GraphQL)
+- 夜 サウナ
 
 ## 相談するかもしれないこと
 
