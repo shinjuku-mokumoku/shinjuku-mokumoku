@@ -9,9 +9,12 @@ Pythonを使用してデータ分析（化粧品の需要予測)
 ## 今日やること
 先週の続き、書籍、Pythonで作るはじめてのサーバーレスアプリケーションを進める
 
-* pythonのライブラリの依存関係の管理（pipenv)を理解する
+* pythonのパッケージ周りを理解する
 
 ## 相談するかもしれないこと
 AWS, lambda 周りとか
 
 ## 今日の成果
+pythonのバージョン、パッケージ周りを整理しました。
+
+https://hackmd.io/JnlggRq2REC37gk2UWCPug?view
