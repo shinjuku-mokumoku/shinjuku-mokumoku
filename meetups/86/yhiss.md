@@ -8,4 +8,4 @@ WEBアプリのデータ分析、機械学習周り、新規事業開発とか
 データ分析周り
 
 ## 今日取り組むこと
-Sports Analyst Meetup #6の分析と資料作り
+Sports Analyst Meetup #6の分析とLT資料作り
