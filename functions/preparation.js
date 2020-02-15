@@ -48,9 +48,6 @@ https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.
 " at 12:55`);
   Slack.command(channelId, '/remind', `<#${channelId}> "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`);
 
-  // self introduction to join in midway
-  Slack.command(channelId, '/remind', `<#${channelId}> "@channel 途中参加の方がいる場合は、ぜひ自己紹介しましょう :raising_hand:" at 14:00`);
-
   // check templature
   Slack.command(channelId, '/remind', `<#${channelId}> "暑い、寒いなどありますか？ :eyes: \nお声がけくださーい :raising_hand: " at 15:00`);
 
