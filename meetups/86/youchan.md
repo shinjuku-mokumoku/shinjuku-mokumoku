@@ -20,4 +20,7 @@ RubyとかOpalのことはすこし相談にのれるかもしれません。
 
 ## 今日の成果
 
-TBW
+* 個人で使っているドキュメント管理アプリのメンテナンス
+* このへん読んでた
+  * https://www.codeotaku.com/journal/2018-06/asynchronous-ruby/index
+  * https://github.com/socketry/async
