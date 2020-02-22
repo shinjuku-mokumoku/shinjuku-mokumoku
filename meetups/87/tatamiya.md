@@ -17,3 +17,10 @@ MLワークフロー管理ツールKedroでTitanic予測を行なってみる。
 ## 相談するかもしれないこと
 
 ## 今日の成果
+
+とりあえず一通りTitanic予測を回せるようになった。
+https://github.com/tatamiya/kedro_titanic
+
+Qiita記事執筆中
+（2/22時点，限定公開）
+https://qiita.com/tatamiya/private/42067d3777d19e9a2c9e
