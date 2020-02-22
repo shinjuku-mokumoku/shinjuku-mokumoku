@@ -21,4 +21,7 @@
 
 ## 今日の成果
 
-
+- [本](https://www.amazon.co.jp/dp/4839966885)のチャプター2を進めていました
+  - EthereumとSolidityの概念/概論の説明のあと、CryptoZombiesをやっていきましょう！みたいな感じでした。
+  - [CryptoZombies](https://cryptozombies.io/jp/)のレッスン3まで進めました。
+  - 学んだことをドキュメントに起こしている最中です。
