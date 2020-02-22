@@ -14,9 +14,9 @@ hashtag : [#shinjukumokumoku](https://twitter.com/hashtag/shinjukumokumoku)
 
 ## ~~サボりそうな~~<br>オーガナイザーたち
 
-[龍一郎](https://twitter.com/K_Ryuichirou) | [koki](https://twitter.com/kkoki_1023) | [Yhiss](https://twitter.com/Yhiss) | [aretoky](https://github.com/aretoky) | [ttl](https://twitter.com/)
-:---: | :---: | :---: | :---: | :---: | :---:
-![](https://avatars3.githubusercontent.com/u/30427632?s=100&v=4) | ![](https://avatars1.githubusercontent.com/u/28473371?s=100&v=4) | ![](https://avatars2.githubusercontent.com/u/39427270?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) 
+| [龍一郎](https://twitter.com/K_Ryuichirou) | [koki](https://twitter.com/kkoki_1023) | [Yhiss](https://twitter.com/Yhiss) | [aretoky](https://github.com/aretoky) | [ttl](https://twitter.com/)
+| :---: | :---: | :---: | :---: | :---: | :---:
+| ![](https://avatars3.githubusercontent.com/u/30427632?s=100&v=4) | ![](https://avatars1.githubusercontent.com/u/28473371?s=100&v=4) | ![](https://avatars2.githubusercontent.com/u/39427270?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/4887965?s=100&v=4) | ![](https://avatars3.githubusercontent.com/u/1057490?s=100&v=4) 
 
 ---
 
