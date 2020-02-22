@@ -14,3 +14,5 @@
   * アルゴリズム
 
 ## 今日の成果
+  * CPU cacheの概要を学んだ
+  * File Descriptorについて学んだ
