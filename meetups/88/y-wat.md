@@ -17,4 +17,8 @@ bert as service部分の本番稼働(GKE+GCE)
 - (転職)
 
 ## 今日の成果
-- あとでかく
+- bert as service部分の本番稼働(GKE+GCE)
+  - バグ潰し中。今日中に潰し切る。
+  - これからはGKEに処理を寄せる所存。
+- HackersRankでコーディング練習
+  - 数問解きました。easyがeasyじゃない(泣)
