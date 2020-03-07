@@ -1,6 +1,6 @@
 # denik @xrdnk
 
-![Imgur](https://i.imgur.com/bHdEeHe.jpg)
+<img src="https://i.imgur.com/bHdEeHe.jpg" width="150">
 
 デニックと呼びます
 
@@ -24,4 +24,6 @@ TBD</br>
 
 ## 今日の成果
 
-TBD</br>
+UniRx完全に理解した…かもしれない</br>
+Subject, IObservable, IObserver, Subscribe, ReactiveProperty</br>
+UniRxのReactivePropertyを用いてUnityにMVPパターンを当てはめた</br>
