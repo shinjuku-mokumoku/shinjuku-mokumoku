@@ -12,3 +12,5 @@ Go実践入門の輪読会資料を作成します。
 
 ## 今日の成果
 
+* [net/http](https://golang.org/pkg/net/http)のドキュメントを読書
+* 資料作り
