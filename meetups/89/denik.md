@@ -1,5 +1,7 @@
 # denik @xrdnk
 
+![Imgur](https://i.imgur.com/bHdEeHe.jpg)
+
 デニックと呼びます
 
 ## 会社や業務で普段やっていること
