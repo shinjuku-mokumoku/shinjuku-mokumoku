@@ -50,3 +50,7 @@ Extenject[Zenject]学習進捗</br>
   * MV(R)P + Extenject + Unity Test Runnerの途中
 
 https://matcha-choco010.net/2019/08/24/unity-mvrp-zenject-multiscene/
+
+PS. 
+4月からも #shinjukumokumoku に参加する予定ですが，変則参加になります．</br>
+恐らく11:00～12:30，17:30～にお邪魔する予定です．</br>
