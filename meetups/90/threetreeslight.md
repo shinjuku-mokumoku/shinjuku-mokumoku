@@ -26,3 +26,16 @@ kubernetes好きです！最近触れていないので寂しい。
 
 ## 今日の成果
 
+- [x] 企画などのReview/Decision
+- [ ] WIP :joy: 色んな人に連絡を返す
+- [ ] WIP :joy: コロナエフェクト対策
+- [ ] CRE組織の課題解決
+- [ ] 海外エンジニアチーム組成に関わる準備
+
+面白そうな記事がメルマガで届いてたのでシェア
+
+- [Database basics: writing a SQL database from scratch in Go](http://notes.eatonphil.com/database-basics.html)
+- [DB Diagram.io](https://dbdiagram.io/)
+- [Choosing the Right Database for Your Applications](https://pingcap.com/success-stories/choosing-right-database-for-your-applications/)
+
+
