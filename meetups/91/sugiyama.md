@@ -20,4 +20,5 @@
 
 ## 今日の成果
 
-- TBD
+- PR 1件 [Fix datatype of the BigQuery query by AseiSugiyama · Pull Request #1518 · tensorflow/tfx](https://github.com/tensorflow/tfx/pull/1518)
+- Issue 1件 [At AI Platform Pipeline tutorial, stats_impl.py raises AttributeError on Dataflow. · Issue #117 · tensorflow/data-validation](https://github.com/tensorflow/data-validation/issues/117)
