@@ -15,7 +15,7 @@ XR に関心があり，趣味で Unity や XR の勉強中です．</br>
 
 ## 相談乗れるかもしれないこと
 
-Unity(基本レベル)
+Unity(基本レベル)</br>
 
 ## 今日やること
 
@@ -30,3 +30,12 @@ Photon + AR Foundation (→ Google Pixel 4 [AR Core]に導入)
 TBD</br>
 
 ## 今日の成果
+
+ベイブレードマルチプレイARゲーム進捗</br>
+
+- [x] ソロプレイ用の土台作成
+- [ ] ボタンやUIなどの設定
+- [ ] Photonを用いたマルチプレイ設定
+- [ ] マルチプレイ用のギミック設定
+- [ ] AR FoundationでPixel 4 と iPadにデプロイ
+- [ ] 実機
