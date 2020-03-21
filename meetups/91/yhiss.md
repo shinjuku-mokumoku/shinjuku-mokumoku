@@ -15,7 +15,7 @@ WEBアプリのデータ分析、機械学習周り、新規事業開発とか
 UX詳しい人いたら
 
 ## 今日の成果
-Learning from Weak-Label Data: A Deep Forest Expeditionをある程度読めたので、今日中にブログあげる所までいけそうです。
+弱教師あり学習についての論文(Learning from Weak-Label Data: A Deep Forest Expedition)をある程度読めたので、今日中にブログあげる所までいけそうです。
 
 
 
