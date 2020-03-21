@@ -1,4 +1,6 @@
 # GANGAN
+- [Twitter](https://twitter.com/gangan_nikki)
+- [備忘録](https://gangannikki.hatenadiary.jp/archive)
 
 ## 会社や業務でやっていること
 - 鹿児島の大学院生してます。
@@ -21,3 +23,7 @@
 - React.jsについて
 
 ## 今日の成果
+- React.js + Material-UIについてのサンプルアプリ作成
+- Kaggleの勉強
+
+- [LT資料](https://www.slideshare.net/ShimpeiIwamaru/shinjuku-mokumoku91)
