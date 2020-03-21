@@ -27,4 +27,30 @@ TBD</br>
 
 ## 今日の成果
 
-TBD</br>
+UniRx学習進捗</br>
+
+* 色んなオペレータを学習した
+  * Where, Select, SelectMany
+  * Throttle/ThrottleFrame
+  * ThrottleFirst/ThrottleFirstFrame
+  * Delay/DelayFrame
+  * DistinctUntilChanged
+  * SkipUntil + TakeUntil + Repeat
+  * First
+  * Buffer
+* ポーリング型実装(直列記述)とイベント型実装(並列記述)
+* Hot Observable and Cold Observable
+* MVP・MV(R)P
+* MVVM 
+  * データバインディングがないと使えない -> ここでExtenject(Zenject)が必要
+
+Extenject[Zenject]学習進捗</br>
+
+* 触りだけやった
+  * MV(R)P + Extenject + Unity Test Runnerの途中
+
+https://matcha-choco010.net/2019/08/24/unity-mvrp-zenject-multiscene/
+
+PS. 
+4月からも #shinjukumokumoku に参加する予定ですが，変則参加になります．</br>
+恐らく11:00～12:30，17:30～にお邪魔する予定です．</br>

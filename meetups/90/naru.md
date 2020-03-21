@@ -28,4 +28,3 @@ Railsの開発について
 - Slackのスタンプで遊ぶ
 - timesの導入
 - RSpecの勉強
-
