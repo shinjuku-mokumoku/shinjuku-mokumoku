@@ -25,4 +25,6 @@ Railsの開発について
 
 ## 今日の成果
 
-TBD</br>
+- Slackのスタンプで遊ぶ
+- timesの導入
+- RSpecの勉強
