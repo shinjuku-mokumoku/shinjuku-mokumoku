@@ -26,4 +26,11 @@
 - (転職)
 
 ## 今日の成果
-- あとで書く
+- botV1のバグ取り
+  - 画面用のデータ配信apiにバグを見つけてしまったので直した(午前終了)
+- 放送大学の演習進める
+- 残業します
+  - 英語
+  - 確率の計算練習
+  - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+    - chapt10のtensorflowとkerasのイントロ部分を写経
