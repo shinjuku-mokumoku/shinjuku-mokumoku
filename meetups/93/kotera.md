@@ -15,3 +15,9 @@
 - nuxt.js
     - macアプリを作る
 
+## やったこと
+
+- nuxt.js(TypeScript)のelactron化
+- 課題
+    - `nuxt.config.ts`が読み込めない。。
+    
