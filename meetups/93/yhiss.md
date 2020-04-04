@@ -12,3 +12,13 @@ WEBアプリのデータ分析、機械学習周り、新規事業開発、マ�
 
 ## 相談するかもしれないこと
 UX詳しい人いたら
+
+## 今日の成果
+論文読むのはまるで集中できずやめました。  
+代わりに社内の勉強会で進めてる以下の本を進めていました。  
+https://www.amazon.co.jp/dp/B07YSHL8MS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+
+
+
+
