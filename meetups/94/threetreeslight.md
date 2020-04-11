@@ -29,3 +29,17 @@ kubernetes好きです！最近触れていないので寂しい。
 
 ## 今日の成果
 
+- [x] ちょろっと仕事の連絡などの残整理
+- [x] Shinjuku Mokumokuの詰まっているevent公開
+- [x] Shinjuku Mokumokuのscriptをremote開催に合わせて修正
+- [ ] Shinjuku Mokumokuのpackage更新
+  - node upgrade
+  - package upgrade
+  - ついでにalpine上でpuppeteerやると・・・ :innocent:
+- [ ] コロナ対策残タスク
+- [ ] Progrid申し込んだし、1h 英語やるぞ！
+- [ ] Shinjuku Mokumokuのconnpass自動作成をpackage化
+
+
+Running on Alpine troubleshooting
+https://github.com/puppeteer/puppeteer/blob/master/docs/troubleshooting.md#running-on-alpine
