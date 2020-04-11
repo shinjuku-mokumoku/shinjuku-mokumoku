@@ -19,7 +19,7 @@ const eventDate = moment()
   .format("YYYY/MM/DD");
 const connpassEventSettings = {
   group: "shinjuku-moku",
-  title: `Shinjuku Mokumoku Programming #${nextEventNum}`,
+  title: `Online / Shinjuku Mokumoku Programming vol.${nextEventNum}`,
   subTitle: "The Art of Mokumoku Programming",
   startDate: eventDate,
   startTime: "11:00",
@@ -47,9 +47,10 @@ const connpassEventSettings = {
   presenters: [],
   hashtag: "#shinjukumokumoku",
   eventLocation: {
-    id: "29293", // already registered location id
-    name: "Repro株式会社 6F イベントスペース",
-    address: "東京都渋谷区代々木1-36-4 全理連ビル 6階",
+    id: "40853", // already registered location id: online
+    // id: "29293", // already registered location id: onsite
+    name: "Repro株式会社 3F イベントスペース",
+    address: "東京都渋谷区代々木1-36-4 全理連ビル 3階",
     url: "https://goo.gl/maps/7FfF2jniajm"
   },
   duplicate: false,
@@ -83,7 +84,7 @@ const connpassEventSettings = {
       options: ["ノープロブレム", "LT初心者ですががんばります"]
     }
   ],
-  descriptionPath: `${__dirname}/../connpass.md`,
+  descriptionPath: `${__dirname}/../connpass-online.md`,
   preview: true
 };
 

@@ -24,45 +24,76 @@ Preparation.start = async (slackToken, num) => {
 
   // for introduction
   Slack.message(generalId, `今日のshinjuku mokumoku slack channelは <#${channelId}> です！みなさん参加お願いします :sparkles:`);
-  Slack.message(channelId, 'wifi: \nhttps://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=wifi/repro');
+  Slack.message(channelId, `
+    *check-in, check-out*\n
+    check-in, check-outはzoomで行います。\n
+    時間になったらこちらに集まりましょうー :raising_hand:\n
+    \n
+    https://zoom.us/j/481244572\n
+    \n
+    *雑談*\n
+    discordを雑談するのにこちら利用しますので、よければご参加ください :+1:\n
+    \n
+    https://discord.gg/2V4Jky
+    `);
+  // Slack.message(channelId, 'wifi: \nhttps://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=wifi/repro');
   Slack.command(channelId, '/remind', `<#${channelId}> \n
-"@channel わからないことがあるときはまず以下を参照しましょう :point_up: \n
-\n
-イベントページ: https://shinjuku-moku.connpass.com/\n
-introduction資料: https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku#\n
-\n
-*:warning: Attention :warning:*\n
-- 会場IPからのスクレイピング・クローリングコードの実行は止めてください\n
-- 本イベントは[アンチハラスメントポリシー](http://25.ruby.or.jp/coc.ja.html)に守ります点、ご協力ください\n
-- どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください\n
-- 途中退出される場合は、**PRに** 今日の成果をお出しください\n
-" at 11:30`);
+    "@channel わからないことがあるときはまず以下を参照しましょう :point_up: \n
+    \n
+    イベントページ: https://shinjuku-moku.connpass.com/\n
+    introduction資料: https://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku#\n
+    \n
+    *:warning: Attention :warning:*\n
+    - 会場IPからのスクレイピング・クローリングコードの実行は止めてください\n
+    - 本イベントは[アンチハラスメントポリシー](http://25.ruby.or.jp/coc.ja.html)に守ります点、ご協力ください\n
+    - どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください\n
+    - 途中退出される場合は、**PRに** 今日の成果をお出しください\n
+    " at 11:30`);
 
-  // Lunch
-  Slack.command(channelId, '/poll', '"昼食どこらへんが好き？(種別: 店名(目安金額))" "イタリアン: タンタボッカ(1100円)" "天丼: 高瀬(1500円)" "寿司: 高瀬(1300円)" "インドカレー: ボンベイ(1500円)" "カレー: 野菜を食べるカレーcamp(1000円)" "中華: 代々木餃子(800円)" "和食: おひつ膳(1200円)" "肉: 土古里(1000円)" "豚汁: ごちそう豚汁(1000円)" "オフィスにいます"');
-  Slack.message(channelId, 'ランチリスト: \nhttps://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md');
-  Slack.command(channelId, '/remind', `<#${channelId}> "
-@channel もうすぐlunchです。ランチアンケートへの回答しましょう！\n\n
-ランチリスト: \n
-https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md
-" at 12:55`);
-  Slack.command(channelId, '/remind', `<#${channelId}> "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`);
+  // // Lunch
+  // Slack.command(channelId, '/poll', '
+  //   "昼食どこらへんが好き？(種別: 店名(目安金額))"
+  //   "イタリアン: タンタボッカ(1100円)"
+  //   "天丼: 高瀬(1500円)"
+  //   "寿司: 高瀬(1300円)"
+  //   "インドカレー: ボンベイ(1500円)"
+  //   "カレー: 野菜を食べるカレーcamp(1000円)"
+  //   "中華: 代々木餃子(800円)"
+  //   "和食: おひつ膳(1200円)"
+  //   "肉: 土古里(1000円)"
+  //   "豚汁: ごちそう豚汁(1000円)"
+  //   "オフィスにいます"');
+  // Slack.message(channelId, 'ランチリスト: \nhttps://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md');
+  // Slack.command(channelId, '/remind', `<#${channelId}> "
+  //   @channel もうすぐlunchです。ランチアンケートへの回答しましょう！\n\n
+  //   ランチリスト: \n
+  //   https://github.com/shinjuku-mokumoku/shinjuku-mokumoku/blob/master/lunch/yoyogi.md
+  //   " at 12:55`);
+  // Slack.command(channelId, '/remind', `<#${channelId}>
+  //   "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`);
+  Slack.command(channelId, '/remind', `<#${channelId}>
+    "@channel lunchの時間です！ご一緒できる方はZoomへ :sparkless:" at 13:00`);
 
-  // check templature
-  Slack.command(channelId, '/remind', `<#${channelId}> "暑い、寒いなどありますか？ :eyes: \nお声がけくださーい :raising_hand: " at 15:00`);
+  // // check templature
+  // Slack.command(channelId, '/remind', `<#${channelId}>
+  //   "暑い、寒いなどありますか？:eyes:\nお声がけくださーい :raising_hand: " at 15:00`);
 
   // checkout
   Slack.command(channelId, '/remind', `<#${channelId}> "
-@channel checkoutまであと1hです！成果のまとめなどしていきましょう :muscle:
-発表は *1.5-3 min + 質問 0-2min / person* です！
-" at 16:00`);
+    @channel checkoutまであと1hです！成果のまとめなどしていきましょう :muscle:
+    発表は *1.5-3 min + 質問 0-2min / person* です！
+    " at 16:00`);
   Slack.command(channelId, '/remind', `<#${channelId}> "
-@channel checkoutの10min前です！\n
-今日の成果項を更新しshinjuku-mokumokuへPRをお願いします :muscle:\n\n
-発表ではchrome castを使います。
-chrome castの使い方はconnpassにありますので、はじめての方は 4F EventSpace ChromeCast を対象にキャスト練習ください🙏
-" at 16:50`);
-  Slack.command(channelId, '/remind', `<#${channelId}> "@channel checkoutの時間です :timer_clock:" at 17:00`);
+    @channel checkoutの10min前です！\n
+    今日の成果項を更新しshinjuku-mokumokuへPRをお願いします :muscle:\n\n
+    発表ではchrome castを使います。
+    chrome castの使い方はconnpassにありますので、はじめての方は 4F EventSpace ChromeCast を対象にキャスト練習ください🙏
+    " at 16:50`);
+  Slack.command(channelId, '/remind', ` <#${channelId}> "
+    @channel\n
+    checkoutの時間です。以下にアクセスくださーい :raising_hand:\n
+    https://zoom.us/j/481244572\n
+    " at 17:00 `);
 };
 
 exports.Preparation = Preparation;

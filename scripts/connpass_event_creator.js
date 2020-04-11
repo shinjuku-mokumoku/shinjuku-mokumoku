@@ -118,7 +118,9 @@ ConnpassEventCreator.create = async settings => {
   // --------------------------------------------------
   // Fill Event: Location
   // --------------------------------------------------
-  await page.select("select#my_places", settings.eventLocation.id);
+  if (settings.eventLocation.id) {
+    await page.select("select#my_places", settings.eventLocation.id);
+  }
 
   // --------------------------------------------------
   // Fill Event: Participation Method
