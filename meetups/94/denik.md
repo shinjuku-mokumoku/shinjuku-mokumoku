@@ -31,4 +31,21 @@ TBD</br>
 
 ## 今日の成果
 
-TBD</br>
+### 午前
+
+Standard Assets が 2017.3 から 2018.4 にバージョンアップされていたので，</br>
+注意点とかをブログにまとめた．</br>
+
+Unity 2019.3 から Unity Standard Assets 2018.4 版 を Import した際に出るエラーの対処方法</br>
+https://xrdnk.hateblo.jp/entry/2020/04/11/120300
+
+便利なTips16選をやる時間がなかったので，今夜やってみます．</br>
+
+### 午後
+
+VRアカデミーオンライン講義第2回目に参加した．</br>
+https://vracademy.jp/course/vrexpert/
+
+* Unityの基本の復習とか
+* UnityのLighting
+* Unityのコルーチンの復習
