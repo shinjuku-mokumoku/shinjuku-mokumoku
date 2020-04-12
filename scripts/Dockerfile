@@ -1,4 +1,4 @@
-FROM node:10-alpine
+FROM node:12-alpine
 
 # Install entrykit
 ENV ENTRYKIT_VERSION 0.4.0
@@ -12,7 +12,7 @@ RUN apk add --no-cache --virtual build-dependencies curl tar git \
   && entrykit --symlink
 
 WORKDIR /app
-VOLUME /app/functions/node_modules
+VOLUME /src/scripts/node_modules
 
 ENTRYPOINT [ \
   "prehook", "npm --prefix scripts audit fix", "--", \

@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM node:10-alpine
 
 # Install entrykit
 ENV ENTRYKIT_VERSION 0.4.0
