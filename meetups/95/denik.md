@@ -33,4 +33,14 @@ TBD</br>
 
 ## 今日の成果
 
-TBD</br>
+### 午前
+
+Ezy-Slicer というフレームワークを使って切断アクションを実装した</br>
+Oculus Quest 実機上で確認できた．たまにちゃんと切れずにすり抜けるので要改善</br>
+
+### 午後
+
+VR アカデミーオンラインの講義聴講</br>
+
+Unity の復習とか．</br>
+event，action，lambda expressions とか．LINQ とか．</br>
