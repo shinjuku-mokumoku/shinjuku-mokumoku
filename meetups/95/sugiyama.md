@@ -22,4 +22,6 @@
 
 ## 今日の成果
 
-TBD
+- レビュー対応 : https://github.com/tensorflow/docs-l10n/pull/190
+- 壊れたチュートリアルの修正 (1/5) : https://github.com/tensorflow/docs-l10n/pull/193
+- 壊れたチュートリアルの修正 (2/5) : https://github.com/tensorflow/docs-l10n/pull/194
