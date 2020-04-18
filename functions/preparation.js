@@ -25,16 +25,9 @@ Preparation.start = async (slackToken, num) => {
   // for introduction
   Slack.message(generalId, `今日のshinjuku mokumoku slack channelは <#${channelId}> です！みなさん参加お願いします :sparkles:`);
   Slack.message(channelId, `
-    *check-in, check-out*\n
-    check-in, check-outはzoomで行います。\n
+    *check-in/out, chatting*\n
     時間になったらこちらに集まりましょうー :raising_hand:\n
-    \n
-    https://zoom.us/j/481244572\n
-    \n
-    *雑談*\n
-    discordを雑談するのにこちら利用しますので、よければご参加ください :+1:\n
-    \n
-    https://discord.gg/RFV99wm
+    https://discord.gg/RFV99wm\n
     `);
   // Slack.message(channelId, 'wifi: \nhttps://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=wifi/repro');
   Slack.command(channelId, '/remind', `<#${channelId}> \n
@@ -72,7 +65,7 @@ Preparation.start = async (slackToken, num) => {
   // Slack.command(channelId, '/remind', `<#${channelId}>
   //   "@channel lunchの時間です！ご一緒できる方は行きましょう :sparkless:" at 13:00`);
   Slack.command(channelId, '/remind', `<#${channelId}>
-    "@channel lunchの時間です！ご一緒できる方はZoomへ :sparkless:" at 13:00`);
+    "@channel lunchの時間です！ご一緒できる方はDiscordのlunch channelへ :sparkless:" at 13:00`);
 
   // // check templature
   // Slack.command(channelId, '/remind', `<#${channelId}>
@@ -91,8 +84,7 @@ Preparation.start = async (slackToken, num) => {
     " at 16:50`);
   Slack.command(channelId, '/remind', ` <#${channelId}> "
     @channel\n
-    checkoutの時間です。以下にアクセスくださーい :raising_hand:\n
-    https://zoom.us/j/481244572\n
+    checkoutの時間です。Discordのcheck-in/out channelへお集まりくださーい :raising_hand:\n
     " at 17:00 `);
 };
 
