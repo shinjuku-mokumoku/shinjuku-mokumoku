@@ -34,7 +34,7 @@ Preparation.start = async (slackToken, num) => {
     *雑談*\n
     discordを雑談するのにこちら利用しますので、よければご参加ください :+1:\n
     \n
-    https://discord.gg/2V4Jky
+    https://discord.gg/RFV99wm
     `);
   // Slack.message(channelId, 'wifi: \nhttps://gitpitch.com/shinjuku-mokumoku/shinjuku-mokumoku/master?p=wifi/repro');
   Slack.command(channelId, '/remind', `<#${channelId}> \n
