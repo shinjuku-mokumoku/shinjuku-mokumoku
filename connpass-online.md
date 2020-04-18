@@ -37,13 +37,9 @@
 
 # 会場
 
-### [Discord - Shinjuku Mokumoku](https://discord.gg/2V4Jky)
+[Discord - Shinjuku Mokumoku](https://discord.gg/RFV99wm)
 
-もくもく中の雑談やRemote lunchなどはこちらで
-
-### [Zoom](https://zoom.us/j/481244572)
-
-check-in, check-outはのときはこちらにお入りください
+もくもく中の雑談、check-in/outはこちらです
 
 # 留意事項
 
