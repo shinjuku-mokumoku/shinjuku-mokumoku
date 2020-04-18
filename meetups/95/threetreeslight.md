@@ -26,3 +26,11 @@ kubernetes好きです！最近触れていないので寂しい。
 そこらへん好きな方いましたら、是非ランチ一緒に!
 
 ## 今日の成果
+
+- [x] 1h 英語やるぞ！
+- [ ] WIP: 差し込み業務!!! 仕事の連絡・スケジュール設定・タスク化
+- [x] Shinjuku MokumokuのDiscord URLを更新、Discord中心で実行できるようscriptを更新
+- [ ] WIP: Shinjuku Mokumokuのイベント自動作成をalpine linuxで動くようにする
+- [ ] (できれば) Shinjuku Mokumokuのconnpass自動作成をpackage化
+
+
