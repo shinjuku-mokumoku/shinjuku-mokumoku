@@ -20,4 +20,7 @@
 
 ## 今日の成果
 
-- TBD
+- LeetCodeやったが、Disjoint set data structurでハマる
+  - YouTubeで講義を見て理解した
+- シャドーイングを1時間やった
+
