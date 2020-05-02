@@ -19,4 +19,4 @@
 
 ## 今日の成果
 
-- TBD
+- https://github.com/tensorflow/docs-l10n/pull/217
