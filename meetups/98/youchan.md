@@ -15,6 +15,7 @@ RubyとかOpalのことはすこし相談にのれるかもしれません。
 
 * [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
 * GitHub Appsのことを調べたりする
+* PageRankのこと調べる
 
 ## もしかしたら相談するかもしれないこと
 
