@@ -23,4 +23,7 @@
 
 ## 今日の成果
 
-- TBD 
+- LeetCodeでDynamic Programmingの問題を解いた
+- OSSのIssueをチェックしたが、根が深かったので放置
+- OSSに小さいPRを出した
+- YouTube寄生型の簡単な英語学習サイトを自作しようかと検討中
