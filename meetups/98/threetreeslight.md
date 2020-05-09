@@ -27,3 +27,10 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日の成果
 
+- [ ] WIP: 0.5h shadowing
+- [x] 2.0h grammer
+- [ ] プロジェクトのレビュー
+- [ ] 組織変更まわりの対応
+- [ ] 管掌組織まわりのTODO消化
+
+
