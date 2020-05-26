@@ -27,15 +27,15 @@ const connpassEventSettings = {
   endTime: "18:00",
   participation: [
     {
-      attendeeType: "行きます",
-      maxAttendees: 10,
+      attendeeType: "会場参加",
+      maxAttendees: 8,
       payDoor: true,
       eventFee: 0,
       fcfs: true
     },
     {
-      attendeeType: "行くかも",
-      maxAttendees: 3,
+      attendeeType: "オンライン参加",
+      maxAttendees: 8,
       payDoor: true,
       eventFee: 0,
       fcfs: true
@@ -84,7 +84,7 @@ const connpassEventSettings = {
       options: ["ノープロブレム", "LT初心者ですががんばります"]
     }
   ],
-  descriptionPath: `${__dirname}/../connpass-online.md`,
+  descriptionPath: `${__dirname}/../connpass.md`,
   preview: true
 };
 
