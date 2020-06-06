@@ -15,4 +15,5 @@ WEBアプリのデータ分析、機械学習周り、マネジメント、新�
 
 ## 今日の成果
 - 論文(DyCRS: Dynamic Interpretable Postoperative Complication Risk Scoring)を読んでいる(今日中に終わらせたい)
+  - DeepL使うと論文読むの早くなった(気がする)
 - 英会話(30min)
