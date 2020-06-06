@@ -14,10 +14,9 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日やること
 
-食あたりで動けなかったので、仕事がヤバい!
 
 - [ ] 2h Stduy English
-- [ ] APAC Support
+- [ ] WIP: APAC Support
 - [ ] PreSales KPI Definision
 
 ## 相談するかもしれないこと
@@ -27,4 +26,7 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日の成果
 
+- [x] 2h Stduy English
+- [ ] WIP: APAC Support
+- [ ] PreSales KPI Definision
 
