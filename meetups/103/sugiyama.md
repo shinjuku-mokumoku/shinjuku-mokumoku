@@ -20,5 +20,5 @@
 
 ## 今日の成果
 
-- TBD
-s
+- TensorFlow Probability の解説動画を見た
+- 執筆する記事の内容について解像度を上げた
