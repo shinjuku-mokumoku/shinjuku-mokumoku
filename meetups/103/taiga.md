@@ -21,4 +21,5 @@
 
 ## 今日の成果
 
-- TBD
+- 鍵認証の基本的なことを少しだけ学んだ(fingerprintの意味、生成方法、long-term keyとsession-keyなど)
+- 英単語とライティングの勉強を進めた
