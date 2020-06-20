@@ -26,6 +26,7 @@ VP of People at [Repro](https://repro.io)
 ## 今日の成果
 
 - [ ] last 1h! Study English
+  - styding engligh total 3.5h! Yey! I'll write 1min speech & do NativeCamp later
 - [ ] Make PreSaless role presentation for internal
 - [ ] Make Product Specialist role presentation for internal
 
