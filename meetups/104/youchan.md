@@ -16,6 +16,7 @@ RubyとかOpalのことはすこし相談にのれるかもしれません。
 * 今日はお仕事モード
   * S3にファイルをアップロードする
   * RDSとかDocumentDBとかECSとか…
+* 今日はパソコンの部品が届くの予定なのでパソコン組み立てるかも
 * [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
 
 ## もしかしたら相談するかもしれないこと
@@ -24,3 +25,11 @@ RubyとかOpalのことはすこし相談にのれるかもしれません。
 
 ## 今日の成果
 
+* 仕事は一切進まず
+* ビデオカード1枚追加で購入
+* 起動
+
+    error: no such device: hoge-hoge
+    error: unknown filesystem
+    Entering rescue mode...
+    grub rescue>
