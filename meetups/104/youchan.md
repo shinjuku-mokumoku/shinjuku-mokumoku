@@ -25,3 +25,11 @@ RubyとかOpalのことはすこし相談にのれるかもしれません。
 
 ## 今日の成果
 
+* 仕事は一切進まず
+* ビデオカード1枚追加で購入
+* 起動
+
+    error: no such device: hoge-hoge
+    error: unknown filesystem
+    Entering rescue mode...
+    grub rescue>
