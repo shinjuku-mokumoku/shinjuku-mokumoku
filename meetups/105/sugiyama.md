@@ -20,4 +20,4 @@
 
 ## 今日の成果
 
-- TBD
+- Kubeflow Pipelines を Kind にデプロイできた
