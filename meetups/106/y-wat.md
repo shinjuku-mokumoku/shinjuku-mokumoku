@@ -18,4 +18,5 @@
 - 転職
 
 ## 今日の成果
-- atodekaku
+- 統計学の問題を解いてました。多い。
+  - [統計学演習](https://bellcurve.jp/statistics/book/20859.html)
