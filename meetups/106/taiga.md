@@ -21,4 +21,6 @@
 
 ## 今日の成果
 
-- TBD
+- Go製のpostgresqlのsql driverのソースを読んだ
+- かとじゅんさんの資料をひたすら読んだ
+- Kotlinを入れてHello worldに成功した(brewでinstallするだけだった)
