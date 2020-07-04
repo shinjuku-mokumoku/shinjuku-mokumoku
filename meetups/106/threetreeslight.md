@@ -14,9 +14,8 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日やること
 
-- [ ] last 1h! Study English
-- [ ] Make PreSaless role presentation for internal
-- [ ] Make Product Specialist role presentation for internal
+- [ ] agile文脈の自己組織化について整理
+- [ ] learning english 1.5h
 
 ## 相談するかもしれないこと
 
@@ -25,6 +24,5 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日の成果
 
-- [ ] agile文脈の自己組織化について整理
-- [ ] learning english 1.5h
-
+- [ ] WIP: agile文脈の自己組織化について整理
+- [x] learning english 1.5h
