@@ -24,3 +24,14 @@ RubyとかOpalのことはすこし相談にのれるかもしれません。
 ## もしかしたら相談するかもしれないこと
 
 ## 今日の成果
+
+* ついつい仕事のことが気になって、S3へのファイル転送のことを考えていました
+  * [AWS Transfer family](https://aws.amazon.com/jp/aws-transfer-family/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)
+  * 速そうなやつ => [CloudDat](https://www.dataexpedition.com/clouddat/aws/)
+  * 自前でやるなら
+    * [Open Source UDP File Transfer Tool Comparison - Bizety](https://www.bizety.com/2016/02/03/open-source-udp-file-transfer-tool-comparison/)
+    * [Tsunami](http://tsunami-udp.sourceforge.net/)なつかしい！
+    * この辺のUDP使うFile転送プロトコルは流行りがひと昔前という感じ
+    * イマドキならQUIC？
+* Kaggleのチュートリアルははじめてのサブミットまで出来ました。
+
