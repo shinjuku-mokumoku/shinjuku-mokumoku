@@ -11,7 +11,6 @@
 
 ## 今日やること
 
-- Kubeflow Pipeline を kind に Deploy
 - 深層学習入門書籍の執筆
 
 ## 相談するかもしれないこと
@@ -20,4 +19,14 @@
 
 ## 今日の成果
 
-- TBD
+- 新しく出てきた Tutorial を文章にどう反映させるか悩んだ
+
+## 1. CNN Explainer
+
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+- これがあれば記事を書く必要はないのでは…？
+
+## 2. TensorFlow Object Detection API
+
+- https://blog.tensorflow.org/2020/07/tensorflow-2-meets-object-detection-api.html を理解した
+- [[1904.07850] Objects as Points](https://arxiv.org/abs/1904.07850) を理解した
