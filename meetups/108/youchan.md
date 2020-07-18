@@ -25,3 +25,5 @@ RubyとかOpalのことはすこし相談にのれるかもしれません。
 
 ## 今日の成果
 
+* Pythonのチュートリアルをしてました。
+  * https://www.kaggle.com/learn/python
