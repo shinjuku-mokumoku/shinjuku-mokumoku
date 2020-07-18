@@ -12,4 +12,4 @@ WEBアプリのデータ分析、機械学習周り、マネジメント、新�
 
 ## 今日取り組むこと
 - 論文読む(The many Shapley values for model explanation)
-- 途中でSports Analyst Meetup #8に参加してます
+- 途中で[Sports Analyst Meetup #8](https://spoana.connpass.com/event/179989/)に参加してます
