@@ -14,8 +14,8 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日やること
 
-- [ ] Agile文脈の自己組織化について整理 その２
-- [ ] Learning english 1.5h
+- [ ] Learning english 1h(残speach、grammer)
+- [ ] メッチャ仕事ごめんなさい（みんなの意見をまとめる）
 
 ## 相談するかもしれないこと
 
@@ -23,7 +23,4 @@ VP of People at [Repro](https://repro.io)
 いろんなアーキテクチャのお話聞かせてください :raising_hand:
 
 ## 今日の成果
-
-- [ ] Agile文脈の自己組織化について整理 その２
-- [x] Learning english 1.5h
 
