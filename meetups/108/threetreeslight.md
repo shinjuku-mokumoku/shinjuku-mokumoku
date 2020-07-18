@@ -15,6 +15,7 @@ VP of People at [Repro](https://repro.io)
 ## 今日やること
 
 - [ ] Learning english 1h(残speach、grammer)
+- [ ] versant test受けるぞ！
 - [ ] メッチャ仕事ごめんなさい（みんなの意見をまとめる）
 
 ## 相談するかもしれないこと
