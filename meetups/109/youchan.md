@@ -28,3 +28,7 @@ RubyとかOpalのことはすこし相談にのれるかもしれません。
 
 ## 今日の成果
 
+* 論文長かった。そして論文読むのが遅いということがわかった。
+    * まだIntroductionを読んでいる。
+* Tama.rbに行ってきた
+    * https://tamarb.connpass.com/event/181956/
