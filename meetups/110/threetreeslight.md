@@ -16,6 +16,7 @@ VP of People at [Repro](https://repro.io)
 
 - [ ] Learning english 1.5h (remain: grammer, 1min speach)
 - [ ] 携帯修理（電源周り）
+- [ ] ベランダ掃除
 - [ ] 採用まわりの処理・準備
 - [ ] APACや社内のミーティング準備
 
