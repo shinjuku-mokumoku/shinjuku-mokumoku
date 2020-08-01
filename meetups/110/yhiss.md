@@ -13,3 +13,7 @@ WEBアプリのデータ分析、機械学習周り、マネジメント、新�
 
 ## 今日取り組むこと
 論文読む
+
+## 今日の成果
+Deep State Space Models for Time Series Forecasting(KDD accepted paper)を読みました。  
+今日中に纏め終わりそうな予感...
