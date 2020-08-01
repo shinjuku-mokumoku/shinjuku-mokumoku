@@ -27,3 +27,10 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日の成果
 
+- [x] Learning english 1.5h (remain: grammer, 1min speach)
+- [x] 携帯修理（電源周り）
+- [x] ベランダ掃除
+- [ ] WIP: 採用まわりの処理・準備
+- [ ] APACや社内のミーティング準備
+
+
