@@ -15,3 +15,4 @@ WEBアプリのデータ分析、機械学習周り、マネジメント、新�
 論文読む(深層学習系)
 
 ## 今日の成果
+ImageNet Classification with Deep Convolutional Neural Networks(通称Alex net)を読んで纏めています。(明日には終わりそう)
