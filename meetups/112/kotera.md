@@ -17,4 +17,11 @@
 
 - python jupyter labを理解する
 - doc2vecで遊ぶ
+  - docker構築
+     - python jupyter labを動かす
+     - mecabインストール
+       - versionが上がっていて、`unidic-lite`も入れないといけないところでハマった
+[![Image from Gyazo](https://i.gyazo.com/6fe7caa303115af188f5b66b4bde65f4.png)](https://gyazo.com/6fe7caa303115af188f5b66b4bde65f4)
+
 - python実践データ分析100本ノックをする
+  - 途中
