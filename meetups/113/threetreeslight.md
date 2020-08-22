@@ -26,3 +26,8 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日の成果
 
+- [x] Learning english 1.5h
+- [ ] culture.repro.io のjobs sortの変更
+- [ ] WIP: Development Div.のKPI Developer reviewのための準備
+- [ ] AWSの事例レビューの準備
+
