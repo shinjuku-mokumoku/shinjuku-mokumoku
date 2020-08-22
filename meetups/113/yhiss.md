@@ -16,5 +16,5 @@ WEBアプリのデータ分析、機械学習周り、マネジメント、新�
 
 ## 今日の成果
 ImageNet Classification with Deep Convolutional Neural Networksを読み終わり、[ブログ](https://yhiss.hatenablog.com/entry/2020/08/22/154702)にまとめました。  
-残りの時間はAttention Is All You Needを読んで終了。
+残りの時間はAttention Is All You Needを読んでいる途中で終了。
 
