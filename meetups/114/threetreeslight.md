@@ -25,3 +25,8 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日の成果
 
+- [x] Learning english 1.5h
+- [ ] AWSの事例レビューの準備
+- [x] off-site meetingの準備
+
+
