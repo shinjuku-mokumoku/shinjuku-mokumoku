@@ -19,3 +19,13 @@
   - Firestoreの設計
   - Firestoreの実装
   - `onSnapshot`を実装
+
+## 今日やったこと
+
+- Nuxt.js + Typescript + Firestore
+    -  Firestoreの設計
+        - noSQLの勉強し直し
+            - SubCollection, Key Queryの比較
+    - Firestoreの実装
+        - Collectionのread, writeはできた
+        - SubCollectionのwriteの部分で時間切れ
