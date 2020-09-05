@@ -13,4 +13,7 @@ Android アプリを作る
 Android アプリのこと
 
 ## 今日の成果
+・電卓アプリを作成
+https://github.com/TAKAHIRO-webdev/android_calculator
 
+・apk作って手元のandroid端末で動作確認
