@@ -49,8 +49,10 @@ XR を用いた遠隔コミュニケーションサービスの開発．</br>
 
 ### 午前
 
-TBD
+- Unity Certified Programmer Exam (Unity 認定プログラマー試験) 対策
+  - Unity Certified Programmer: Exam Guide 1 章 やった
 
 ### 午後
 
-TBD
+- Unity Certified Programmer Exam (Unity 認定プログラマー試験) 対策
+  - Unity Certified Programmer: Exam Guide 2 章 やってた
