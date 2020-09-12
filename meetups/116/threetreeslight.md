@@ -16,6 +16,7 @@ VP of People at [Repro](https://repro.io)
 
 - [ ] VPoEネタ登壇資料の準備
 - [ ] Learning english 1.5h
+- [ ] 時間があったら自動でconnpassから取るイベントの仕組みのバグ修正
 
 ## 相談するかもしれないこと
 
