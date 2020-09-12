@@ -19,3 +19,16 @@
   - firestoreでユーザ情報保存する
   - リアルタイム同期の仕組みを作る
   - tailwindcssでマシなデザインにする
+
+
+## 今日やったこと
+
+- サンプル
+  - https://mandalart-radicode.web.app/m/DFgTn4krmUYK2j8H9eqC
+- firestoreでユーザ情報保存する
+- リアルタイム同期の仕組みを作る
+- tailwindcssでマシなデザインにする
+  - 調整中
+- 感想
+  - 慣れれば簡単に作れそう。クッキー名が`__session`しか受け付けないなど細かい部分にはまる。
+  - SSR, CSRの使い分けが中途半端に互換性があるから気にしないといけない 
