@@ -42,3 +42,7 @@ XR を用いた遠隔コミュニケーションサービスの開発．</br>
 - CEDEC2020 のタイムシフト講演視聴
 
 ## 今日の成果
+
+- Unity Certified Programmer Exam (Unity 認定プログラマー試験) 対策
+
+  - Unity Certified Programmer: Exam Guide 3 章まで終わらせた
