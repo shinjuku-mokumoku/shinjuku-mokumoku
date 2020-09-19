@@ -13,3 +13,7 @@ UX
 
 ## 今日取り組むこと
 今日も論文読む(深層学習系:VGGNet)  
+
+## 今日の成果
+前半:家事  
+後半:論文(VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION(VGG Net))途中まで。
