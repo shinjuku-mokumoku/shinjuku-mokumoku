@@ -19,4 +19,5 @@
 
 ## 今日の成果
 
-- TBD
+- 編集部からの指摘事項を確認した
+- [[1409.0575] ImageNet Large Scale Visual Recognition Challenge](https://arxiv.org/abs/1409.0575) を読み直した
