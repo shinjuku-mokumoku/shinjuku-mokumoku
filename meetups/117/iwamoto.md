@@ -16,3 +16,4 @@ https://github.com/mattermost/mattermost-server/issues/15441
 ## 相談するかもしれないこと
 
 ## 今日の成果
+mattermostに[PR](https://github.com/mattermost/mattermost-webapp/pull/6501)を作成した
