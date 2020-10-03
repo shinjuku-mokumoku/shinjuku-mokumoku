@@ -14,3 +14,7 @@ UX
 ## 今日取り組むこと
 数理最適化を使った何か(献立自動生成とか)を作り始める予定。  
 画像認識のテキスト読む([Computer Vision: Algorithms and Applications 2nd Edition](http://szeliski.org/Book/))
+
+## 今日の成果
+先行事例やレシピのAPI探してました。  
+結局言語処理の問題にぶち当たりそうな予感がしています。
