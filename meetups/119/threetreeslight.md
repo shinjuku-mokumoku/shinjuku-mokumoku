@@ -25,4 +25,7 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日の成果
 
+- [x] Learning english 1h
+- [ ] WIP: 仕事のタスクの整理
+- [ ] Gatsbyで作った会社ブログのバグを直す
 
