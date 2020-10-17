@@ -16,6 +16,7 @@
 
 ## 今日やること
 
-- [ ] キーバインドkarabiner-elements設定
+- [x] キーバインドkarabiner-elements設定
+    - https://github.com/aretoky/karabiner
 - [ ] firebase firestore設計
 - [ ] 英語勉強
