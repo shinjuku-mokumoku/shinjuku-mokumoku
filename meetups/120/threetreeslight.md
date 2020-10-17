@@ -25,7 +25,7 @@ VP of People at [Repro](https://repro.io)
 
 ## 今日の成果
 
-- [ ] Learning english 0.5h
-- [ ] :joy: 月曜の営業準備
-- [ ] :joy: プロダクトの大量ユースケースレビュー
+- [x] Learning english 0.5h
+- [x] :joy: 月曜の営業準備
+- [ ] WIP: :joy: プロダクトの大量ユースケースレビュー
 
