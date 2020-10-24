@@ -2,7 +2,7 @@
 
 ## 会社や業務で普段やっていること
 
-- GolangでのGraphQL API, IoT連動システム開発
+- GoでのGraphQL API, IoT連動システム開発
 
 ## 相談乗れるかもしれないこと
 
