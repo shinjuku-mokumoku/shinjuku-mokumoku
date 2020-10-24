@@ -21,3 +21,12 @@
   - firestorage
 - (合間に)英語勉強
 - (合間に)Github actionsでできることをひたすら現プロジェクトに打ち込む
+
+## やったこと
+   
+- [ ] firebase
+  - [ ] 予約システム開発
+  - [ ] firestorage
+  - [x] shinjuku-mokumokuのfunctionsデバック
+- [ ] (合間に)英語勉強
+- [x] (合間に)Github actionsでできることをひたすら現プロジェクトに打ち込む
