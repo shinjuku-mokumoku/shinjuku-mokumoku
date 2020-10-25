@@ -24,7 +24,7 @@ Slack.create_channel = (name) => {
 };
 
 Slack.get_channel_id = (name, cursor) => {
-  const data = { token: Slack.token, exclude_archived: true };
+  const data = { token: Slack.token, exclude_archived: true, limit: 1000 };
   if (cursor !== null) { data.cursor = cursor; }
 
   return axios.get(`https://slack.com/api/conversations.list?${querystring.stringify(data)}`).then((response) => {
