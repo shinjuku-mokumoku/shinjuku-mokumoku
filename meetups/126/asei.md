@@ -20,4 +20,5 @@
 
 ## 今日の成果
 
-- TBD
+- Twitter で強キャラを見つけてしまって目を奪われていた
+- https://gitlocalize.com/repo/4592/ja/site/en-snapshot/tfx/guide/tfdv.md 途中まで訳した
