@@ -22,4 +22,5 @@
 
 ## 今日の成果
 
-- TBD
+- [git commit](https://github.com/treby/treby.github.io/commit/b3c103c885bb24810bcebe01ad0a9dc6e376a9cd)した！
+- ポートフォリオのコードは10ヶ月ぶりに触ったらしい
