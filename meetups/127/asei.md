@@ -20,4 +20,4 @@
 
 ## 今日の成果
 
-- TBD
+- TensorFlow Data Validation のドキュメント翻訳 (途中まで)
