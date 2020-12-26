@@ -14,3 +14,6 @@ UX
 ## 今日取り組むこと
 - 論文:Problems with Shapley-value-based explanations as feature importance
 measuresを読みます
+
+## 今日の成果
+- 論文を読んでいましたが、既存手法の数学的な問題についての記述が上手く理解できず、読み解くのが無理なのではないかと思っています
