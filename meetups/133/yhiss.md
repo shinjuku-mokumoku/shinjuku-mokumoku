@@ -15,3 +15,5 @@ WEBアプリのデータ分析、機械学習周り、マネジメント、新�
 ## 今日取り組むこと
 - 論文読みます。
 
+## 今日の成果
+[How Does Data Augmentation Affect Privacy in Machine Learning?](https://arxiv.org/pdf/2007.10567.pdf)を読んでます(終わってない)
