@@ -19,4 +19,4 @@
 
 ## 今日の成果
 
-- TBD
+- [A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks](https://www.tandfonline.com/doi/full/10.1080/09332480.2019.1579578) の読書メモ
