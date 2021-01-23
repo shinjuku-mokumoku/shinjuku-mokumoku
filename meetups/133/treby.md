@@ -12,6 +12,7 @@
 
 - LINE botづくり
 - LT資料作成
+  - https://engineercafe.connpass.com/event/201660/
 
 ## 相談するかもしれないこと
 
@@ -19,5 +20,4 @@
 
 ## 今日の成果
 
-- 
-- 
+- LT大体できた！
