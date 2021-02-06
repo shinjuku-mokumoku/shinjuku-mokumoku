@@ -16,3 +16,4 @@ WEBアプリのデータ分析、機械学習周り、マネジメント、新�
 - 論文読みます。(Modeling the Field Value Variations and Field Interactions Simultaneously for Fraud Detection)
 
 ## 今日の成果
+- 上の論文読んでいる途中で終了(今日中には終わりそう)
