@@ -19,5 +19,6 @@
 
 ## 今日の成果
 
-- TBD
+- mock system design interviewをやった
+- 企業研究、話すことのネタを下書き中
 
