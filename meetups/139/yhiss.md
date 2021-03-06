@@ -16,3 +16,7 @@ WEBアプリのデータ分析、機械学習周り、マネジメント、新�
 - ワークショップに参加します
   - [RST研究会](http://www.ai.comp.ae.keio.ac.jp/rst2021/index.html)
 - 他の時間は論文読む予定
+
+## 成果
+- [ワークショップ](http://www.ai.comp.ae.keio.ac.jp/rst2021/index.html)に参加中
+- 論文:[A Hybrid Probabilistic Approach for Table Understanding](https://www.jaypujara.org/pubs/2021/sun-aaai21/sun-aaai21.pdf)を読んでる
