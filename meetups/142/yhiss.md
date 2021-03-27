@@ -15,3 +15,6 @@ WEBアプリのデータ分析、機械学習周り、マネジメント、新�
 ## 今日取り組むこと
 - 論文読みます(Exploratory Machine Learning with Unknown Unknowns)
 - 1時間英会話
+## 今日の成果
+- [論文](https://arxiv.org/pdf/2002.01605.pdf)は読んでいる途中(明日までに終わらないかもしれない)
+- 1時間英会話
