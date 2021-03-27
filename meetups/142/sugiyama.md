@@ -20,4 +20,5 @@
 
 ## 今日の成果
 
-- TBD
+- https://github.com/tensorflow/docs-l10n/pull/498
+- https://qiita.com/Ryuichirou/items/44782c7119edb9818c15#feast%E3%81%AE%E5%AE%9F%E8%A3%85
