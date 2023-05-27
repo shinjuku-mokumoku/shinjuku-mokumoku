@@ -10,8 +10,8 @@ EventDirCreator.setup(process.env.GITHUB_API_TOKEN);
 
 const nextEventNum = EventDirCreator.getNextEventNum();
 
-EventDirCreator.createDirWithNum(nextEventNum);
-EventDirCreator.createPullRequestWithNum(nextEventNum);
+// EventDirCreator.createDirWithNum(nextEventNum);
+// EventDirCreator.createPullRequestWithNum(nextEventNum);
 
 const eventDate = moment()
   .day("Saturday")

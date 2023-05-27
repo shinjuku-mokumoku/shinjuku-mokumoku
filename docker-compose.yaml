@@ -26,7 +26,7 @@ services:
     environment:
       GITHUB_API_TOKEN: ${GITHUB_API_TOKEN}
     volumes:
-      - ./:/app
+      - ./:/src
       - scripts_node_modules:/app/scripts/node_modules
 
 volumes:

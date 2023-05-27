@@ -13,7 +13,11 @@ ConnpassEventCreator.create = async settings => {
   const user = process.env.CONNPASS_USER;
   const password = process.env.CONNPASS_PASSWORD;
 
-  const browser = await puppeteer.launch({ headless: true });
+  // const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({
+    executablePath: '/usr/bin/chromium-browser',
+    headless: true
+  });
   const page = await browser.newPage();
   await page.setViewport({ width: 1440, height: 766 });
 
